@@ -22,6 +22,7 @@ const els = {
   summaryText: document.getElementById('summaryText'),
   restartBtn: document.getElementById('restartBtn'),
   modeToggle: document.getElementById('modeToggle'),
+  resetBtn: document.getElementById('resetBtn'),
   shareBtn: document.getElementById('shareBtn'),
   howBtn: document.getElementById('howBtn')
 };
@@ -209,6 +210,32 @@ function restart() {
   renderGame(CONFIG.mode === 'daily' ? selectDailyGame() : pickNextGame() || randomFromArray(state.games));
 }
 
+function resetGame() {
+  // Clear all localStorage data
+  localStorage.removeItem('gtw.streak');
+  localStorage.removeItem('gtw.best');
+  localStorage.removeItem('gtw.strikes');
+  localStorage.removeItem('gtw.played');
+  localStorage.removeItem('gtw.correct');
+  
+  // Reset all stats
+  streak = 0;
+  bestStreak = 0;
+  strikes = 0;
+  gamesPlayed = 0;
+  correctCount = 0;
+  
+  // Clear seen games
+  state.seenIds.clear();
+  
+  // Update UI
+  updateHeader();
+  hideGameOver();
+  
+  // Start fresh game
+  renderGame(CONFIG.mode === 'daily' ? selectDailyGame() : pickNextGame() || randomFromArray(state.games));
+}
+
 function toggleMode() {
   CONFIG.mode = CONFIG.mode === 'random' ? 'daily' : 'random';
   els.modeToggle.textContent = `Daily: ${CONFIG.mode === 'daily' ? 'On' : 'Off'}`;
@@ -297,6 +324,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   els.nextBtn.addEventListener('click', nextGame);
   els.restartBtn.addEventListener('click', restart);
   els.modeToggle.addEventListener('click', toggleMode);
+  els.resetBtn.addEventListener('click', resetGame);
   els.shareBtn.addEventListener('click', shareStreak);
   els.howBtn.addEventListener('click', howTo);
 
