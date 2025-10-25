@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2019-10-05-UGA-TENN",
+    "season": 2019,
+    "date": "2019-10-05",
+    "teamA": { "name": "Georgia", "abbr": "UGA",  "score": 31 },
+    "teamB": { "name": "Tennessee", "abbr": "TENN", "score": 21 },
+    "winner": "UGA"
+  },
+  {
+    "id": "2020-11-14-BAMA-LSU",
+    "season": 2020,
+    "date": "2020-11-14",
+    "teamA": { "name": "Alabama", "abbr": "BAMA", "score": 55 },
+    "teamB": { "name": "LSU", "abbr": "LSU", "score": 17 },
+    "winner": "BAMA"
+  },
+  {
+    "id": "2021-10-09-OU-TEX",
+    "season": 2021,
+    "date": "2021-10-09",
+    "teamA": { "name": "Oklahoma", "abbr": "OU", "score": 55 },
+    "teamB": { "name": "Texas", "abbr": "TEX", "score": 48 },
+    "winner": "OU"
+  },
+  {
+    "id": "2018-11-03-LSU-BAMA",
+    "season": 2018,
+    "date": "2018-11-03",
+    "teamA": { "name": "LSU", "abbr": "LSU", "score": 0 },
+    "teamB": { "name": "Alabama", "abbr": "BAMA", "score": 29 },
+    "winner": "BAMA"
+  },
+  {
+    "id": "2022-01-10-UGA-BAMA",
+    "season": 2021,
+    "date": "2022-01-10",
+    "teamA": { "name": "Georgia", "abbr": "UGA", "score": 33 },
+    "teamB": { "name": "Alabama", "abbr": "BAMA", "score": 18 },
+    "winner": "UGA"
+  },
+  {
+    "id": "2019-10-12-LSU-FL",
+    "season": 2019,
+    "date": "2019-10-12",
+    "teamA": { "name": "LSU", "abbr": "LSU", "score": 42 },
+    "teamB": { "name": "Florida", "abbr": "FLA", "score": 28 },
+    "winner": "LSU"
+  },
+  {
+    "id": "2017-09-09-UGA-ND",
+    "season": 2017,
+    "date": "2017-09-09",
+    "teamA": { "name": "Georgia", "abbr": "UGA", "score": 20 },
+    "teamB": { "name": "Notre Dame", "abbr": "ND", "score": 19 },
+    "winner": "UGA"
+  },
+  {
+    "id": "2019-09-07-TEX-LSU",
+    "season": 2019,
+    "date": "2019-09-07",
+    "teamA": { "name": "Texas", "abbr": "TEX", "score": 38 },
+    "teamB": { "name": "LSU", "abbr": "LSU", "score": 45 },
+    "winner": "LSU"
+  },
+  {
+    "id": "2019-12-07-OU-BAY",
+    "season": 2019,
+    "date": "2019-12-07",
+    "teamA": { "name": "Oklahoma", "abbr": "OU", "score": 30 },
+    "teamB": { "name": "Baylor", "abbr": "BAY", "score": 23 },
+    "winner": "OU"
+  },
+  {
+    "id": "2023-01-09-GA-TCU",
+    "season": 2022,
+    "date": "2023-01-09",
+    "teamA": { "name": "Georgia", "abbr": "UGA", "score": 65 },
+    "teamB": { "name": "TCU", "abbr": "TCU", "score": 7 },
+    "winner": "UGA"
+  }
+]

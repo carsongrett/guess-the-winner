@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Winner</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <div class="brand">Guess the Winner</div>
+      <div class="stats">
+        <div class="chip" id="streakChip">Streak: 0</div>
+        <div class="chip" id="bestChip">Best: 0</div>
+        <div class="chip" id="accuracyChip">Acc: 0%</div>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <div class="card">
+        <div class="subtitle" id="subtitle">Loading...</div>
+        <div class="matchup">
+          <button class="team-btn" id="btnA">
+            <div class="team-logo"></div>
+            <div class="team-name"></div>
+          </button>
+          <div class="vs">VS</div>
+          <button class="team-btn" id="btnB">
+            <div class="team-logo"></div>
+            <div class="team-name"></div>
+          </button>
+        </div>
+        <div class="result-row" id="resultRow" hidden>Result will appear here</div>
+        <div class="actions">
+          <button class="next-btn" id="nextBtn" hidden>Next Game</button>
+        </div>
+      </div>
+      <div class="ad-banner">Ad Space</div>
+    </main>
+
+    <footer class="app-footer">
+      <div class="strikes">
+        <div class="strike" id="strike1"></div>
+        <div class="strike" id="strike2"></div>
+        <div class="strike" id="strike3"></div>
+      </div>
+      <div class="actions">
+        <button class="linklike" id="modeToggle">Daily: Off</button>
+        <button class="linklike" id="shareBtn">Share</button>
+        <button class="linklike" id="howBtn">How</button>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Game Over Modal -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-content">
+      <h3>Game Over!</h3>
+      <p id="summaryText">Your streak has ended.</p>
+      <button class="next-btn" id="restartBtn">Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

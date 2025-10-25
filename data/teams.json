@@ -1,0 +1,8 @@
+{
+  "Georgia":   { "abbr": "UGA",  "logo": "icons/georgia.png" },
+  "Tennessee": { "abbr": "TENN", "logo": "icons/tennessee.png" },
+  "Alabama":   { "abbr": "BAMA", "logo": "icons/alabama.png" },
+  "LSU":       { "abbr": "LSU",  "logo": "icons/lsu.png" },
+  "Texas":     { "abbr": "TEX",  "logo": "icons/texas.png" },
+  "Oklahoma":  { "abbr": "OU",   "logo": "icons/oklahoma.png" }
+}
