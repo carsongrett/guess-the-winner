@@ -30,6 +30,10 @@
               <span class="category-icon">🏈</span>
               <span class="category-text">2025</span>
             </button>
+            <button class="category-option" data-category="cfb-last-week">
+              <span class="category-icon">🏈</span>
+              <span class="category-text">Last Week</span>
+            </button>
           </div>
         </div>
         <div class="stats">
@@ -105,6 +109,11 @@
             <div class="category-name">2025</div>
             <div class="category-desc">2025 season</div>
           </button>
+          <button class="category-btn" data-category="cfb-last-week">
+            <div class="category-icon">🏈</div>
+            <div class="category-name">Last Week</div>
+            <div class="category-desc">Latest games</div>
+          </button>
         </div>
       </div>
       
@@ -123,6 +132,11 @@
   <!-- Game Over Modal -->
   <div class="modal" id="gameOverModal" hidden>
     <div class="modal-content">
+      <button class="modal-close" id="modalCloseBtn" aria-label="Close modal">
+        <svg viewBox="0 0 24 24" width="20" height="20">
+          <path fill="currentColor" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+        </svg>
+      </button>
       <div class="modal-header">
         <h2>Game Over!</h2>
       </div>

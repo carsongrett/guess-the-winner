@@ -418,7 +418,7 @@ html, body {
 
 .category-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 12px;
   margin-bottom: 15px;
 }
@@ -512,6 +512,33 @@ html, body {
   overflow-y: auto;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
   border: 1px solid var(--border);
+  position: relative;
+}
+
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--fg);
+  transition: opacity 0.2s ease;
+  z-index: 10;
+}
+
+.modal-close:hover {
+  opacity: 0.6;
+}
+
+.modal-close:focus {
+  outline: 2px solid var(--fg);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
 
 .modal-header {

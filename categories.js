@@ -15,6 +15,15 @@ const CATEGORIES = {
     dataFile: 'data/games-2025.json',
     teamsFile: 'data/teams-2025.json',
     available: true
+  },
+  'cfb-last-week': {
+    name: 'Last Week',
+    description: 'Most recent week\'s games',
+    icon: '🏈',
+    dataFile: 'data/games-2025.json', // Same file, but filtered
+    teamsFile: 'data/teams-2025.json',
+    available: true,
+    filterLatestWeek: true // Special flag for filtering
   }
 };
 

@@ -52,7 +52,8 @@ const els = {
   bestScoreDisplay: document.getElementById('bestScoreDisplay'),
   accuracyDisplay: document.getElementById('accuracyDisplay'),
   shareScoreBtn: document.getElementById('shareScoreBtn'),
-  playAgainBtn: document.getElementById('playAgainBtn')
+  playAgainBtn: document.getElementById('playAgainBtn'),
+  modalCloseBtn: document.getElementById('modalCloseBtn')
 };
 
 // ============================================================================
@@ -195,8 +196,12 @@ function handleGuess(choiceAbbr) {
   } else {
     strikes++;
   if (strikes >= CONFIG.maxStrikes) {
-    // Show Game Over modal
-    showGameOverModal();
+    // Show game over text immediately
+    els.gameOverText.hidden = false;
+    // Delay Game Over modal by 1 second so user can see the last result
+    setTimeout(() => {
+      showGameOverModal();
+    }, 1000);
   }
   }
 
@@ -394,7 +399,11 @@ function selectCategory(categoryId) {
     
     // Update header switcher
     const category = CATEGORIES[categoryId];
-    els.currentCategoryName.textContent = category.name.split(' ').pop();
+    if (categoryId === 'cfb-last-week') {
+      els.currentCategoryName.textContent = 'Last Week';
+    } else {
+      els.currentCategoryName.textContent = category.name.split(' ').pop();
+    }
     
     // Enable start button
     els.startGameBtn.disabled = false;
@@ -414,6 +423,9 @@ function loadCategoryData(categoryId) {
     els.footnote.textContent = 'Games from 2021-2024.';
   } else if (categoryId === 'cfb-2025') {
     els.footnote.textContent = 'Games from 2025 season.';
+  } else if (categoryId === 'cfb-last-week') {
+    // Will update after loading games to show week number
+    els.footnote.textContent = 'Loading latest week...';
   }
   
   // Load games and teams data for the selected category
@@ -421,10 +433,41 @@ function loadCategoryData(categoryId) {
     fetch(category.dataFile).then(r => r.json()),
     fetch(category.teamsFile).then(r => r.json())
   ]).then(([games, teams]) => {
-    state.games = games;
+    // Filter to latest week if needed
+    if (category.filterLatestWeek) {
+      const filteredGames = filterLatestWeekGames(games);
+      state.games = filteredGames.games;
+      if (filteredGames.week) {
+        els.footnote.textContent = `Games from Week ${filteredGames.week}.`;
+      }
+    } else {
+      state.games = games;
+    }
     state.teams = teams;
-    console.log(`Loaded ${games.length} games for ${category.name}`);
+    console.log(`Loaded ${state.games.length} games for ${category.name}`);
   });
+}
+
+function filterLatestWeekGames(games) {
+  // Find the highest week number in the games
+  let maxWeek = 0;
+  games.forEach(game => {
+    const match = game.id.match(/^2025-(\d+)-/);
+    if (match) {
+      const week = parseInt(match[1], 10);
+      if (week > maxWeek) {
+        maxWeek = week;
+      }
+    }
+  });
+  
+  // Filter games to only include that week
+  const filtered = games.filter(game => {
+    const match = game.id.match(/^2025-(\d+)-/);
+    return match && parseInt(match[1], 10) === maxWeek;
+  });
+  
+  return { games: filtered, week: maxWeek };
 }
 
 // Category switcher functions
@@ -445,7 +488,11 @@ function switchCategory(categoryId) {
   currentCategory = categoryId;
   
   // Update UI
-  els.currentCategoryName.textContent = category.name.split(' ').pop(); // Get last part (e.g., "2021-2024")
+  if (categoryId === 'cfb-last-week') {
+    els.currentCategoryName.textContent = 'Last Week';
+  } else {
+    els.currentCategoryName.textContent = category.name.split(' ').pop(); // Get last part (e.g., "2021-2024")
+  }
   
   // Update selected state in dropdown
   els.categoryOptions.forEach(option => {
@@ -616,6 +663,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   // Game Over Modal events
   els.shareScoreBtn.addEventListener('click', shareScore);
   els.playAgainBtn.addEventListener('click', playAgain);
+  els.modalCloseBtn.addEventListener('click', hideGameOverModal);
 
   updateHeader();
   registerSW();
