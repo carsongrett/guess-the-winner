@@ -1,0 +1,7370 @@
+{
+  "Abilene Christian": {
+    "abbr": "ACU",
+    "logo": "icons/abilene-christian.png"
+  },
+  "Adams State": {
+    "abbr": "ADST",
+    "logo": "icons/adams-state.png"
+  },
+  "Adrian": {
+    "abbr": "ADR",
+    "logo": "icons/adrian.png"
+  },
+  "Air Force": {
+    "abbr": "AF",
+    "logo": "icons/air-force.png"
+  },
+  "Akron": {
+    "abbr": "AKR",
+    "logo": "icons/akron.png"
+  },
+  "Akron Westfield Senior": {
+    "abbr": null,
+    "logo": "icons/akron-westfield-senior.png"
+  },
+  "Alabama": {
+    "abbr": "ALA",
+    "logo": "icons/alabama.png"
+  },
+  "Alabama A&M": {
+    "abbr": "AAMU",
+    "logo": "icons/alabama-a&m.png"
+  },
+  "Alabama State": {
+    "abbr": "ALST",
+    "logo": "icons/alabama-state.png"
+  },
+  "Albany": {
+    "abbr": null,
+    "logo": "icons/albany.png"
+  },
+  "Albany State": {
+    "abbr": null,
+    "logo": "icons/albany-state.png"
+  },
+  "Albany State GA": {
+    "abbr": "ALBS",
+    "logo": "icons/albany-state-ga.png"
+  },
+  "Albion": {
+    "abbr": "ALBI",
+    "logo": "icons/albion.png"
+  },
+  "Albright": {
+    "abbr": "ALB",
+    "logo": "icons/albright.png"
+  },
+  "Alcorn State": {
+    "abbr": "ALCN",
+    "logo": "icons/alcorn-state.png"
+  },
+  "Alderson-Broaddus": {
+    "abbr": "ABC",
+    "logo": "icons/alderson-broaddus.png"
+  },
+  "Alfred State": {
+    "abbr": "ALFS",
+    "logo": "icons/alfred-state.png"
+  },
+  "Alfred University": {
+    "abbr": "ALF",
+    "logo": "icons/alfred-university.png"
+  },
+  "Allegheny": {
+    "abbr": "ALL",
+    "logo": "icons/allegheny.png"
+  },
+  "Allen": {
+    "abbr": "ALL",
+    "logo": "icons/allen.png"
+  },
+  "Alma": {
+    "abbr": null,
+    "logo": "icons/alma.png"
+  },
+  "American": {
+    "abbr": null,
+    "logo": "icons/american.png"
+  },
+  "American International": {
+    "abbr": "AIC",
+    "logo": "icons/american-international.png"
+  },
+  "American River C.C.": {
+    "abbr": null,
+    "logo": "icons/american-river-c.c..png"
+  },
+  "Amherst": {
+    "abbr": "AMH",
+    "logo": "icons/amherst.png"
+  },
+  "Anderson (IN)": {
+    "abbr": "AND",
+    "logo": "icons/anderson-(in).png"
+  },
+  "Anderson (Sc)": {
+    "abbr": "AND",
+    "logo": "icons/anderson-(sc).png"
+  },
+  "Angelo State": {
+    "abbr": "ANG",
+    "logo": "icons/angelo-state.png"
+  },
+  "Anna Maria College": {
+    "abbr": "ANN",
+    "logo": "icons/anna-maria-college.png"
+  },
+  "Apprentice School": {
+    "abbr": "APPRE",
+    "logo": "icons/apprentice-school.png"
+  },
+  "App State": {
+    "abbr": "APP",
+    "logo": "icons/app-state.png"
+  },
+  "Arizona": {
+    "abbr": "ARIZ",
+    "logo": "icons/arizona.png"
+  },
+  "Arizona State": {
+    "abbr": "ASU",
+    "logo": "icons/arizona-state.png"
+  },
+  "Arkansas": {
+    "abbr": "ARK",
+    "logo": "icons/arkansas.png"
+  },
+  "Arkansas-Monticello": {
+    "abbr": "ARKMONT",
+    "logo": "icons/arkansas-monticello.png"
+  },
+  "Arkansas-Pine Bluff": {
+    "abbr": "UAPB",
+    "logo": "icons/arkansas-pine-bluff.png"
+  },
+  "Arkansas State": {
+    "abbr": "ARST",
+    "logo": "icons/arkansas-state.png"
+  },
+  "Arkansas Tech": {
+    "abbr": "ARKTECH",
+    "logo": "icons/arkansas-tech.png"
+  },
+  "Army": {
+    "abbr": "ARMY",
+    "logo": "icons/army.png"
+  },
+  "Ashland": {
+    "abbr": "ASH",
+    "logo": "icons/ashland.png"
+  },
+  "Ashland University": {
+    "abbr": null,
+    "logo": "icons/ashland-university.png"
+  },
+  "Assumption": {
+    "abbr": "ASP",
+    "logo": "icons/assumption.png"
+  },
+  "Auburn": {
+    "abbr": "AUB",
+    "logo": "icons/auburn.png"
+  },
+  "Augsburg": {
+    "abbr": "AUG",
+    "logo": "icons/augsburg.png"
+  },
+  "Augustana": {
+    "abbr": null,
+    "logo": "icons/augustana.png"
+  },
+  "Augustana (IL)": {
+    "abbr": "AUGIL",
+    "logo": "icons/augustana-(il).png"
+  },
+  "Augustana University (SD)": {
+    "abbr": "AUSD",
+    "logo": "icons/augustana-university-(sd).png"
+  },
+  "Aurora": {
+    "abbr": "AUR",
+    "logo": "icons/aurora.png"
+  },
+  "Aurora University": {
+    "abbr": null,
+    "logo": "icons/aurora-university.png"
+  },
+  "Austin": {
+    "abbr": null,
+    "logo": "icons/austin.png"
+  },
+  "Austin Peay": {
+    "abbr": "APSU",
+    "logo": "icons/austin-peay.png"
+  },
+  "Ave Maria University": {
+    "abbr": "AVE M",
+    "logo": "icons/ave-maria-university.png"
+  },
+  "Averett": {
+    "abbr": "AVE",
+    "logo": "icons/averett.png"
+  },
+  "Avila University": {
+    "abbr": "AVILA",
+    "logo": "icons/avila-university.png"
+  },
+  "Azusa Pacific": {
+    "abbr": "AZU",
+    "logo": "icons/azusa-pacific.png"
+  },
+  "Bacone College": {
+    "abbr": "BKN",
+    "logo": "icons/bacone-college.png"
+  },
+  "Baker University": {
+    "abbr": "BAK",
+    "logo": "icons/baker-university.png"
+  },
+  "Baldwin Wallace": {
+    "abbr": "BAL",
+    "logo": "icons/baldwin-wallace.png"
+  },
+  "Ball State": {
+    "abbr": "BALL",
+    "logo": "icons/ball-state.png"
+  },
+  "Barton C.C.": {
+    "abbr": null,
+    "logo": "icons/barton-c.c..png"
+  },
+  "Bates": {
+    "abbr": "BAT",
+    "logo": "icons/bates.png"
+  },
+  "Baylor": {
+    "abbr": "BAY",
+    "logo": "icons/baylor.png"
+  },
+  "Becker College": {
+    "abbr": "BEC",
+    "logo": "icons/becker-college.png"
+  },
+  "Beloit": {
+    "abbr": "BEL",
+    "logo": "icons/beloit.png"
+  },
+  "Bemidji State": {
+    "abbr": "BST",
+    "logo": "icons/bemidji-state.png"
+  },
+  "Benedict College": {
+    "abbr": "BEN",
+    "logo": "icons/benedict-college.png"
+  },
+  "Benedictine College": {
+    "abbr": "BENC",
+    "logo": "icons/benedictine-college.png"
+  },
+  "Benedictine University": {
+    "abbr": "BENILL",
+    "logo": "icons/benedictine-university.png"
+  },
+  "Bentley": {
+    "abbr": "BENT",
+    "logo": "icons/bentley.png"
+  },
+  "Berry College": {
+    "abbr": "BER",
+    "logo": "icons/berry-college.png"
+  },
+  "Bethany Co": {
+    "abbr": null,
+    "logo": "icons/bethany-co.png"
+  },
+  "Bethany (KS)": {
+    "abbr": "BETHA",
+    "logo": "icons/bethany-(ks).png"
+  },
+  "Bethany (WV)": {
+    "abbr": "BETHWV",
+    "logo": "icons/bethany-(wv).png"
+  },
+  "Bethel Col": {
+    "abbr": null,
+    "logo": "icons/bethel-col.png"
+  },
+  "Bethel (MN)": {
+    "abbr": "BET",
+    "logo": "icons/bethel-(mn).png"
+  },
+  "Bethel University Tennessee": {
+    "abbr": "BETHTN",
+    "logo": "icons/bethel-university-tennessee.png"
+  },
+  "Bethune-Cookman": {
+    "abbr": "BCU",
+    "logo": "icons/bethune-cookman.png"
+  },
+  "Biddeford": {
+    "abbr": "NWENG",
+    "logo": "icons/biddeford.png"
+  },
+  "Birmingham-Southern": {
+    "abbr": "BIR",
+    "logo": "icons/birmingham-southern.png"
+  },
+  "Blackburn": {
+    "abbr": "BLA",
+    "logo": "icons/blackburn.png"
+  },
+  "Black Hills State": {
+    "abbr": "BHST",
+    "logo": "icons/black-hills-state.png"
+  },
+  "Blinn College": {
+    "abbr": null,
+    "logo": "icons/blinn-college.png"
+  },
+  "Bloomsburg": {
+    "abbr": "BLMSB",
+    "logo": "icons/bloomsburg.png"
+  },
+  "BLUEFIELD": {
+    "abbr": "BLU",
+    "logo": "icons/bluefield.png"
+  },
+  "Bluefield State": {
+    "abbr": "BLU",
+    "logo": "icons/bluefield-state.png"
+  },
+  "Bluffton": {
+    "abbr": "BLUFFTON",
+    "logo": "icons/bluffton.png"
+  },
+  "Boise State": {
+    "abbr": "BOIS",
+    "logo": "icons/boise-state.png"
+  },
+  "Boston College": {
+    "abbr": "BC",
+    "logo": "icons/boston-college.png"
+  },
+  "Bowdoin": {
+    "abbr": "BOW",
+    "logo": "icons/bowdoin.png"
+  },
+  "Bowie State": {
+    "abbr": "BSU",
+    "logo": "icons/bowie-state.png"
+  },
+  "Bowling Green": {
+    "abbr": "BGSU",
+    "logo": "icons/bowling-green.png"
+  },
+  "Brevard College": {
+    "abbr": "BRE",
+    "logo": "icons/brevard-college.png"
+  },
+  "Bridgewater State": {
+    "abbr": "BRST",
+    "logo": "icons/bridgewater-state.png"
+  },
+  "Bridgewater (VA)": {
+    "abbr": "BRVA",
+    "logo": "icons/bridgewater-(va).png"
+  },
+  "British Columbia": {
+    "abbr": "BRI",
+    "logo": "icons/british-columbia.png"
+  },
+  "Brockport": {
+    "abbr": "BRO",
+    "logo": "icons/brockport.png"
+  },
+  "Brown": {
+    "abbr": "BRWN",
+    "logo": "icons/brown.png"
+  },
+  "Bryant": {
+    "abbr": "BRY",
+    "logo": "icons/bryant.png"
+  },
+  "Bucknell": {
+    "abbr": "BUCK",
+    "logo": "icons/bucknell.png"
+  },
+  "Buena Vista": {
+    "abbr": "BUENA",
+    "logo": "icons/buena-vista.png"
+  },
+  "Buffalo": {
+    "abbr": "BUF",
+    "logo": "icons/buffalo.png"
+  },
+  "Buffalo State": {
+    "abbr": "BUF",
+    "logo": "icons/buffalo-state.png"
+  },
+  "Butler": {
+    "abbr": "BUT",
+    "logo": "icons/butler.png"
+  },
+  "Butler C.C.": {
+    "abbr": null,
+    "logo": "icons/butler-c.c..png"
+  },
+  "Butler County (KS)": {
+    "abbr": null,
+    "logo": "icons/butler-county-(ks).png"
+  },
+  "BYU": {
+    "abbr": "BYU",
+    "logo": "icons/byu.png"
+  },
+  "California": {
+    "abbr": "CAL",
+    "logo": "icons/california.png"
+  },
+  "California Lutheran University": {
+    "abbr": "CALLUTH",
+    "logo": "icons/california-lutheran-university.png"
+  },
+  "California, Pa.": {
+    "abbr": null,
+    "logo": "icons/california,-pa..png"
+  },
+  "Cal Poly": {
+    "abbr": "CP",
+    "logo": "icons/cal-poly.png"
+  },
+  "Calvin University": {
+    "abbr": "CAL",
+    "logo": "icons/calvin-university.png"
+  },
+  "Campbell": {
+    "abbr": "CAM",
+    "logo": "icons/campbell.png"
+  },
+  "Campbellsville": {
+    "abbr": null,
+    "logo": "icons/campbellsville.png"
+  },
+  "Campbellsville University": {
+    "abbr": "CMPBVIL",
+    "logo": "icons/campbellsville-university.png"
+  },
+  "Capital": {
+    "abbr": "CAPITAL",
+    "logo": "icons/capital.png"
+  },
+  "Carleton": {
+    "abbr": "CARLETON",
+    "logo": "icons/carleton.png"
+  },
+  "Carnegie Mellon": {
+    "abbr": "CARM",
+    "logo": "icons/carnegie-mellon.png"
+  },
+  "Carroll College": {
+    "abbr": null,
+    "logo": "icons/carroll-college.png"
+  },
+  "Carroll University (WI)": {
+    "abbr": "CAR",
+    "logo": "icons/carroll-university-(wi).png"
+  },
+  "Carson-Newman College": {
+    "abbr": "CAR",
+    "logo": "icons/carson-newman-college.png"
+  },
+  "Carthage": {
+    "abbr": "CARCWI",
+    "logo": "icons/carthage.png"
+  },
+  "Case Western Reserve": {
+    "abbr": "CSR",
+    "logo": "icons/case-western-reserve.png"
+  },
+  "Castleton": {
+    "abbr": "CAS",
+    "logo": "icons/castleton.png"
+  },
+  "Catawba": {
+    "abbr": "CAT",
+    "logo": "icons/catawba.png"
+  },
+  "Catholic": {
+    "abbr": null,
+    "logo": "icons/catholic.png"
+  },
+  "CENTENARY": {
+    "abbr": "CEN",
+    "logo": "icons/centenary.png"
+  },
+  "Central Arkansas": {
+    "abbr": "CARK",
+    "logo": "icons/central-arkansas.png"
+  },
+  "Central College": {
+    "abbr": "CNTCIA",
+    "logo": "icons/central-college.png"
+  },
+  "Central Connecticut": {
+    "abbr": "CCSU",
+    "logo": "icons/central-connecticut.png"
+  },
+  "Central Methodist": {
+    "abbr": "CDF",
+    "logo": "icons/central-methodist.png"
+  },
+  "Central Michigan": {
+    "abbr": "CMU",
+    "logo": "icons/central-michigan.png"
+  },
+  "Central Missouri": {
+    "abbr": "CEN",
+    "logo": "icons/central-missouri.png"
+  },
+  "Central Missouri State": {
+    "abbr": null,
+    "logo": "icons/central-missouri-state.png"
+  },
+  "Central Oklahoma": {
+    "abbr": "CENO",
+    "logo": "icons/central-oklahoma.png"
+  },
+  "Central State (OH)": {
+    "abbr": "CEN",
+    "logo": "icons/central-state-(oh).png"
+  },
+  "Central Washington": {
+    "abbr": "CENTWASH",
+    "logo": "icons/central-washington.png"
+  },
+  "Centre College Kentucky": {
+    "abbr": "CENTRE",
+    "logo": "icons/centre-college-kentucky.png"
+  },
+  "Cerritos College": {
+    "abbr": null,
+    "logo": "icons/cerritos-college.png"
+  },
+  "Chadron St": {
+    "abbr": "CHADRONST",
+    "logo": "icons/chadron-st.png"
+  },
+  "Chapman": {
+    "abbr": "CHA",
+    "logo": "icons/chapman.png"
+  },
+  "Charleston Southern": {
+    "abbr": "CHSO",
+    "logo": "icons/charleston-southern.png"
+  },
+  "Charlotte": {
+    "abbr": "CLT",
+    "logo": "icons/charlotte.png"
+  },
+  "Chattanooga": {
+    "abbr": "UTC",
+    "logo": "icons/chattanooga.png"
+  },
+  "Cheyney": {
+    "abbr": "CHE",
+    "logo": "icons/cheyney.png"
+  },
+  "Chicago": {
+    "abbr": "CHI",
+    "logo": "icons/chicago.png"
+  },
+  "Christopher Newport": {
+    "abbr": "CHR",
+    "logo": "icons/christopher-newport.png"
+  },
+  "Cincinnati": {
+    "abbr": "CIN",
+    "logo": "icons/cincinnati.png"
+  },
+  "Cincinnati Christian": {
+    "abbr": "CNCU",
+    "logo": "icons/cincinnati-christian.png"
+  },
+  "Cisco College": {
+    "abbr": null,
+    "logo": "icons/cisco-college.png"
+  },
+  "City College of San Francisco": {
+    "abbr": null,
+    "logo": "icons/city-college-of-san-francisco.png"
+  },
+  "Claremont-Mudd-Scripps College": {
+    "abbr": "CLA",
+    "logo": "icons/claremont-mudd-scripps-college.png"
+  },
+  "Clarion": {
+    "abbr": "CLARION",
+    "logo": "icons/clarion.png"
+  },
+  "Clark Atlanta": {
+    "abbr": "CLA",
+    "logo": "icons/clark-atlanta.png"
+  },
+  "Clemson": {
+    "abbr": "CLEM",
+    "logo": "icons/clemson.png"
+  },
+  "Coastal Carolina": {
+    "abbr": "CCU",
+    "logo": "icons/coastal-carolina.png"
+  },
+  "Coast Guard": {
+    "abbr": "USCGA",
+    "logo": "icons/coast-guard.png"
+  },
+  "Coe College": {
+    "abbr": "COE",
+    "logo": "icons/coe-college.png"
+  },
+  "Coffeyville C.C.": {
+    "abbr": null,
+    "logo": "icons/coffeyville-c.c..png"
+  },
+  "Colby College": {
+    "abbr": "COLBY",
+    "logo": "icons/colby-college.png"
+  },
+  "Cole College": {
+    "abbr": "COLE",
+    "logo": "icons/cole-college.png"
+  },
+  "Colgate": {
+    "abbr": "COLG",
+    "logo": "icons/colgate.png"
+  },
+  "College of Charleston": {
+    "abbr": null,
+    "logo": "icons/college-of-charleston.png"
+  },
+  "College of Idaho": {
+    "abbr": "COI",
+    "logo": "icons/college-of-idaho.png"
+  },
+  "College Of New Jersey": {
+    "abbr": "COL",
+    "logo": "icons/college-of-new-jersey.png"
+  },
+  "College of San Mateo": {
+    "abbr": null,
+    "logo": "icons/college-of-san-mateo.png"
+  },
+  "College of the Canyons": {
+    "abbr": null,
+    "logo": "icons/college-of-the-canyons.png"
+  },
+  "Colorado": {
+    "abbr": "COLO",
+    "logo": "icons/colorado.png"
+  },
+  "Colorado College": {
+    "abbr": "COL",
+    "logo": "icons/colorado-college.png"
+  },
+  "Colorado Mesa": {
+    "abbr": "MESA",
+    "logo": "icons/colorado-mesa.png"
+  },
+  "Colorado School Of Mines": {
+    "abbr": "COLOMINES",
+    "logo": "icons/colorado-school-of-mines.png"
+  },
+  "Colorado State": {
+    "abbr": "CSU",
+    "logo": "icons/colorado-state.png"
+  },
+  "Columbia": {
+    "abbr": "COLU",
+    "logo": "icons/columbia.png"
+  },
+  "Columbus State": {
+    "abbr": null,
+    "logo": "icons/columbus-state.png"
+  },
+  "Concordia (AL)": {
+    "abbr": "CON",
+    "logo": "icons/concordia-(al).png"
+  },
+  "Concordia-Michigan": {
+    "abbr": "CONCMI",
+    "logo": "icons/concordia-michigan.png"
+  },
+  "Concordia Moorhead": {
+    "abbr": "CONCOMN",
+    "logo": "icons/concordia-moorhead.png"
+  },
+  "Concordia University": {
+    "abbr": null,
+    "logo": "icons/concordia-university.png"
+  },
+  "Concordia University Chicago": {
+    "abbr": "CONCOIL",
+    "logo": "icons/concordia-university-chicago.png"
+  },
+  "Concordia University Nebraska": {
+    "abbr": "CONCONE",
+    "logo": "icons/concordia-university-nebraska.png"
+  },
+  "Concordia University St Paul": {
+    "abbr": "CON",
+    "logo": "icons/concordia-university-st-paul.png"
+  },
+  "Concordia-Wisconsin": {
+    "abbr": "CONW",
+    "logo": "icons/concordia-wisconsin.png"
+  },
+  "Concord University": {
+    "abbr": "CON",
+    "logo": "icons/concord-university.png"
+  },
+  "Copiah-Lincoln C.C.": {
+    "abbr": null,
+    "logo": "icons/copiah-lincoln-c.c..png"
+  },
+  "Cornell": {
+    "abbr": "COR",
+    "logo": "icons/cornell.png"
+  },
+  "Cornell College (IA)": {
+    "abbr": "CORNELLIA",
+    "logo": "icons/cornell-college-(ia).png"
+  },
+  "Cortland": {
+    "abbr": "CORTLAND",
+    "logo": "icons/cortland.png"
+  },
+  "Crown College": {
+    "abbr": "CROWN",
+    "logo": "icons/crown-college.png"
+  },
+  "CSU Pueblo": {
+    "abbr": "CSTP",
+    "logo": "icons/csu-pueblo.png"
+  },
+  "CSU-Pueblo": {
+    "abbr": null,
+    "logo": "icons/csu-pueblo.png"
+  },
+  "Culver-Stockton College": {
+    "abbr": "CULVE",
+    "logo": "icons/culver-stockton-college.png"
+  },
+  "Cumberland (KY)": {
+    "abbr": "CUMB",
+    "logo": "icons/cumberland-(ky).png"
+  },
+  "Cumberland (TN)": {
+    "abbr": "CUMBTN",
+    "logo": "icons/cumberland-(tn).png"
+  },
+  "Curry College": {
+    "abbr": "CUR",
+    "logo": "icons/curry-college.png"
+  },
+  "Dakota State University": {
+    "abbr": "DAKOT",
+    "logo": "icons/dakota-state-university.png"
+  },
+  "Dakota Wesleyan": {
+    "abbr": "DWU",
+    "logo": "icons/dakota-wesleyan.png"
+  },
+  "Dartmouth": {
+    "abbr": "DART",
+    "logo": "icons/dartmouth.png"
+  },
+  "Davenport": {
+    "abbr": "DU",
+    "logo": "icons/davenport.png"
+  },
+  "Davidson": {
+    "abbr": "DAV",
+    "logo": "icons/davidson.png"
+  },
+  "Dayton": {
+    "abbr": "DAY",
+    "logo": "icons/dayton.png"
+  },
+  "Dean College": {
+    "abbr": "DEA",
+    "logo": "icons/dean-college.png"
+  },
+  "De Anza College": {
+    "abbr": null,
+    "logo": "icons/de-anza-college.png"
+  },
+  "Defiance College": {
+    "abbr": "DEF",
+    "logo": "icons/defiance-college.png"
+  },
+  "Delaware": {
+    "abbr": "DEL",
+    "logo": "icons/delaware.png"
+  },
+  "Delaware State": {
+    "abbr": "DSU",
+    "logo": "icons/delaware-state.png"
+  },
+  "Delaware Valley": {
+    "abbr": "DV",
+    "logo": "icons/delaware-valley.png"
+  },
+  "Delta State": {
+    "abbr": "DELTAST",
+    "logo": "icons/delta-state.png"
+  },
+  "Denison University": {
+    "abbr": "DEN",
+    "logo": "icons/denison-university.png"
+  },
+  "Depauw": {
+    "abbr": "DEP",
+    "logo": "icons/depauw.png"
+  },
+  "Des Moines": {
+    "abbr": null,
+    "logo": "icons/des-moines.png"
+  },
+  "Dickinson (PA)": {
+    "abbr": "DIC",
+    "logo": "icons/dickinson-(pa).png"
+  },
+  "Dickinson State University": {
+    "abbr": "DIC",
+    "logo": "icons/dickinson-state-university.png"
+  },
+  "Doane College": {
+    "abbr": null,
+    "logo": "icons/doane-college.png"
+  },
+  "Drake": {
+    "abbr": "DRKE",
+    "logo": "icons/drake.png"
+  },
+  "Dubuque": {
+    "abbr": "DUB",
+    "logo": "icons/dubuque.png"
+  },
+  "Duke": {
+    "abbr": "DUKE",
+    "logo": "icons/duke.png"
+  },
+  "Duquesne": {
+    "abbr": "DUQ",
+    "logo": "icons/duquesne.png"
+  },
+  "Earlham": {
+    "abbr": "EAR",
+    "logo": "icons/earlham.png"
+  },
+  "East": {
+    "abbr": "EAST",
+    "logo": "icons/east.png"
+  },
+  "East Carolina": {
+    "abbr": "ECU",
+    "logo": "icons/east-carolina.png"
+  },
+  "East Central C.C.": {
+    "abbr": null,
+    "logo": "icons/east-central-c.c..png"
+  },
+  "East Central (OK)": {
+    "abbr": "EAS",
+    "logo": "icons/east-central-(ok).png"
+  },
+  "Eastern Illinois": {
+    "abbr": "EIU",
+    "logo": "icons/eastern-illinois.png"
+  },
+  "Eastern Kentucky": {
+    "abbr": "EKU",
+    "logo": "icons/eastern-kentucky.png"
+  },
+  "Eastern Michigan": {
+    "abbr": "EMU",
+    "logo": "icons/eastern-michigan.png"
+  },
+  "Eastern New Mexico": {
+    "abbr": "EASTERNNM",
+    "logo": "icons/eastern-new-mexico.png"
+  },
+  "Eastern Oregon": {
+    "abbr": "EORE",
+    "logo": "icons/eastern-oregon.png"
+  },
+  "Eastern University": {
+    "abbr": "EAS",
+    "logo": "icons/eastern-university.png"
+  },
+  "Eastern Washington": {
+    "abbr": "EWU",
+    "logo": "icons/eastern-washington.png"
+  },
+  "East Mississippi C.C.": {
+    "abbr": null,
+    "logo": "icons/east-mississippi-c.c..png"
+  },
+  "East Stroudsburg University": {
+    "abbr": "ESTROUD",
+    "logo": "icons/east-stroudsburg-university.png"
+  },
+  "East Tennessee State": {
+    "abbr": "ETSU",
+    "logo": "icons/east-tennessee-state.png"
+  },
+  "East Texas A&M": {
+    "abbr": "ETAM",
+    "logo": "icons/east-texas-a&m.png"
+  },
+  "East Texas Baptist University": {
+    "abbr": "EAS",
+    "logo": "icons/east-texas-baptist-university.png"
+  },
+  "Edinboro University": {
+    "abbr": null,
+    "logo": "icons/edinboro-university.png"
+  },
+  "Edward Waters": {
+    "abbr": null,
+    "logo": "icons/edward-waters.png"
+  },
+  "El Camino College": {
+    "abbr": null,
+    "logo": "icons/el-camino-college.png"
+  },
+  "Elgin": {
+    "abbr": "JUDSO",
+    "logo": "icons/elgin.png"
+  },
+  "Elizabeth City State": {
+    "abbr": "ELI",
+    "logo": "icons/elizabeth-city-state.png"
+  },
+  "Elmhurst": {
+    "abbr": "ELM",
+    "logo": "icons/elmhurst.png"
+  },
+  "Elon": {
+    "abbr": "ELON",
+    "logo": "icons/elon.png"
+  },
+  "Emory & Henry College": {
+    "abbr": "EMHEN",
+    "logo": "icons/emory-&-henry-college.png"
+  },
+  "Emporia State University": {
+    "abbr": "EMP",
+    "logo": "icons/emporia-state-university.png"
+  },
+  "Endicott College": {
+    "abbr": "END",
+    "logo": "icons/endicott-college.png"
+  },
+  "Erie": {
+    "abbr": "ECC",
+    "logo": "icons/erie.png"
+  },
+  "ERSKINE": {
+    "abbr": "ERSKINE",
+    "logo": "icons/erskine.png"
+  },
+  "Erskine College": {
+    "abbr": null,
+    "logo": "icons/erskine-college.png"
+  },
+  "Eureka College": {
+    "abbr": "EUR",
+    "logo": "icons/eureka-college.png"
+  },
+  "Evangel University": {
+    "abbr": "EVA",
+    "logo": "icons/evangel-university.png"
+  },
+  "Fairmont State": {
+    "abbr": "FAIRST",
+    "logo": "icons/fairmont-state.png"
+  },
+  "Faulkner University": {
+    "abbr": "FAULKNER",
+    "logo": "icons/faulkner-university.png"
+  },
+  "Fayetteville State": {
+    "abbr": "FAY",
+    "logo": "icons/fayetteville-state.png"
+  },
+  "FDU-Florham": {
+    "abbr": "FDUFLOR",
+    "logo": "icons/fdu-florham.png"
+  },
+  "Ferris State": {
+    "abbr": "FRST",
+    "logo": "icons/ferris-state.png"
+  },
+  "Ferrum": {
+    "abbr": "FER",
+    "logo": "icons/ferrum.png"
+  },
+  "Findlay": {
+    "abbr": "FINDLAY",
+    "logo": "icons/findlay.png"
+  },
+  "Fitchburg State": {
+    "abbr": "FITCH",
+    "logo": "icons/fitchburg-state.png"
+  },
+  "Florida": {
+    "abbr": "FLA",
+    "logo": "icons/florida.png"
+  },
+  "Florida A&M": {
+    "abbr": "FAMU",
+    "logo": "icons/florida-a&m.png"
+  },
+  "Florida Atlantic": {
+    "abbr": "FAU",
+    "logo": "icons/florida-atlantic.png"
+  },
+  "Florida International": {
+    "abbr": "FIU",
+    "logo": "icons/florida-international.png"
+  },
+  "Florida Memorial University": {
+    "abbr": "FLAMEMRL",
+    "logo": "icons/florida-memorial-university.png"
+  },
+  "Florida State": {
+    "abbr": "FSU",
+    "logo": "icons/florida-state.png"
+  },
+  "Florida Tech": {
+    "abbr": "FLTH",
+    "logo": "icons/florida-tech.png"
+  },
+  "Fordham": {
+    "abbr": "FOR",
+    "logo": "icons/fordham.png"
+  },
+  "Fork Union": {
+    "abbr": "FORK",
+    "logo": "icons/fork-union.png"
+  },
+  "Fort Hays State": {
+    "abbr": "FTHAYST",
+    "logo": "icons/fort-hays-state.png"
+  },
+  "Fort Lewis": {
+    "abbr": "FORTLEW",
+    "logo": "icons/fort-lewis.png"
+  },
+  "Fort Valley State": {
+    "abbr": "FOR",
+    "logo": "icons/fort-valley-state.png"
+  },
+  "Framingham State": {
+    "abbr": "FRA",
+    "logo": "icons/framingham-state.png"
+  },
+  "Franklin": {
+    "abbr": "FRANKLIN",
+    "logo": "icons/franklin.png"
+  },
+  "Franklin College": {
+    "abbr": null,
+    "logo": "icons/franklin-college.png"
+  },
+  "Franklin & Marshall": {
+    "abbr": "FRKLNMAR",
+    "logo": "icons/franklin-&-marshall.png"
+  },
+  "Franklin Pierce": {
+    "abbr": "FRANK",
+    "logo": "icons/franklin-pierce.png"
+  },
+  "Fresno State": {
+    "abbr": "FRES",
+    "logo": "icons/fresno-state.png"
+  },
+  "Friends University": {
+    "abbr": "FRIE",
+    "logo": "icons/friends-university.png"
+  },
+  "Frostburg State": {
+    "abbr": "FRO",
+    "logo": "icons/frostburg-state.png"
+  },
+  "Furman": {
+    "abbr": "FUR",
+    "logo": "icons/furman.png"
+  },
+  "Gallaudet": {
+    "abbr": "GAL",
+    "logo": "icons/gallaudet.png"
+  },
+  "Gannon": {
+    "abbr": "GAN",
+    "logo": "icons/gannon.png"
+  },
+  "Garden City C.C. ": {
+    "abbr": null,
+    "logo": "icons/garden-city-c.c.-.png"
+  },
+  "Gardner-Webb": {
+    "abbr": "GWEB",
+    "logo": "icons/gardner-webb.png"
+  },
+  "Geneva": {
+    "abbr": null,
+    "logo": "icons/geneva.png"
+  },
+  "George Mason University": {
+    "abbr": "GMU",
+    "logo": "icons/george-mason-university.png"
+  },
+  "Georgetown": {
+    "abbr": "GTWN",
+    "logo": "icons/georgetown.png"
+  },
+  "Georgetown College Kentucky": {
+    "abbr": "GTOWNCOLL",
+    "logo": "icons/georgetown-college-kentucky.png"
+  },
+  "Georgia": {
+    "abbr": "UGA",
+    "logo": "icons/georgia.png"
+  },
+  "Georgia Military": {
+    "abbr": null,
+    "logo": "icons/georgia-military.png"
+  },
+  "Georgia Military College Prep": {
+    "abbr": null,
+    "logo": "icons/georgia-military-college-prep.png"
+  },
+  "Georgia Southern": {
+    "abbr": "GASO",
+    "logo": "icons/georgia-southern.png"
+  },
+  "Georgia State": {
+    "abbr": "GAST",
+    "logo": "icons/georgia-state.png"
+  },
+  "Georgia Tech": {
+    "abbr": "GT",
+    "logo": "icons/georgia-tech.png"
+  },
+  "Gettysburg": {
+    "abbr": "GETTY",
+    "logo": "icons/gettysburg.png"
+  },
+  "Glenville State": {
+    "abbr": "GLENVILLE",
+    "logo": "icons/glenville-state.png"
+  },
+  "Glenville State ": {
+    "abbr": null,
+    "logo": "icons/glenville-state-.png"
+  },
+  "Graceland University": {
+    "abbr": "GRC",
+    "logo": "icons/graceland-university.png"
+  },
+  "Grambling": {
+    "abbr": "GRAM",
+    "logo": "icons/grambling.png"
+  },
+  "Grand Valley State University": {
+    "abbr": "GVSU",
+    "logo": "icons/grand-valley-state-university.png"
+  },
+  "Greeneville": {
+    "abbr": "TUS",
+    "logo": "icons/greeneville.png"
+  },
+  "Greensboro College": {
+    "abbr": "GRNSBORO",
+    "logo": "icons/greensboro-college.png"
+  },
+  "Greenville": {
+    "abbr": "GRNVIL",
+    "logo": "icons/greenville.png"
+  },
+  "Grinnell": {
+    "abbr": "GRI",
+    "logo": "icons/grinnell.png"
+  },
+  "Grove City College": {
+    "abbr": "GRO",
+    "logo": "icons/grove-city-college.png"
+  },
+  "Guilford College": {
+    "abbr": "GUI",
+    "logo": "icons/guilford-college.png"
+  },
+  "Gustavus Adolphus": {
+    "abbr": "GUSADOL",
+    "logo": "icons/gustavus-adolphus.png"
+  },
+  "Hamilton": {
+    "abbr": "HAM",
+    "logo": "icons/hamilton.png"
+  },
+  "Hamline University": {
+    "abbr": "HAM",
+    "logo": "icons/hamline-university.png"
+  },
+  "Hampden-Sydney": {
+    "abbr": "HAM",
+    "logo": "icons/hampden-sydney.png"
+  },
+  "Hampton": {
+    "abbr": "HAMP",
+    "logo": "icons/hampton.png"
+  },
+  "Hanover College": {
+    "abbr": "HAN",
+    "logo": "icons/hanover-college.png"
+  },
+  "Harding University": {
+    "abbr": "HARDING",
+    "logo": "icons/harding-university.png"
+  },
+  "Hardin-Simmons": {
+    "abbr": "HARDSIM",
+    "logo": "icons/hardin-simmons.png"
+  },
+  "Hartwick": {
+    "abbr": "HAR",
+    "logo": "icons/hartwick.png"
+  },
+  "Harvard": {
+    "abbr": "HARV",
+    "logo": "icons/harvard.png"
+  },
+  "Haskell Indian Nations Univ": {
+    "abbr": "HASKELL",
+    "logo": "icons/haskell-indian-nations-univ.png"
+  },
+  "Hawai'i": {
+    "abbr": "HAW",
+    "logo": "icons/hawai'i.png"
+  },
+  "Heidelberg": {
+    "abbr": "HEI",
+    "logo": "icons/heidelberg.png"
+  },
+  "Henderson State": {
+    "abbr": "HENDERSON",
+    "logo": "icons/henderson-state.png"
+  },
+  "Hendrix College": {
+    "abbr": "HENDRIX",
+    "logo": "icons/hendrix-college.png"
+  },
+  "Highland C.C.": {
+    "abbr": null,
+    "logo": "icons/highland-c.c..png"
+  },
+  "Hilbert College": {
+    "abbr": "HIL",
+    "logo": "icons/hilbert-college.png"
+  },
+  "Hillsdale": {
+    "abbr": "HILLSDALE",
+    "logo": "icons/hillsdale.png"
+  },
+  "Hillsdale College": {
+    "abbr": null,
+    "logo": "icons/hillsdale-college.png"
+  },
+  "Hinds C.C.": {
+    "abbr": null,
+    "logo": "icons/hinds-c.c..png"
+  },
+  "Hiram College": {
+    "abbr": "HIR",
+    "logo": "icons/hiram-college.png"
+  },
+  "Hobart College": {
+    "abbr": "HBRT",
+    "logo": "icons/hobart-college.png"
+  },
+  "Holland College": {
+    "abbr": "HOL",
+    "logo": "icons/holland-college.png"
+  },
+  "Holmes C.C.": {
+    "abbr": null,
+    "logo": "icons/holmes-c.c..png"
+  },
+  "Holy Cross": {
+    "abbr": "HC",
+    "logo": "icons/holy-cross.png"
+  },
+  "Hope ": {
+    "abbr": null,
+    "logo": "icons/hope-.png"
+  },
+  "Hope College": {
+    "abbr": "HOP",
+    "logo": "icons/hope-college.png"
+  },
+  "Houston": {
+    "abbr": "HOU",
+    "logo": "icons/houston.png"
+  },
+  "Houston Christian": {
+    "abbr": "HCU",
+    "logo": "icons/houston-christian.png"
+  },
+  "Howard": {
+    "abbr": "HOW",
+    "logo": "icons/howard.png"
+  },
+  "Howard Payne": {
+    "abbr": "HOWPAY",
+    "logo": "icons/howard-payne.png"
+  },
+  "Hudson Valley": {
+    "abbr": "HVCC",
+    "logo": "icons/hudson-valley.png"
+  },
+  "Humboldt State": {
+    "abbr": "HUM",
+    "logo": "icons/humboldt-state.png"
+  },
+  "Huntingdon College (AL)": {
+    "abbr": "HNTNGDN",
+    "logo": "icons/huntingdon-college-(al).png"
+  },
+  "Husson": {
+    "abbr": "HUSSON",
+    "logo": "icons/husson.png"
+  },
+  "Hutchinson C.C.": {
+    "abbr": null,
+    "logo": "icons/hutchinson-c.c..png"
+  },
+  "Idaho": {
+    "abbr": "IDHO",
+    "logo": "icons/idaho.png"
+  },
+  "Idaho State": {
+    "abbr": "IDST",
+    "logo": "icons/idaho-state.png"
+  },
+  "Illinois": {
+    "abbr": "ILL",
+    "logo": "icons/illinois.png"
+  },
+  "Illinois College": {
+    "abbr": "ILLCOLL",
+    "logo": "icons/illinois-college.png"
+  },
+  "Illinois State": {
+    "abbr": "ILST",
+    "logo": "icons/illinois-state.png"
+  },
+  "Illinois Wesleyan": {
+    "abbr": "ILLWES",
+    "logo": "icons/illinois-wesleyan.png"
+  },
+  "Incarnate Word": {
+    "abbr": "UIW",
+    "logo": "icons/incarnate-word.png"
+  },
+  "Independence C.C.": {
+    "abbr": null,
+    "logo": "icons/independence-c.c..png"
+  },
+  "Indiana": {
+    "abbr": "IU",
+    "logo": "icons/indiana.png"
+  },
+  "Indiana-Pennsylvania": {
+    "abbr": "INDIANAPA",
+    "logo": "icons/indiana-pennsylvania.png"
+  },
+  "Indianapolis": {
+    "abbr": "INDY",
+    "logo": "icons/indianapolis.png"
+  },
+  "Indiana State": {
+    "abbr": "INST",
+    "logo": "icons/indiana-state.png"
+  },
+  "Indiana Wesleyan": {
+    "abbr": "INWESL",
+    "logo": "icons/indiana-wesleyan.png"
+  },
+  "Iona": {
+    "abbr": "IONA",
+    "logo": "icons/iona.png"
+  },
+  "Iowa": {
+    "abbr": "IOWA",
+    "logo": "icons/iowa.png"
+  },
+  "Iowa Central C.C.": {
+    "abbr": null,
+    "logo": "icons/iowa-central-c.c..png"
+  },
+  "Iowa State": {
+    "abbr": "ISU",
+    "logo": "icons/iowa-state.png"
+  },
+  "Iowa Wesleyan": {
+    "abbr": "IOW",
+    "logo": "icons/iowa-wesleyan.png"
+  },
+  "Iowa Western C.C.": {
+    "abbr": null,
+    "logo": "icons/iowa-western-c.c..png"
+  },
+  "Itawamba C.C.": {
+    "abbr": null,
+    "logo": "icons/itawamba-c.c..png"
+  },
+  "Ithaca College": {
+    "abbr": "ITH",
+    "logo": "icons/ithaca-college.png"
+  },
+  "Jackson State": {
+    "abbr": "JKST",
+    "logo": "icons/jackson-state.png"
+  },
+  "Jacksonville": {
+    "abbr": "JAC",
+    "logo": "icons/jacksonville.png"
+  },
+  "Jacksonville State": {
+    "abbr": "JXST",
+    "logo": "icons/jacksonville-state.png"
+  },
+  "James Madison": {
+    "abbr": "JMU",
+    "logo": "icons/james-madison.png"
+  },
+  "Jamestown College": {
+    "abbr": "JAM",
+    "logo": "icons/jamestown-college.png"
+  },
+  "John Carroll University": {
+    "abbr": "JOH",
+    "logo": "icons/john-carroll-university.png"
+  },
+  "Johns Hopkins University": {
+    "abbr": "JHU",
+    "logo": "icons/johns-hopkins-university.png"
+  },
+  "Johnson C Smith": {
+    "abbr": "JOH",
+    "logo": "icons/johnson-c-smith.png"
+  },
+  "Johnson C. Smith University": {
+    "abbr": null,
+    "logo": "icons/johnson-c.-smith-university.png"
+  },
+  "Juniata College": {
+    "abbr": "JUN",
+    "logo": "icons/juniata-college.png"
+  },
+  "Kalamazoo": {
+    "abbr": "KAL",
+    "logo": "icons/kalamazoo.png"
+  },
+  "Kansas": {
+    "abbr": "KU",
+    "logo": "icons/kansas.png"
+  },
+  "Kansas State": {
+    "abbr": "KSU",
+    "logo": "icons/kansas-state.png"
+  },
+  "Kansas Wesleyan": {
+    "abbr": null,
+    "logo": "icons/kansas-wesleyan.png"
+  },
+  "Keiser (Fl)": {
+    "abbr": null,
+    "logo": "icons/keiser-(fl).png"
+  },
+  "Keiser University": {
+    "abbr": "KEISER",
+    "logo": "icons/keiser-university.png"
+  },
+  "Kennesaw State": {
+    "abbr": "KENN",
+    "logo": "icons/kennesaw-state.png"
+  },
+  "Kent State": {
+    "abbr": "KENT",
+    "logo": "icons/kent-state.png"
+  },
+  "Kentucky": {
+    "abbr": "UK",
+    "logo": "icons/kentucky.png"
+  },
+  "Kentucky State": {
+    "abbr": "KYST",
+    "logo": "icons/kentucky-state.png"
+  },
+  "Kentucky Wesleyan": {
+    "abbr": "KYWESL",
+    "logo": "icons/kentucky-wesleyan.png"
+  },
+  "Kenyon": {
+    "abbr": "KEN",
+    "logo": "icons/kenyon.png"
+  },
+  "Keystone": {
+    "abbr": "KEY",
+    "logo": "icons/keystone.png"
+  },
+  "Kilgore College": {
+    "abbr": null,
+    "logo": "icons/kilgore-college.png"
+  },
+  "Kilgore J.C.": {
+    "abbr": null,
+    "logo": "icons/kilgore-j.c..png"
+  },
+  "King's College": {
+    "abbr": null,
+    "logo": "icons/king's-college.png"
+  },
+  "Kings College (PA)": {
+    "abbr": "KIN",
+    "logo": "icons/kings-college-(pa).png"
+  },
+  "Kutztown University": {
+    "abbr": "KUTZTOWN",
+    "logo": "icons/kutztown-university.png"
+  },
+  "Lackawanna C.C.": {
+    "abbr": null,
+    "logo": "icons/lackawanna-c.c..png"
+  },
+  "Lackawanna College": {
+    "abbr": null,
+    "logo": "icons/lackawanna-college.png"
+  },
+  "Lafayette": {
+    "abbr": "LAF",
+    "logo": "icons/lafayette.png"
+  },
+  "Lagrange College": {
+    "abbr": "LAG",
+    "logo": "icons/lagrange-college.png"
+  },
+  "Lake Erie": {
+    "abbr": "LAKEERIE",
+    "logo": "icons/lake-erie.png"
+  },
+  "Lake Erie College": {
+    "abbr": null,
+    "logo": "icons/lake-erie-college.png"
+  },
+  "Lake Forest College": {
+    "abbr": "LAK",
+    "logo": "icons/lake-forest-college.png"
+  },
+  "LAKELAND": {
+    "abbr": "SEU",
+    "logo": "icons/lakeland.png"
+  },
+  "Lamar": {
+    "abbr": "LAM",
+    "logo": "icons/lamar.png"
+  },
+  "Lambuth": {
+    "abbr": "LAM",
+    "logo": "icons/lambuth.png"
+  },
+  "Laney College": {
+    "abbr": null,
+    "logo": "icons/laney-college.png"
+  },
+  "Langston University": {
+    "abbr": "LANGSTON",
+    "logo": "icons/langston-university.png"
+  },
+  "La Salle": {
+    "abbr": null,
+    "logo": "icons/la-salle.png"
+  },
+  "Laurinburg": {
+    "abbr": "ST. A",
+    "logo": "icons/laurinburg.png"
+  },
+  "La Verne": {
+    "abbr": "LAVERNE",
+    "logo": "icons/la-verne.png"
+  },
+  "Lawrence Tech": {
+    "abbr": "LWTC",
+    "logo": "icons/lawrence-tech.png"
+  },
+  "Lawrence University": {
+    "abbr": "LAW",
+    "logo": "icons/lawrence-university.png"
+  },
+  "Lebanon Valley": {
+    "abbr": "LEB",
+    "logo": "icons/lebanon-valley.png"
+  },
+  "Lehigh": {
+    "abbr": "LEH",
+    "logo": "icons/lehigh.png"
+  },
+  "Lenoir-Rhyne": {
+    "abbr": "LENRHYNE",
+    "logo": "icons/lenoir-rhyne.png"
+  },
+  "Lewis & Clark College": {
+    "abbr": "LEW",
+    "logo": "icons/lewis-&-clark-college.png"
+  },
+  "Liberty": {
+    "abbr": "LIB",
+    "logo": "icons/liberty.png"
+  },
+  "Limestone": {
+    "abbr": "LIMESTONE",
+    "logo": "icons/limestone.png"
+  },
+  "Limestone College": {
+    "abbr": null,
+    "logo": "icons/limestone-college.png"
+  },
+  "Limestone University": {
+    "abbr": null,
+    "logo": "icons/limestone-university.png"
+  },
+  "Lincoln (CA)": {
+    "abbr": "LIN",
+    "logo": "icons/lincoln-(ca).png"
+  },
+  "Lincoln (MO)": {
+    "abbr": "LIN",
+    "logo": "icons/lincoln-(mo).png"
+  },
+  "Lincoln (PA)": {
+    "abbr": "LINP",
+    "logo": "icons/lincoln-(pa).png"
+  },
+  "Lindenwood": {
+    "abbr": "LIN",
+    "logo": "icons/lindenwood.png"
+  },
+  "Lindenwood Belleville": {
+    "abbr": "LINB",
+    "logo": "icons/lindenwood-belleville.png"
+  },
+  "Lindenwood University": {
+    "abbr": null,
+    "logo": "icons/lindenwood-university.png"
+  },
+  "Lindsey Wilson College": {
+    "abbr": "LINDWIL",
+    "logo": "icons/lindsey-wilson-college.png"
+  },
+  "Linfield College": {
+    "abbr": "LIN",
+    "logo": "icons/linfield-college.png"
+  },
+  "Little Rock": {
+    "abbr": "ARKAN",
+    "logo": "icons/little-rock.png"
+  },
+  "LIU Post": {
+    "abbr": "LIU",
+    "logo": "icons/liu-post.png"
+  },
+  "Livingstone": {
+    "abbr": "LIV",
+    "logo": "icons/livingstone.png"
+  },
+  "Livingstone College": {
+    "abbr": null,
+    "logo": "icons/livingstone-college.png"
+  },
+  "Lock Haven University": {
+    "abbr": "LHU",
+    "logo": "icons/lock-haven-university.png"
+  },
+  "Long Beach City College": {
+    "abbr": null,
+    "logo": "icons/long-beach-city-college.png"
+  },
+  "Long Island University": {
+    "abbr": "LIU",
+    "logo": "icons/long-island-university.png"
+  },
+  "Louisburg": {
+    "abbr": "LSBG",
+    "logo": "icons/louisburg.png"
+  },
+  "Louisiana": {
+    "abbr": "UL",
+    "logo": "icons/louisiana.png"
+  },
+  "Louisiana College": {
+    "abbr": "LACOLLEGE",
+    "logo": "icons/louisiana-college.png"
+  },
+  "Louisiana Tech": {
+    "abbr": "LT",
+    "logo": "icons/louisiana-tech.png"
+  },
+  "Louisville": {
+    "abbr": "LOU",
+    "logo": "icons/louisville.png"
+  },
+  "LSU": {
+    "abbr": "LSU",
+    "logo": "icons/lsu.png"
+  },
+  "Luther": {
+    "abbr": "LUT",
+    "logo": "icons/luther.png"
+  },
+  "Lycoming": {
+    "abbr": "LYCOMING",
+    "logo": "icons/lycoming.png"
+  },
+  "LYONCOLL": {
+    "abbr": "LYON",
+    "logo": "icons/lyoncoll.png"
+  },
+  "Macalester": {
+    "abbr": "MACALES",
+    "logo": "icons/macalester.png"
+  },
+  "MacMurray College": {
+    "abbr": "MAC",
+    "logo": "icons/macmurray-college.png"
+  },
+  "Madonna University": {
+    "abbr": "MADON",
+    "logo": "icons/madonna-university.png"
+  },
+  "Madonna University (Mich.)": {
+    "abbr": null,
+    "logo": "icons/madonna-university-(mich.).png"
+  },
+  "Maine": {
+    "abbr": "ME",
+    "logo": "icons/maine.png"
+  },
+  "Maine Maritime": {
+    "abbr": "MAI",
+    "logo": "icons/maine-maritime.png"
+  },
+  "Malone": {
+    "abbr": "MAL",
+    "logo": "icons/malone.png"
+  },
+  "Manchester": {
+    "abbr": "MNCHSTR",
+    "logo": "icons/manchester.png"
+  },
+  "MANITOBA": {
+    "abbr": "MAN",
+    "logo": "icons/manitoba.png"
+  },
+  "Mansfield University": {
+    "abbr": "MANSFIELD",
+    "logo": "icons/mansfield-university.png"
+  },
+  "Maranatha Baptist College": {
+    "abbr": "MAR",
+    "logo": "icons/maranatha-baptist-college.png"
+  },
+  "Marian College": {
+    "abbr": "MARIANIN",
+    "logo": "icons/marian-college.png"
+  },
+  "MARIAN (IN": {
+    "abbr": null,
+    "logo": "icons/marian-(in.png"
+  },
+  "Marietta": {
+    "abbr": "MAR",
+    "logo": "icons/marietta.png"
+  },
+  "Marist": {
+    "abbr": "MRST",
+    "logo": "icons/marist.png"
+  },
+  "Marshall": {
+    "abbr": "MRSH",
+    "logo": "icons/marshall.png"
+  },
+  "Marshall Sr.": {
+    "abbr": null,
+    "logo": "icons/marshall-sr..png"
+  },
+  "Mars Hill": {
+    "abbr": "MH",
+    "logo": "icons/mars-hill.png"
+  },
+  "Martin Luther": {
+    "abbr": "MAR",
+    "logo": "icons/martin-luther.png"
+  },
+  "Mary Hardin-Baylor": {
+    "abbr": "MRYHRBAY",
+    "logo": "icons/mary-hardin-baylor.png"
+  },
+  "Maryland": {
+    "abbr": "MD",
+    "logo": "icons/maryland.png"
+  },
+  "Maryville College (TN)": {
+    "abbr": "MRYVILTN",
+    "logo": "icons/maryville-college-(tn).png"
+  },
+  "Massachusetts": {
+    "abbr": "MASS",
+    "logo": "icons/massachusetts.png"
+  },
+  "Mass Maritime": {
+    "abbr": "MAMARI",
+    "logo": "icons/mass-maritime.png"
+  },
+  "Mayville State": {
+    "abbr": "MAYVILLE",
+    "logo": "icons/mayville-state.png"
+  },
+  "McDaniel College": {
+    "abbr": "MCD",
+    "logo": "icons/mcdaniel-college.png"
+  },
+  "McMurry": {
+    "abbr": "MCM",
+    "logo": "icons/mcmurry.png"
+  },
+  "McNeese": {
+    "abbr": "MCN",
+    "logo": "icons/mcneese.png"
+  },
+  "Mcpherson College": {
+    "abbr": null,
+    "logo": "icons/mcpherson-college.png"
+  },
+  "Memphis": {
+    "abbr": "MEM",
+    "logo": "icons/memphis.png"
+  },
+  "Menlo": {
+    "abbr": "MEN",
+    "logo": "icons/menlo.png"
+  },
+  "Mercer": {
+    "abbr": "MER",
+    "logo": "icons/mercer.png"
+  },
+  "Merchant Marine Academy": {
+    "abbr": "MER",
+    "logo": "icons/merchant-marine-academy.png"
+  },
+  "Mercyhurst": {
+    "abbr": "MERC",
+    "logo": "icons/mercyhurst.png"
+  },
+  "Mercyhurst College": {
+    "abbr": null,
+    "logo": "icons/mercyhurst-college.png"
+  },
+  "Merrimack": {
+    "abbr": "MRMK",
+    "logo": "icons/merrimack.png"
+  },
+  "Methodist": {
+    "abbr": "MTH",
+    "logo": "icons/methodist.png"
+  },
+  "Miami": {
+    "abbr": "MIA",
+    "logo": "icons/miami.png"
+  },
+  "Miami (OH)": {
+    "abbr": "M-OH",
+    "logo": "icons/miami-(oh).png"
+  },
+  "Michigan": {
+    "abbr": "MICH",
+    "logo": "icons/michigan.png"
+  },
+  "Michigan State": {
+    "abbr": "MSU",
+    "logo": "icons/michigan-state.png"
+  },
+  "Michigan Tech": {
+    "abbr": "MTU",
+    "logo": "icons/michigan-tech.png"
+  },
+  "Middlebury": {
+    "abbr": "MIDLBRY",
+    "logo": "icons/middlebury.png"
+  },
+  "Middle Georgia State College": {
+    "abbr": "MGST",
+    "logo": "icons/middle-georgia-state-college.png"
+  },
+  "Middle Tennessee": {
+    "abbr": "MTSU",
+    "logo": "icons/middle-tennessee.png"
+  },
+  "Midland Lutheran College": {
+    "abbr": "MIDLAND",
+    "logo": "icons/midland-lutheran-college.png"
+  },
+  "Midwestern State": {
+    "abbr": "MID",
+    "logo": "icons/midwestern-state.png"
+  },
+  "Miles College": {
+    "abbr": "MIL",
+    "logo": "icons/miles-college.png"
+  },
+  "Millersville": {
+    "abbr": "MIL",
+    "logo": "icons/millersville.png"
+  },
+  "Millikin": {
+    "abbr": "MIL",
+    "logo": "icons/millikin.png"
+  },
+  "Millsaps": {
+    "abbr": "MIL",
+    "logo": "icons/millsaps.png"
+  },
+  "Minnesota": {
+    "abbr": "MINN",
+    "logo": "icons/minnesota.png"
+  },
+  "Minnesota-Crookston": {
+    "abbr": "MIN",
+    "logo": "icons/minnesota-crookston.png"
+  },
+  "Minnesota Duluth": {
+    "abbr": "UMD",
+    "logo": "icons/minnesota-duluth.png"
+  },
+  "Minnesota Morris": {
+    "abbr": "MNMOR",
+    "logo": "icons/minnesota-morris.png"
+  },
+  "Minnesota State Mankato": {
+    "abbr": "MNST",
+    "logo": "icons/minnesota-state-mankato.png"
+  },
+  "Minnesota State Moorhead": {
+    "abbr": "MIN",
+    "logo": "icons/minnesota-state-moorhead.png"
+  },
+  "Minot State": {
+    "abbr": "MIN",
+    "logo": "icons/minot-state.png"
+  },
+  "Misericordia": {
+    "abbr": "MISC",
+    "logo": "icons/misericordia.png"
+  },
+  "Mississippi College": {
+    "abbr": "MIS",
+    "logo": "icons/mississippi-college.png"
+  },
+  "Mississippi Gulf Coast C.C.": {
+    "abbr": null,
+    "logo": "icons/mississippi-gulf-coast-c.c..png"
+  },
+  "Mississippi State": {
+    "abbr": "MSST",
+    "logo": "icons/mississippi-state.png"
+  },
+  "Mississippi Valley State": {
+    "abbr": "MVSU",
+    "logo": "icons/mississippi-valley-state.png"
+  },
+  "Missouri": {
+    "abbr": "MIZ",
+    "logo": "icons/missouri.png"
+  },
+  "Missouri Southern State": {
+    "abbr": "MOSSTC",
+    "logo": "icons/missouri-southern-state.png"
+  },
+  "Missouri S&T": {
+    "abbr": "MISSO",
+    "logo": "icons/missouri-s&t.png"
+  },
+  "Missouri State": {
+    "abbr": "MOST",
+    "logo": "icons/missouri-state.png"
+  },
+  "Missouri Western": {
+    "abbr": "MOW",
+    "logo": "icons/missouri-western.png"
+  },
+  "Missouri Western State": {
+    "abbr": null,
+    "logo": "icons/missouri-western-state.png"
+  },
+  "Monash University": {
+    "abbr": null,
+    "logo": "icons/monash-university.png"
+  },
+  "Monmouth": {
+    "abbr": "MONM",
+    "logo": "icons/monmouth.png"
+  },
+  "Monmouth (IL)": {
+    "abbr": "MONMIL",
+    "logo": "icons/monmouth-(il).png"
+  },
+  "Montana": {
+    "abbr": "MONT",
+    "logo": "icons/montana.png"
+  },
+  "Montana State": {
+    "abbr": "MTST",
+    "logo": "icons/montana-state.png"
+  },
+  "MONTANASTN": {
+    "abbr": null,
+    "logo": "icons/montanastn.png"
+  },
+  "Montana Tech": {
+    "abbr": null,
+    "logo": "icons/montana-tech.png"
+  },
+  "Montana-Western": {
+    "abbr": "MTWST",
+    "logo": "icons/montana-western.png"
+  },
+  "Montclair State": {
+    "abbr": "MON",
+    "logo": "icons/montclair-state.png"
+  },
+  "Monterrey Tech": {
+    "abbr": "MON",
+    "logo": "icons/monterrey-tech.png"
+  },
+  "Moravian": {
+    "abbr": "MOR",
+    "logo": "icons/moravian.png"
+  },
+  "Morehead State": {
+    "abbr": "MORE",
+    "logo": "icons/morehead-state.png"
+  },
+  "Morehouse College": {
+    "abbr": "MOR",
+    "logo": "icons/morehouse-college.png"
+  },
+  "Morgan State": {
+    "abbr": "MORG",
+    "logo": "icons/morgan-state.png"
+  },
+  "Morningside College": {
+    "abbr": "MSIDE",
+    "logo": "icons/morningside-college.png"
+  },
+  "Morthland": {
+    "abbr": "MORTH",
+    "logo": "icons/morthland.png"
+  },
+  "Mount Ida College": {
+    "abbr": "MOU",
+    "logo": "icons/mount-ida-college.png"
+  },
+  "Mount St. Joseph": {
+    "abbr": "MTS",
+    "logo": "icons/mount-st.-joseph.png"
+  },
+  "Mt. San Antonio College": {
+    "abbr": null,
+    "logo": "icons/mt.-san-antonio-college.png"
+  },
+  "Muhlenberg": {
+    "abbr": "MHLBRG",
+    "logo": "icons/muhlenberg.png"
+  },
+  "Murray State": {
+    "abbr": "MUR",
+    "logo": "icons/murray-state.png"
+  },
+  "Muskingum University": {
+    "abbr": "MUS",
+    "logo": "icons/muskingum-university.png"
+  },
+  "National": {
+    "abbr": "NAT",
+    "logo": "icons/national.png"
+  },
+  "Navarro College": {
+    "abbr": null,
+    "logo": "icons/navarro-college.png"
+  },
+  "Navy": {
+    "abbr": "NAVY",
+    "logo": "icons/navy.png"
+  },
+  "NC State": {
+    "abbr": "NCSU",
+    "logo": "icons/nc-state.png"
+  },
+  "Nebraska": {
+    "abbr": "NEB",
+    "logo": "icons/nebraska.png"
+  },
+  "Nebraska Kearney": {
+    "abbr": null,
+    "logo": "icons/nebraska-kearney.png"
+  },
+  "Nebraska-Kearney": {
+    "abbr": "NEKR",
+    "logo": "icons/nebraska-kearney.png"
+  },
+  "Nebraska-Omaha": {
+    "abbr": "UNO",
+    "logo": "icons/nebraska-omaha.png"
+  },
+  "Nevada": {
+    "abbr": "NEV",
+    "logo": "icons/nevada.png"
+  },
+  "NEWBERG": {
+    "abbr": "GFU",
+    "logo": "icons/newberg.png"
+  },
+  "Newberry": {
+    "abbr": "NBY",
+    "logo": "icons/newberry.png"
+  },
+  "New England College": {
+    "abbr": "NEW",
+    "logo": "icons/new-england-college.png"
+  },
+  "New Hampshire": {
+    "abbr": "UNH",
+    "logo": "icons/new-hampshire.png"
+  },
+  "New Haven": {
+    "abbr": "NHVN",
+    "logo": "icons/new-haven.png"
+  },
+  "New Mexico": {
+    "abbr": "UNM",
+    "logo": "icons/new-mexico.png"
+  },
+  "New Mexico Highlands": {
+    "abbr": "NMH",
+    "logo": "icons/new-mexico-highlands.png"
+  },
+  "New Mexico Military Institute": {
+    "abbr": null,
+    "logo": "icons/new-mexico-military-institute.png"
+  },
+  "New Mexico State": {
+    "abbr": "NMSU",
+    "logo": "icons/new-mexico-state.png"
+  },
+  "Nicholls": {
+    "abbr": "NICH",
+    "logo": "icons/nicholls.png"
+  },
+  "Nichols College": {
+    "abbr": "NICHOLS",
+    "logo": "icons/nichols-college.png"
+  },
+  "Norfolk State": {
+    "abbr": "NORF",
+    "logo": "icons/norfolk-state.png"
+  },
+  "NORTH": {
+    "abbr": "NOR",
+    "logo": "icons/north.png"
+  },
+  "North Alabama": {
+    "abbr": "UNA",
+    "logo": "icons/north-alabama.png"
+  },
+  "North American University": {
+    "abbr": "NAMERICAN",
+    "logo": "icons/north-american-university.png"
+  },
+  "North Carolina": {
+    "abbr": "UNC",
+    "logo": "icons/north-carolina.png"
+  },
+  "North Carolina A&T": {
+    "abbr": "NCAT",
+    "logo": "icons/north-carolina-a&t.png"
+  },
+  "North Carolina Central": {
+    "abbr": "NCCU",
+    "logo": "icons/north-carolina-central.png"
+  },
+  "North Carolina Wesleyan": {
+    "abbr": "NORTH",
+    "logo": "icons/north-carolina-wesleyan.png"
+  },
+  "North Central College": {
+    "abbr": "NCC",
+    "logo": "icons/north-central-college.png"
+  },
+  "North Dakota": {
+    "abbr": "UND",
+    "logo": "icons/north-dakota.png"
+  },
+  "North Dakota State": {
+    "abbr": "NDSU",
+    "logo": "icons/north-dakota-state.png"
+  },
+  "Northeastern Oklahoma A&M": {
+    "abbr": null,
+    "logo": "icons/northeastern-oklahoma-a&m.png"
+  },
+  "Northeastern State": {
+    "abbr": "NOR",
+    "logo": "icons/northeastern-state.png"
+  },
+  "Northeast Mississippi C.C.": {
+    "abbr": null,
+    "logo": "icons/northeast-mississippi-c.c..png"
+  },
+  "Northern Arizona": {
+    "abbr": "NAU",
+    "logo": "icons/northern-arizona.png"
+  },
+  "Northern Colorado": {
+    "abbr": "UNCO",
+    "logo": "icons/northern-colorado.png"
+  },
+  "Northern Illinois": {
+    "abbr": "NIU",
+    "logo": "icons/northern-illinois.png"
+  },
+  "Northern Iowa": {
+    "abbr": "UNI",
+    "logo": "icons/northern-iowa.png"
+  },
+  "Northern Michigan": {
+    "abbr": "NMI",
+    "logo": "icons/northern-michigan.png"
+  },
+  "Northern State": {
+    "abbr": "NOR",
+    "logo": "icons/northern-state.png"
+  },
+  "NORTH FLORIDA": {
+    "abbr": "UNF",
+    "logo": "icons/north-florida.png"
+  },
+  "North Greenville": {
+    "abbr": "NG",
+    "logo": "icons/north-greenville.png"
+  },
+  "North Park": {
+    "abbr": "NOR",
+    "logo": "icons/north-park.png"
+  },
+  "North Texas": {
+    "abbr": "UNT",
+    "logo": "icons/north-texas.png"
+  },
+  "Northwestern": {
+    "abbr": "NU",
+    "logo": "icons/northwestern.png"
+  },
+  "Northwestern (IA)": {
+    "abbr": "nad",
+    "logo": "icons/northwestern-(ia).png"
+  },
+  "Northwestern (MN)": {
+    "abbr": "NWMN",
+    "logo": "icons/northwestern-(mn).png"
+  },
+  "Northwestern Oklahoma State": {
+    "abbr": "NWO",
+    "logo": "icons/northwestern-oklahoma-state.png"
+  },
+  "Northwestern State": {
+    "abbr": "NWST",
+    "logo": "icons/northwestern-state.png"
+  },
+  "Northwest Mississippi C.C.": {
+    "abbr": null,
+    "logo": "icons/northwest-mississippi-c.c..png"
+  },
+  "Northwest Missouri St": {
+    "abbr": "NWMS",
+    "logo": "icons/northwest-missouri-st.png"
+  },
+  "Northwood (MI)": {
+    "abbr": "NAR",
+    "logo": "icons/northwood-(mi).png"
+  },
+  "Norwich": {
+    "abbr": "NOR",
+    "logo": "icons/norwich.png"
+  },
+  "Notre Dame": {
+    "abbr": "ND",
+    "logo": "icons/notre-dame.png"
+  },
+  "Notre Dame College": {
+    "abbr": "NOT",
+    "logo": "icons/notre-dame-college.png"
+  },
+  "Oberlin": {
+    "abbr": "OBERLIN",
+    "logo": "icons/oberlin.png"
+  },
+  "Occidental": {
+    "abbr": "OCC",
+    "logo": "icons/occidental.png"
+  },
+  "Ohio": {
+    "abbr": "OHIO",
+    "logo": "icons/ohio.png"
+  },
+  "Ohio Dominican": {
+    "abbr": null,
+    "logo": "icons/ohio-dominican.png"
+  },
+  "Ohio Midwestern College": {
+    "abbr": "OMW",
+    "logo": "icons/ohio-midwestern-college.png"
+  },
+  "Ohio Northern": {
+    "abbr": "OHNRTH",
+    "logo": "icons/ohio-northern.png"
+  },
+  "Ohio State": {
+    "abbr": "OSU",
+    "logo": "icons/ohio-state.png"
+  },
+  "Ohio State Newark": {
+    "abbr": "OSU",
+    "logo": "icons/ohio-state-newark.png"
+  },
+  "Ohio Wesleyan": {
+    "abbr": "OHWESL",
+    "logo": "icons/ohio-wesleyan.png"
+  },
+  "Oklahoma": {
+    "abbr": "OU",
+    "logo": "icons/oklahoma.png"
+  },
+  "Oklahoma Baptist": {
+    "abbr": "OB",
+    "logo": "icons/oklahoma-baptist.png"
+  },
+  "Oklahoma Panhandle St": {
+    "abbr": "OKLAH",
+    "logo": "icons/oklahoma-panhandle-st.png"
+  },
+  "Oklahoma State": {
+    "abbr": "OKST",
+    "logo": "icons/oklahoma-state.png"
+  },
+  "Old Dominion": {
+    "abbr": "ODU",
+    "logo": "icons/old-dominion.png"
+  },
+  "Ole Miss": {
+    "abbr": "MISS",
+    "logo": "icons/ole-miss.png"
+  },
+  "Olivet College": {
+    "abbr": "OLI",
+    "logo": "icons/olivet-college.png"
+  },
+  "Oregon": {
+    "abbr": "ORE",
+    "logo": "icons/oregon.png"
+  },
+  "Oregon State": {
+    "abbr": "ORST",
+    "logo": "icons/oregon-state.png"
+  },
+  "Ottawa University Arizona": {
+    "abbr": "OUAZ",
+    "logo": "icons/ottawa-university-arizona.png"
+  },
+  "Otterbein": {
+    "abbr": "OTT",
+    "logo": "icons/otterbein.png"
+  },
+  "Ouachita Baptist": {
+    "abbr": "OUA",
+    "logo": "icons/ouachita-baptist.png"
+  },
+  "Ouachita Baptist University": {
+    "abbr": null,
+    "logo": "icons/ouachita-baptist-university.png"
+  },
+  "Pace": {
+    "abbr": "PAC",
+    "logo": "icons/pace.png"
+  },
+  "Pacific Lutheran": {
+    "abbr": "PACLTH",
+    "logo": "icons/pacific-lutheran.png"
+  },
+  "Pacific (OR)": {
+    "abbr": "PAC",
+    "logo": "icons/pacific-(or).png"
+  },
+  "Paine": {
+    "abbr": "PC",
+    "logo": "icons/paine.png"
+  },
+  "Palomar College": {
+    "abbr": null,
+    "logo": "icons/palomar-college.png"
+  },
+  "Penn State": {
+    "abbr": "PSU",
+    "logo": "icons/penn-state.png"
+  },
+  "Pennsylvania": {
+    "abbr": "PENN",
+    "logo": "icons/pennsylvania.png"
+  },
+  "PennWest California": {
+    "abbr": "PWC",
+    "logo": "icons/pennwest-california.png"
+  },
+  "Phoenix": {
+    "abbr": "AZCHR",
+    "logo": "icons/phoenix.png"
+  },
+  "Pikeville": {
+    "abbr": "PIKEV",
+    "logo": "icons/pikeville.png"
+  },
+  "Pittsburgh": {
+    "abbr": "PITT",
+    "logo": "icons/pittsburgh.png"
+  },
+  "Pittsburg St": {
+    "abbr": "PIT",
+    "logo": "icons/pittsburg-st.png"
+  },
+  "Plymouth State": {
+    "abbr": "PLYST",
+    "logo": "icons/plymouth-state.png"
+  },
+  "Point University": {
+    "abbr": "POINT",
+    "logo": "icons/point-university.png"
+  },
+  "Pomona Pitzer": {
+    "abbr": "POM",
+    "logo": "icons/pomona-pitzer.png"
+  },
+  "Portland State": {
+    "abbr": "PRST",
+    "logo": "icons/portland-state.png"
+  },
+  "Post University": {
+    "abbr": "POS",
+    "logo": "icons/post-university.png"
+  },
+  "Prairie View A&M": {
+    "abbr": "PV",
+    "logo": "icons/prairie-view-a&m.png"
+  },
+  "Presbyterian": {
+    "abbr": "PRES",
+    "logo": "icons/presbyterian.png"
+  },
+  "Presentation": {
+    "abbr": "PRE",
+    "logo": "icons/presentation.png"
+  },
+  "Princeton": {
+    "abbr": "PRIN",
+    "logo": "icons/princeton.png"
+  },
+  "Principia College": {
+    "abbr": "PRI",
+    "logo": "icons/principia-college.png"
+  },
+  "Professional": {
+    "abbr": null,
+    "logo": "icons/professional.png"
+  },
+  "Puget Sound": {
+    "abbr": "PUGET",
+    "logo": "icons/puget-sound.png"
+  },
+  "Purdue": {
+    "abbr": "PUR",
+    "logo": "icons/purdue.png"
+  },
+  "Quincy": {
+    "abbr": "QUI",
+    "logo": "icons/quincy.png"
+  },
+  "Randolph-Macon": {
+    "abbr": "RAN",
+    "logo": "icons/randolph-macon.png"
+  },
+  "Reading": {
+    "abbr": "ALVERNIA",
+    "logo": "icons/reading.png"
+  },
+  "Redlands": {
+    "abbr": "RED",
+    "logo": "icons/redlands.png"
+  },
+  "Reinhardt University": {
+    "abbr": "REIN",
+    "logo": "icons/reinhardt-university.png"
+  },
+  "Rensselaer": {
+    "abbr": "RPI",
+    "logo": "icons/rensselaer.png"
+  },
+  "Rhode Island": {
+    "abbr": "URI",
+    "logo": "icons/rhode-island.png"
+  },
+  "Rhodes College": {
+    "abbr": "RHO",
+    "logo": "icons/rhodes-college.png"
+  },
+  "Rice": {
+    "abbr": "RICE",
+    "logo": "icons/rice.png"
+  },
+  "Richmond": {
+    "abbr": "RICH",
+    "logo": "icons/richmond.png"
+  },
+  "Ripon": {
+    "abbr": "RIP",
+    "logo": "icons/ripon.png"
+  },
+  "Riverside C.C.": {
+    "abbr": null,
+    "logo": "icons/riverside-c.c..png"
+  },
+  "Roanoke College": {
+    "abbr": "ROA",
+    "logo": "icons/roanoke-college.png"
+  },
+  "Robert Morris": {
+    "abbr": "RMU",
+    "logo": "icons/robert-morris.png"
+  },
+  "Robert Morris University-Illinois": {
+    "abbr": "ROOSE",
+    "logo": "icons/robert-morris-university-illinois.png"
+  },
+  "Rockford": {
+    "abbr": "ROCKF",
+    "logo": "icons/rockford.png"
+  },
+  "Roosevelt": {
+    "abbr": "ROO",
+    "logo": "icons/roosevelt.png"
+  },
+  "Rose-Hulman": {
+    "abbr": "ROSEHUL",
+    "logo": "icons/rose-hulman.png"
+  },
+  "Rowan": {
+    "abbr": "ROW",
+    "logo": "icons/rowan.png"
+  },
+  "Rutgers": {
+    "abbr": "RUTG",
+    "logo": "icons/rutgers.png"
+  },
+  "Sacramento State": {
+    "abbr": "SAC",
+    "logo": "icons/sacramento-state.png"
+  },
+  "Sacred Heart": {
+    "abbr": "SHU",
+    "logo": "icons/sacred-heart.png"
+  },
+  "Saddleback College": {
+    "abbr": null,
+    "logo": "icons/saddleback-college.png"
+  },
+  "Saginaw Valley State": {
+    "abbr": "SAGI",
+    "logo": "icons/saginaw-valley-state.png"
+  },
+  "Saint Anselm": {
+    "abbr": null,
+    "logo": "icons/saint-anselm.png"
+  },
+  "Saint Francis": {
+    "abbr": null,
+    "logo": "icons/saint-francis.png"
+  },
+  "Saint Francis (PA)": {
+    "abbr": null,
+    "logo": "icons/saint-francis-(pa).png"
+  },
+  "Saint John's (MN)": {
+    "abbr": "ST. J",
+    "logo": "icons/saint-john's-(mn).png"
+  },
+  "Saint Vincent": {
+    "abbr": "STV",
+    "logo": "icons/saint-vincent.png"
+  },
+  "Saint Xavier (IL)": {
+    "abbr": null,
+    "logo": "icons/saint-xavier-(il).png"
+  },
+  "Salisbury": {
+    "abbr": "SALIS",
+    "logo": "icons/salisbury.png"
+  },
+  "Salve Regina": {
+    "abbr": "SALVE",
+    "logo": "icons/salve-regina.png"
+  },
+  "Samford": {
+    "abbr": "SAM",
+    "logo": "icons/samford.png"
+  },
+  "Sam Houston": {
+    "abbr": "SHSU",
+    "logo": "icons/sam-houston.png"
+  },
+  "San Diego": {
+    "abbr": "USD",
+    "logo": "icons/san-diego.png"
+  },
+  "San Diego State": {
+    "abbr": "SDSU",
+    "logo": "icons/san-diego-state.png"
+  },
+  "San José State": {
+    "abbr": "SJSU",
+    "logo": "icons/san-josé-state.png"
+  },
+  "Santa Rosa J.C.": {
+    "abbr": null,
+    "logo": "icons/santa-rosa-j.c..png"
+  },
+  "Savannah St": {
+    "abbr": "SAV",
+    "logo": "icons/savannah-st.png"
+  },
+  "SE Louisiana": {
+    "abbr": "SELA",
+    "logo": "icons/se-louisiana.png"
+  },
+  "Seton Hill": {
+    "abbr": "SETONHILL",
+    "logo": "icons/seton-hill.png"
+  },
+  "Sewanee": {
+    "abbr": "SEWAN",
+    "logo": "icons/sewanee.png"
+  },
+  "Shaw": {
+    "abbr": "SHAW",
+    "logo": "icons/shaw.png"
+  },
+  "Shenandoah": {
+    "abbr": "SHENAN",
+    "logo": "icons/shenandoah.png"
+  },
+  "Shepherd": {
+    "abbr": "SHE",
+    "logo": "icons/shepherd.png"
+  },
+  "Shepherd Tech": {
+    "abbr": "STC",
+    "logo": "icons/shepherd-tech.png"
+  },
+  "Shepherd University": {
+    "abbr": null,
+    "logo": "icons/shepherd-university.png"
+  },
+  "Shippensburg": {
+    "abbr": "SHPSBRG",
+    "logo": "icons/shippensburg.png"
+  },
+  "Shippensburg University": {
+    "abbr": null,
+    "logo": "icons/shippensburg-university.png"
+  },
+  "Siena": {
+    "abbr": "SIE",
+    "logo": "icons/siena.png"
+  },
+  "Simon Fraser": {
+    "abbr": "SIM",
+    "logo": "icons/simon-fraser.png"
+  },
+  "Simpson College (IA)": {
+    "abbr": "SIMPS",
+    "logo": "icons/simpson-college-(ia).png"
+  },
+  "Simpson University (Ca)": {
+    "abbr": null,
+    "logo": "icons/simpson-university-(ca).png"
+  },
+  "Slippery Rock": {
+    "abbr": "SRU",
+    "logo": "icons/slippery-rock.png"
+  },
+  "SMU": {
+    "abbr": "SMU",
+    "logo": "icons/smu.png"
+  },
+  "Snow College": {
+    "abbr": null,
+    "logo": "icons/snow-college.png"
+  },
+  "SOUTH": {
+    "abbr": "SOU",
+    "logo": "icons/south.png"
+  },
+  "South Alabama": {
+    "abbr": "USA",
+    "logo": "icons/south-alabama.png"
+  },
+  "South Carolina": {
+    "abbr": "SC",
+    "logo": "icons/south-carolina.png"
+  },
+  "South Carolina State": {
+    "abbr": "SCST",
+    "logo": "icons/south-carolina-state.png"
+  },
+  "South Dakota": {
+    "abbr": "SDAK",
+    "logo": "icons/south-dakota.png"
+  },
+  "South Dakota Mines": {
+    "abbr": "SDMT",
+    "logo": "icons/south-dakota-mines.png"
+  },
+  "South Dakota State": {
+    "abbr": "SDST",
+    "logo": "icons/south-dakota-state.png"
+  },
+  "Southeastern Louisiana": {
+    "abbr": null,
+    "logo": "icons/southeastern-louisiana.png"
+  },
+  "Southeastern Oklahoma State": {
+    "abbr": "SEOS",
+    "logo": "icons/southeastern-oklahoma-state.png"
+  },
+  "Southeast Missouri State": {
+    "abbr": "SEMO",
+    "logo": "icons/southeast-missouri-state.png"
+  },
+  "Southeast Oklahoma State": {
+    "abbr": null,
+    "logo": "icons/southeast-oklahoma-state.png"
+  },
+  "Southern": {
+    "abbr": "SOU",
+    "logo": "icons/southern.png"
+  },
+  "Southern Arkansas": {
+    "abbr": "SOU",
+    "logo": "icons/southern-arkansas.png"
+  },
+  "Southern Connecticut State": {
+    "abbr": "SOU",
+    "logo": "icons/southern-connecticut-state.png"
+  },
+  "Southern Illinois": {
+    "abbr": "SIU",
+    "logo": "icons/southern-illinois.png"
+  },
+  "Southern Miss": {
+    "abbr": "USM",
+    "logo": "icons/southern-miss.png"
+  },
+  "Southern Nazarene": {
+    "abbr": "STN",
+    "logo": "icons/southern-nazarene.png"
+  },
+  "Southern Oregon": {
+    "abbr": "SOU",
+    "logo": "icons/southern-oregon.png"
+  },
+  "Southern Utah": {
+    "abbr": "SUU",
+    "logo": "icons/southern-utah.png"
+  },
+  "Southern Virginia": {
+    "abbr": "SVA",
+    "logo": "icons/southern-virginia.png"
+  },
+  "South Florida": {
+    "abbr": "USF",
+    "logo": "icons/south-florida.png"
+  },
+  "Southwest Baptist": {
+    "abbr": "SWB",
+    "logo": "icons/southwest-baptist.png"
+  },
+  "Southwestern Assemblies Of God": {
+    "abbr": "NEL",
+    "logo": "icons/southwestern-assemblies-of-god.png"
+  },
+  "Southwestern College": {
+    "abbr": "SCKS",
+    "logo": "icons/southwestern-college.png"
+  },
+  "Southwestern Oklahoma State": {
+    "abbr": "SWO",
+    "logo": "icons/southwestern-oklahoma-state.png"
+  },
+  "Southwest Minnesota State": {
+    "abbr": "SWMN",
+    "logo": "icons/southwest-minnesota-state.png"
+  },
+  "Southwest Mississippi C.C.": {
+    "abbr": null,
+    "logo": "icons/southwest-mississippi-c.c..png"
+  },
+  "Springfield": {
+    "abbr": "SPR",
+    "logo": "icons/springfield.png"
+  },
+  "St Ambrose University  Iowa": {
+    "abbr": "STA",
+    "logo": "icons/st-ambrose-university-iowa.png"
+  },
+  "Stanford": {
+    "abbr": "STAN",
+    "logo": "icons/stanford.png"
+  },
+  "St. Anselm": {
+    "abbr": "STA",
+    "logo": "icons/st.-anselm.png"
+  },
+  "St. Augustine's": {
+    "abbr": "STA",
+    "logo": "icons/st.-augustine's.png"
+  },
+  "St. Cloud State": {
+    "abbr": "STC",
+    "logo": "icons/st.-cloud-state.png"
+  },
+  "Stephen F. Austin": {
+    "abbr": "SFA",
+    "logo": "icons/stephen-f.-austin.png"
+  },
+  "Sterling College": {
+    "abbr": "STCKS",
+    "logo": "icons/sterling-college.png"
+  },
+  "Stetson": {
+    "abbr": "STET",
+    "logo": "icons/stetson.png"
+  },
+  "Stevenson": {
+    "abbr": "STU",
+    "logo": "icons/stevenson.png"
+  },
+  "St Francis Illinois": {
+    "abbr": "SFIL",
+    "logo": "icons/st-francis-illinois.png"
+  },
+  "St. Francis (PA)": {
+    "abbr": "SFPA",
+    "logo": "icons/st.-francis-(pa).png"
+  },
+  "Stillman": {
+    "abbr": "STI",
+    "logo": "icons/stillman.png"
+  },
+  "St John Fisher University": {
+    "abbr": "SJFISH",
+    "logo": "icons/st-john-fisher-university.png"
+  },
+  "St. Joseph's (IN)": {
+    "abbr": "ST",
+    "logo": "icons/st.-joseph's-(in).png"
+  },
+  "St. Lawrence": {
+    "abbr": null,
+    "logo": "icons/st.-lawrence.png"
+  },
+  "St. Louis": {
+    "abbr": "MB",
+    "logo": "icons/st.-louis.png"
+  },
+  "St. Mary's (CA)": {
+    "abbr": "SMC",
+    "logo": "icons/st.-mary's-(ca).png"
+  },
+  "St. Norbert": {
+    "abbr": "STN",
+    "logo": "icons/st.-norbert.png"
+  },
+  "St. Olaf": {
+    "abbr": null,
+    "logo": "icons/st.-olaf.png"
+  },
+  "Stonehill": {
+    "abbr": "STO",
+    "logo": "icons/stonehill.png"
+  },
+  "Stony Brook": {
+    "abbr": "STBK",
+    "logo": "icons/stony-brook.png"
+  },
+  "St. Paul's College": {
+    "abbr": "STP",
+    "logo": "icons/st.-paul's-college.png"
+  },
+  "St. Peter's": {
+    "abbr": "SPU",
+    "logo": "icons/st.-peter's.png"
+  },
+  "St. Petersburg": {
+    "abbr": "UFFL",
+    "logo": "icons/st.-petersburg.png"
+  },
+  "St. Scholastica": {
+    "abbr": "SCHOLA",
+    "logo": "icons/st.-scholastica.png"
+  },
+  "St. Thomas (MN)": {
+    "abbr": "STMN",
+    "logo": "icons/st.-thomas-(mn).png"
+  },
+  "St. Thomas University": {
+    "abbr": null,
+    "logo": "icons/st.-thomas-university.png"
+  },
+  "St. Thomas University (Fl)": {
+    "abbr": null,
+    "logo": "icons/st.-thomas-university-(fl).png"
+  },
+  "St. Xavier IL": {
+    "abbr": "STX",
+    "logo": "icons/st.-xavier-il.png"
+  },
+  "Sul Ross State": {
+    "abbr": "SROS",
+    "logo": "icons/sul-ross-state.png"
+  },
+  "SUNY Maritime": {
+    "abbr": "SUNYMAR",
+    "logo": "icons/suny-maritime.png"
+  },
+  "SUNY Morrisville": {
+    "abbr": "MOR",
+    "logo": "icons/suny-morrisville.png"
+  },
+  "Susquehanna": {
+    "abbr": "SUS",
+    "logo": "icons/susquehanna.png"
+  },
+  "Syracuse": {
+    "abbr": "SYR",
+    "logo": "icons/syracuse.png"
+  },
+  "Tarleton State": {
+    "abbr": "TAR",
+    "logo": "icons/tarleton-state.png"
+  },
+  "TCU": {
+    "abbr": "TCU",
+    "logo": "icons/tcu.png"
+  },
+  "Temple": {
+    "abbr": "TEM",
+    "logo": "icons/temple.png"
+  },
+  "Tennessee": {
+    "abbr": "TENN",
+    "logo": "icons/tennessee.png"
+  },
+  "Tennessee State": {
+    "abbr": "TNST",
+    "logo": "icons/tennessee-state.png"
+  },
+  "Tennessee Tech": {
+    "abbr": "TNTC",
+    "logo": "icons/tennessee-tech.png"
+  },
+  "Texas": {
+    "abbr": "TEX",
+    "logo": "icons/texas.png"
+  },
+  "Texas A&M": {
+    "abbr": "TA&M",
+    "logo": "icons/texas-a&m.png"
+  },
+  "Texas A&M-Kingsville": {
+    "abbr": "TXA",
+    "logo": "icons/texas-a&m-kingsville.png"
+  },
+  "Texas College": {
+    "abbr": "TXCL",
+    "logo": "icons/texas-college.png"
+  },
+  "Texas Lutheran": {
+    "abbr": "TL",
+    "logo": "icons/texas-lutheran.png"
+  },
+  "Texas-Permian Basin": {
+    "abbr": null,
+    "logo": "icons/texas-permian-basin.png"
+  },
+  "Texas-Rio Grande Valley": {
+    "abbr": null,
+    "logo": "icons/texas-rio-grande-valley.png"
+  },
+  "Texas Southern": {
+    "abbr": "TXSO",
+    "logo": "icons/texas-southern.png"
+  },
+  "Texas State": {
+    "abbr": "TXST",
+    "logo": "icons/texas-state.png"
+  },
+  "Texas Tech": {
+    "abbr": "TTU",
+    "logo": "icons/texas-tech.png"
+  },
+  "Texas Wesleyan": {
+    "abbr": null,
+    "logo": "icons/texas-wesleyan.png"
+  },
+  "Thaddeus Stevens": {
+    "abbr": "TSCT",
+    "logo": "icons/thaddeus-stevens.png"
+  },
+  "The Citadel": {
+    "abbr": "CIT",
+    "logo": "icons/the-citadel.png"
+  },
+  "Thomas More College": {
+    "abbr": "THMORE",
+    "logo": "icons/thomas-more-college.png"
+  },
+  "Tiffin University": {
+    "abbr": "TIF",
+    "logo": "icons/tiffin-university.png"
+  },
+  "Toledo": {
+    "abbr": "TOL",
+    "logo": "icons/toledo.png"
+  },
+  "Towson": {
+    "abbr": "TOW",
+    "logo": "icons/towson.png"
+  },
+  "Trine University": {
+    "abbr": "TRI",
+    "logo": "icons/trine-university.png"
+  },
+  "Trinity": {
+    "abbr": null,
+    "logo": "icons/trinity.png"
+  },
+  "Trinity Bible College": {
+    "abbr": "TRINBIB",
+    "logo": "icons/trinity-bible-college.png"
+  },
+  "Trinity (Conn.)": {
+    "abbr": null,
+    "logo": "icons/trinity-(conn.).png"
+  },
+  "Trinity (CT)": {
+    "abbr": "TRI",
+    "logo": "icons/trinity-(ct).png"
+  },
+  "Trinity (IL)": {
+    "abbr": "TRI",
+    "logo": "icons/trinity-(il).png"
+  },
+  "Trinity University TX": {
+    "abbr": "TRTX",
+    "logo": "icons/trinity-university-tx.png"
+  },
+  "Trinity Valley C.C.": {
+    "abbr": null,
+    "logo": "icons/trinity-valley-c.c..png"
+  },
+  "Troy": {
+    "abbr": "TROY",
+    "logo": "icons/troy.png"
+  },
+  "Truman State": {
+    "abbr": "TRU",
+    "logo": "icons/truman-state.png"
+  },
+  "Tufts": {
+    "abbr": "TUF",
+    "logo": "icons/tufts.png"
+  },
+  "Tufts University": {
+    "abbr": null,
+    "logo": "icons/tufts-university.png"
+  },
+  "Tulane": {
+    "abbr": "TULN",
+    "logo": "icons/tulane.png"
+  },
+  "Tulsa": {
+    "abbr": "TLSA",
+    "logo": "icons/tulsa.png"
+  },
+  "Tuskegee": {
+    "abbr": "TUS",
+    "logo": "icons/tuskegee.png"
+  },
+  "Tyler J.C. ": {
+    "abbr": null,
+    "logo": "icons/tyler-j.c.-.png"
+  },
+  "UAB": {
+    "abbr": "UAB",
+    "logo": "icons/uab.png"
+  },
+  "UAlbany": {
+    "abbr": "UALB",
+    "logo": "icons/ualbany.png"
+  },
+  "UC Davis": {
+    "abbr": "UCD",
+    "logo": "icons/uc-davis.png"
+  },
+  "UCF": {
+    "abbr": "UCF",
+    "logo": "icons/ucf.png"
+  },
+  "UCLA": {
+    "abbr": "UCLA",
+    "logo": "icons/ucla.png"
+  },
+  "UConn": {
+    "abbr": "CONN",
+    "logo": "icons/uconn.png"
+  },
+  "UFTL": {
+    "abbr": "UFTL",
+    "logo": "icons/uftl.png"
+  },
+  "UL Monroe": {
+    "abbr": "ULM",
+    "logo": "icons/ul-monroe.png"
+  },
+  "UMass Dartmouth": {
+    "abbr": "MAS",
+    "logo": "icons/umass-dartmouth.png"
+  },
+  "UMass Lowell": {
+    "abbr": "UML",
+    "logo": "icons/umass-lowell.png"
+  },
+  "UNC Pembroke": {
+    "abbr": "NCPEMB",
+    "logo": "icons/unc-pembroke.png"
+  },
+  "UNC-Pembroke": {
+    "abbr": null,
+    "logo": "icons/unc-pembroke.png"
+  },
+  "Union (NY)": {
+    "abbr": null,
+    "logo": "icons/union-(ny).png"
+  },
+  "University of Charleston": {
+    "abbr": null,
+    "logo": "icons/university-of-charleston.png"
+  },
+  "University Of Charleston (WV)": {
+    "abbr": "CHWV",
+    "logo": "icons/university-of-charleston-(wv).png"
+  },
+  "University of God's Chosen": {
+    "abbr": "GDCH",
+    "logo": "icons/university-of-god's-chosen.png"
+  },
+  "University of Guelph": {
+    "abbr": null,
+    "logo": "icons/university-of-guelph.png"
+  },
+  "University Of Mexico": {
+    "abbr": "UMEX",
+    "logo": "icons/university-of-mexico.png"
+  },
+  "University of Mount Union": {
+    "abbr": "MTU",
+    "logo": "icons/university-of-mount-union.png"
+  },
+  "University of Rio Grande": {
+    "abbr": null,
+    "logo": "icons/university-of-rio-grande.png"
+  },
+  "University of Rochester (NY)": {
+    "abbr": "ROC",
+    "logo": "icons/university-of-rochester-(ny).png"
+  },
+  "University Of St Francis IN": {
+    "abbr": "SBP",
+    "logo": "icons/university-of-st-francis-in.png"
+  },
+  "UNLV": {
+    "abbr": "UNLV",
+    "logo": "icons/unlv.png"
+  },
+  "Upper Iowa University": {
+    "abbr": "UPPERIOWA",
+    "logo": "icons/upper-iowa-university.png"
+  },
+  "Urbana": {
+    "abbr": "URB",
+    "logo": "icons/urbana.png"
+  },
+  "Ursinus": {
+    "abbr": "URS",
+    "logo": "icons/ursinus.png"
+  },
+  "USC": {
+    "abbr": "USC",
+    "logo": "icons/usc.png"
+  },
+  "Utah": {
+    "abbr": "UTAH",
+    "logo": "icons/utah.png"
+  },
+  "Utah State": {
+    "abbr": "USU",
+    "logo": "icons/utah-state.png"
+  },
+  "Utah Tech": {
+    "abbr": "UTU",
+    "logo": "icons/utah-tech.png"
+  },
+  "UTEP": {
+    "abbr": "UTEP",
+    "logo": "icons/utep.png"
+  },
+  "Utica": {
+    "abbr": "UTICA",
+    "logo": "icons/utica.png"
+  },
+  "UT Martin": {
+    "abbr": "UTM",
+    "logo": "icons/ut-martin.png"
+  },
+  "UT Permian Basin": {
+    "abbr": "TXPBAS",
+    "logo": "icons/ut-permian-basin.png"
+  },
+  "UT Rio Grande Valley": {
+    "abbr": "RGV",
+    "logo": "icons/ut-rio-grande-valley.png"
+  },
+  "UT-Rio Grande Valley": {
+    "abbr": null,
+    "logo": "icons/ut-rio-grande-valley.png"
+  },
+  "UT-Rio Grande Valley (Do not use)": {
+    "abbr": null,
+    "logo": "icons/ut-rio-grande-valley-(do-not-use).png"
+  },
+  "UTSA": {
+    "abbr": "UTSA",
+    "logo": "icons/utsa.png"
+  },
+  "UVA Wise": {
+    "abbr": "VIRWISE",
+    "logo": "icons/uva-wise.png"
+  },
+  "Valdosta State": {
+    "abbr": "VAL",
+    "logo": "icons/valdosta-state.png"
+  },
+  "Valley City State": {
+    "abbr": "VALCST",
+    "logo": "icons/valley-city-state.png"
+  },
+  "Valparaiso": {
+    "abbr": "VAL",
+    "logo": "icons/valparaiso.png"
+  },
+  "Vanderbilt": {
+    "abbr": "VAN",
+    "logo": "icons/vanderbilt.png"
+  },
+  "Villanova": {
+    "abbr": "VILL",
+    "logo": "icons/villanova.png"
+  },
+  "Virginia": {
+    "abbr": "UVA",
+    "logo": "icons/virginia.png"
+  },
+  "Virginia St": {
+    "abbr": "VIR",
+    "logo": "icons/virginia-st.png"
+  },
+  "Virginia Tech": {
+    "abbr": "VT",
+    "logo": "icons/virginia-tech.png"
+  },
+  "Virginia University Of Lynchburg": {
+    "abbr": "VIRLYN",
+    "logo": "icons/virginia-university-of-lynchburg.png"
+  },
+  "VMI": {
+    "abbr": "VMI",
+    "logo": "icons/vmi.png"
+  },
+  "Wabash College": {
+    "abbr": "WAB",
+    "logo": "icons/wabash-college.png"
+  },
+  "Wagner": {
+    "abbr": "WAG",
+    "logo": "icons/wagner.png"
+  },
+  "Wake Forest": {
+    "abbr": "WAKE",
+    "logo": "icons/wake-forest.png"
+  },
+  "Waldorf College": {
+    "abbr": "WAL",
+    "logo": "icons/waldorf-college.png"
+  },
+  "Walsh": {
+    "abbr": "WAL",
+    "logo": "icons/walsh.png"
+  },
+  "Warner University": {
+    "abbr": "WARNE",
+    "logo": "icons/warner-university.png"
+  },
+  "Wartburg": {
+    "abbr": "WAR",
+    "logo": "icons/wartburg.png"
+  },
+  "Washburn": {
+    "abbr": "WAS",
+    "logo": "icons/washburn.png"
+  },
+  "Washington": {
+    "abbr": "WASH",
+    "logo": "icons/washington.png"
+  },
+  "Washington and Lee": {
+    "abbr": "UWL",
+    "logo": "icons/washington-and-lee.png"
+  },
+  "Washington & Jefferson": {
+    "abbr": "WAS",
+    "logo": "icons/washington-&-jefferson.png"
+  },
+  "Washington State": {
+    "abbr": "WSU",
+    "logo": "icons/washington-state.png"
+  },
+  "Washington University (St. Louis)": {
+    "abbr": "WSTL",
+    "logo": "icons/washington-university-(st.-louis).png"
+  },
+  "Wayland Baptist": {
+    "abbr": "WAYLAND",
+    "logo": "icons/wayland-baptist.png"
+  },
+  "Waynesburg": {
+    "abbr": "WAYNEB",
+    "logo": "icons/waynesburg.png"
+  },
+  "Wayne State (MI)": {
+    "abbr": "WAY",
+    "logo": "icons/wayne-state-(mi).png"
+  },
+  "Wayne State (NE)": {
+    "abbr": "WNST",
+    "logo": "icons/wayne-state-(ne).png"
+  },
+  "Webber International": {
+    "abbr": "WEBBINT",
+    "logo": "icons/webber-international.png"
+  },
+  "Weber State": {
+    "abbr": "WEB",
+    "logo": "icons/weber-state.png"
+  },
+  "Wesleyan University (CT)": {
+    "abbr": "WES",
+    "logo": "icons/wesleyan-university-(ct).png"
+  },
+  "Wesley College": {
+    "abbr": "WES",
+    "logo": "icons/wesley-college.png"
+  },
+  "West": {
+    "abbr": "WEST",
+    "logo": "icons/west.png"
+  },
+  "West Alabama": {
+    "abbr": "WES",
+    "logo": "icons/west-alabama.png"
+  },
+  "West Chester": {
+    "abbr": "WES",
+    "logo": "icons/west-chester.png"
+  },
+  "Western Carolina": {
+    "abbr": "WCU",
+    "logo": "icons/western-carolina.png"
+  },
+  "Western Colorado": {
+    "abbr": "WSCO",
+    "logo": "icons/western-colorado.png"
+  },
+  "Western Connecticut St": {
+    "abbr": "WES",
+    "logo": "icons/western-connecticut-st.png"
+  },
+  "Western Illinois": {
+    "abbr": "WIU",
+    "logo": "icons/western-illinois.png"
+  },
+  "Western Kentucky": {
+    "abbr": "WKU",
+    "logo": "icons/western-kentucky.png"
+  },
+  "Western Michigan": {
+    "abbr": "WMU",
+    "logo": "icons/western-michigan.png"
+  },
+  "Western New England": {
+    "abbr": "WNWENG",
+    "logo": "icons/western-new-england.png"
+  },
+  "Western New Mexico": {
+    "abbr": "WNMEX",
+    "logo": "icons/western-new-mexico.png"
+  },
+  "Western Oregon": {
+    "abbr": "WORE",
+    "logo": "icons/western-oregon.png"
+  },
+  "Western Washington": {
+    "abbr": "WES",
+    "logo": "icons/western-washington.png"
+  },
+  "Westfield State": {
+    "abbr": "WES",
+    "logo": "icons/westfield-state.png"
+  },
+  "West Florida": {
+    "abbr": "WES",
+    "logo": "icons/west-florida.png"
+  },
+  "West Georgia": {
+    "abbr": "WGA",
+    "logo": "icons/west-georgia.png"
+  },
+  "West Liberty": {
+    "abbr": "WLIBST",
+    "logo": "icons/west-liberty.png"
+  },
+  "West Memphis": {
+    "abbr": "FAI",
+    "logo": "icons/west-memphis.png"
+  },
+  "Westminster College (MO)": {
+    "abbr": "WMN",
+    "logo": "icons/westminster-college-(mo).png"
+  },
+  "Westminster (PA)": {
+    "abbr": "WMNPA",
+    "logo": "icons/westminster-(pa).png"
+  },
+  "West Texas A&M": {
+    "abbr": "WES",
+    "logo": "icons/west-texas-a&m.png"
+  },
+  "West Virginia": {
+    "abbr": "WVU",
+    "logo": "icons/west-virginia.png"
+  },
+  "West Virginia Institute Of Tech": {
+    "abbr": "WVT",
+    "logo": "icons/west-virginia-institute-of-tech.png"
+  },
+  "West Virginia State": {
+    "abbr": null,
+    "logo": "icons/west-virginia-state.png"
+  },
+  "West Virginia Wesleyan": {
+    "abbr": "WEST",
+    "logo": "icons/west-virginia-wesleyan.png"
+  },
+  "Wheaton": {
+    "abbr": "WHEATON",
+    "logo": "icons/wheaton.png"
+  },
+  "Wheeling": {
+    "abbr": "WHEEL",
+    "logo": "icons/wheeling.png"
+  },
+  "Whittier": {
+    "abbr": "WHI",
+    "logo": "icons/whittier.png"
+  },
+  "Whitworth": {
+    "abbr": "WHI",
+    "logo": "icons/whitworth.png"
+  },
+  "Widener": {
+    "abbr": "WID",
+    "logo": "icons/widener.png"
+  },
+  "Wilkes": {
+    "abbr": "WILKES",
+    "logo": "icons/wilkes.png"
+  },
+  "Willamette": {
+    "abbr": "WLLMTT",
+    "logo": "icons/willamette.png"
+  },
+  "William Jewell": {
+    "abbr": null,
+    "logo": "icons/william-jewell.png"
+  },
+  "William Jewell College": {
+    "abbr": null,
+    "logo": "icons/william-jewell-college.png"
+  },
+  "William & Mary": {
+    "abbr": "W&M",
+    "logo": "icons/william-&-mary.png"
+  },
+  "William Paterson": {
+    "abbr": "WILLPAT",
+    "logo": "icons/william-paterson.png"
+  },
+  "William Penn": {
+    "abbr": "WILLPENN",
+    "logo": "icons/william-penn.png"
+  },
+  "Williams": {
+    "abbr": "WIL",
+    "logo": "icons/williams.png"
+  },
+  "Williamson Trade School": {
+    "abbr": "WIL",
+    "logo": "icons/williamson-trade-school.png"
+  },
+  "William Woods": {
+    "abbr": null,
+    "logo": "icons/william-woods.png"
+  },
+  "Wilmington (OH)": {
+    "abbr": "WILMOH",
+    "logo": "icons/wilmington-(oh).png"
+  },
+  "Wilson": {
+    "abbr": "BARTON",
+    "logo": "icons/wilson.png"
+  },
+  "Wingate": {
+    "abbr": "WIN",
+    "logo": "icons/wingate.png"
+  },
+  "Winona State": {
+    "abbr": "WIN",
+    "logo": "icons/winona-state.png"
+  },
+  "Winston-Salem": {
+    "abbr": "WNSL",
+    "logo": "icons/winston-salem.png"
+  },
+  "Winston-Salem State": {
+    "abbr": null,
+    "logo": "icons/winston-salem-state.png"
+  },
+  "Wisconsin": {
+    "abbr": "WIS",
+    "logo": "icons/wisconsin.png"
+  },
+  "Wisconsin-Eau Claire": {
+    "abbr": "WISE",
+    "logo": "icons/wisconsin-eau-claire.png"
+  },
+  "Wisconsin-Lacrosse": {
+    "abbr": "WISL",
+    "logo": "icons/wisconsin-lacrosse.png"
+  },
+  "Wisconsin-Lutheran": {
+    "abbr": "WILU",
+    "logo": "icons/wisconsin-lutheran.png"
+  },
+  "Wisconsin-Oshkosh": {
+    "abbr": null,
+    "logo": "icons/wisconsin-oshkosh.png"
+  },
+  "Wisconsin-Platteville": {
+    "abbr": "WIPL",
+    "logo": "icons/wisconsin-platteville.png"
+  },
+  "Wisconsin-River Falls": {
+    "abbr": "WIRF",
+    "logo": "icons/wisconsin-river-falls.png"
+  },
+  "Wisconsin-Stevens Pt": {
+    "abbr": "WISP",
+    "logo": "icons/wisconsin-stevens-pt.png"
+  },
+  "Wisconsin-Stout": {
+    "abbr": "WISS",
+    "logo": "icons/wisconsin-stout.png"
+  },
+  "Wisconsin-Whitewater": {
+    "abbr": null,
+    "logo": "icons/wisconsin-whitewater.png"
+  },
+  "Wittenberg": {
+    "abbr": "WITTEN",
+    "logo": "icons/wittenberg.png"
+  },
+  "Wofford": {
+    "abbr": "WOF",
+    "logo": "icons/wofford.png"
+  },
+  "Wooster": {
+    "abbr": "WOO",
+    "logo": "icons/wooster.png"
+  },
+  "Worcester Polytechnic Institute": {
+    "abbr": "WORCE",
+    "logo": "icons/worcester-polytechnic-institute.png"
+  },
+  "Worcester St": {
+    "abbr": "WORST",
+    "logo": "icons/worcester-st.png"
+  },
+  "Wright State University": {
+    "abbr": "WRST",
+    "logo": "icons/wright-state-university.png"
+  },
+  "Wyoming": {
+    "abbr": "WYO",
+    "logo": "icons/wyoming.png"
+  },
+  "Yale": {
+    "abbr": "YALE",
+    "logo": "icons/yale.png"
+  },
+  "Youngstown State": {
+    "abbr": "YSU",
+    "logo": "icons/youngstown-state.png"
+  },
+  "10th District A.C.": {
+    "abbr": null,
+    "logo": "icons/10th-district-a.c..png"
+  },
+  "111th Ambulance": {
+    "abbr": null,
+    "logo": "icons/111th-ambulance.png"
+  },
+  "11th Cavalry": {
+    "abbr": null,
+    "logo": "icons/11th-cavalry.png"
+  },
+  "1st Infantry": {
+    "abbr": null,
+    "logo": "icons/1st-infantry.png"
+  },
+  "1st Texas Artillery": {
+    "abbr": null,
+    "logo": "icons/1st-texas-artillery.png"
+  },
+  "20th Infantry": {
+    "abbr": null,
+    "logo": "icons/20th-infantry.png"
+  },
+  "260th Coast Artillery": {
+    "abbr": null,
+    "logo": "icons/260th-coast-artillery.png"
+  },
+  "26th Infantry": {
+    "abbr": null,
+    "logo": "icons/26th-infantry.png"
+  },
+  "2nd Developmemt Regiment": {
+    "abbr": null,
+    "logo": "icons/2nd-developmemt-regiment.png"
+  },
+  "2nd Texas 132nd Infantry": {
+    "abbr": null,
+    "logo": "icons/2nd-texas-132nd-infantry.png"
+  },
+  "362nd Infantry": {
+    "abbr": null,
+    "logo": "icons/362nd-infantry.png"
+  },
+  "3rd Army Corps": {
+    "abbr": null,
+    "logo": "icons/3rd-army-corps.png"
+  },
+  "47th Infantry": {
+    "abbr": null,
+    "logo": "icons/47th-infantry.png"
+  },
+  "48th Infantry": {
+    "abbr": null,
+    "logo": "icons/48th-infantry.png"
+  },
+  "7th Infantry": {
+    "abbr": null,
+    "logo": "icons/7th-infantry.png"
+  },
+  "9th Amry Corps": {
+    "abbr": null,
+    "logo": "icons/9th-amry-corps.png"
+  },
+  "Abilene Field": {
+    "abbr": null,
+    "logo": "icons/abilene-field.png"
+  },
+  "Active Football Club": {
+    "abbr": null,
+    "logo": "icons/active-football-club.png"
+  },
+  "Actual Business College": {
+    "abbr": null,
+    "logo": "icons/actual-business-college.png"
+  },
+  "Adelbert": {
+    "abbr": null,
+    "logo": "icons/adelbert.png"
+  },
+  "Adelphi": {
+    "abbr": null,
+    "logo": "icons/adelphi.png"
+  },
+  "Alabama Medical": {
+    "abbr": null,
+    "logo": "icons/alabama-medical.png"
+  },
+  "Alabama Presbyterian": {
+    "abbr": null,
+    "logo": "icons/alabama-presbyterian.png"
+  },
+  "Alabama Southern": {
+    "abbr": null,
+    "logo": "icons/alabama-southern.png"
+  },
+  "Alameda Coast Guard": {
+    "abbr": null,
+    "logo": "icons/alameda-coast-guard.png"
+  },
+  "Alameda NAS": {
+    "abbr": null,
+    "logo": "icons/alameda-nas.png"
+  },
+  "Albertson": {
+    "abbr": null,
+    "logo": "icons/albertson.png"
+  },
+  "Albuquerque Field": {
+    "abbr": null,
+    "logo": "icons/albuquerque-field.png"
+  },
+  "Alliance": {
+    "abbr": null,
+    "logo": "icons/alliance.png"
+  },
+  "Altoona A.C.": {
+    "abbr": null,
+    "logo": "icons/altoona-a.c..png"
+  },
+  "Alverno College": {
+    "abbr": null,
+    "logo": "icons/alverno-college.png"
+  },
+  "Amarillo Field": {
+    "abbr": null,
+    "logo": "icons/amarillo-field.png"
+  },
+  "American Legion": {
+    "abbr": null,
+    "logo": "icons/american-legion.png"
+  },
+  "American Medical": {
+    "abbr": null,
+    "logo": "icons/american-medical.png"
+  },
+  "American Osteopath": {
+    "abbr": null,
+    "logo": "icons/american-osteopath.png"
+  },
+  "Amherst YMCA": {
+    "abbr": null,
+    "logo": "icons/amherst-ymca.png"
+  },
+  "Anaconda Anodes": {
+    "abbr": null,
+    "logo": "icons/anaconda-anodes.png"
+  },
+  "Anderson": {
+    "abbr": null,
+    "logo": "icons/anderson.png"
+  },
+  "Andover": {
+    "abbr": null,
+    "logo": "icons/andover.png"
+  },
+  "Arizona All-Stars": {
+    "abbr": null,
+    "logo": "icons/arizona-all-stars.png"
+  },
+  "Armour": {
+    "abbr": null,
+    "logo": "icons/armour.png"
+  },
+  "Army Ambulance Corps": {
+    "abbr": null,
+    "logo": "icons/army-ambulance-corps.png"
+  },
+  "Athens": {
+    "abbr": null,
+    "logo": "icons/athens.png"
+  },
+  "Athens A.C.": {
+    "abbr": null,
+    "logo": "icons/athens-a.c..png"
+  },
+  "Atlantic Christian": {
+    "abbr": null,
+    "logo": "icons/atlantic-christian.png"
+  },
+  "Atlantic City NAS": {
+    "abbr": null,
+    "logo": "icons/atlantic-city-nas.png"
+  },
+  "Augusta Military Academy": {
+    "abbr": null,
+    "logo": "icons/augusta-military-academy.png"
+  },
+  "Augustana (South Dakota)": {
+    "abbr": null,
+    "logo": "icons/augustana-(south-dakota).png"
+  },
+  "Austin High": {
+    "abbr": null,
+    "logo": "icons/austin-high.png"
+  },
+  "Australia": {
+    "abbr": "Australia",
+    "logo": "icons/australia.png"
+  },
+  "Bailey Military": {
+    "abbr": null,
+    "logo": "icons/bailey-military.png"
+  },
+  "Bainbridge NTS": {
+    "abbr": null,
+    "logo": "icons/bainbridge-nts.png"
+  },
+  "Baker": {
+    "abbr": null,
+    "logo": "icons/baker.png"
+  },
+  "Balboa NTS": {
+    "abbr": null,
+    "logo": "icons/balboa-nts.png"
+  },
+  "Ballard Meteors": {
+    "abbr": null,
+    "logo": "icons/ballard-meteors.png"
+  },
+  "Baltimore": {
+    "abbr": null,
+    "logo": "icons/baltimore.png"
+  },
+  "Baltimore A.C.": {
+    "abbr": null,
+    "logo": "icons/baltimore-a.c..png"
+  },
+  "Bankers A.C.": {
+    "abbr": null,
+    "logo": "icons/bankers-a.c..png"
+  },
+  "Barksdale Field": {
+    "abbr": null,
+    "logo": "icons/barksdale-field.png"
+  },
+  "Barnes Medical": {
+    "abbr": null,
+    "logo": "icons/barnes-medical.png"
+  },
+  "Barron Field": {
+    "abbr": null,
+    "logo": "icons/barron-field.png"
+  },
+  "Beaumont Hospital": {
+    "abbr": null,
+    "logo": "icons/beaumont-hospital.png"
+  },
+  "Belhaven": {
+    "abbr": "BELHA",
+    "logo": "icons/belhaven.png"
+  },
+  "Bellefonte Academy": {
+    "abbr": null,
+    "logo": "icons/bellefonte-academy.png"
+  },
+  "Bellevue": {
+    "abbr": null,
+    "logo": "icons/bellevue.png"
+  },
+  "Belmont A.C.": {
+    "abbr": null,
+    "logo": "icons/belmont-a.c..png"
+  },
+  "Beloit High": {
+    "abbr": null,
+    "logo": "icons/beloit-high.png"
+  },
+  "Benedict": {
+    "abbr": "BEN",
+    "logo": "icons/benedict.png"
+  },
+  "Bennett Medical": {
+    "abbr": null,
+    "logo": "icons/bennett-medical.png"
+  },
+  "Berg Field": {
+    "abbr": null,
+    "logo": "icons/berg-field.png"
+  },
+  "Bergstrom Field": {
+    "abbr": null,
+    "logo": "icons/bergstrom-field.png"
+  },
+  "Berkeley A.C.": {
+    "abbr": null,
+    "logo": "icons/berkeley-a.c..png"
+  },
+  "Bethel": {
+    "abbr": null,
+    "logo": "icons/bethel.png"
+  },
+  "Bingham": {
+    "abbr": null,
+    "logo": "icons/bingham.png"
+  },
+  "Birmingham": {
+    "abbr": null,
+    "logo": "icons/birmingham.png"
+  },
+  "Birmingham High": {
+    "abbr": null,
+    "logo": "icons/birmingham-high.png"
+  },
+  "Bishop": {
+    "abbr": null,
+    "logo": "icons/bishop.png"
+  },
+  "Blackland Field": {
+    "abbr": null,
+    "logo": "icons/blackland-field.png"
+  },
+  "Blountsville Agricultural": {
+    "abbr": null,
+    "logo": "icons/blountsville-agricultural.png"
+  },
+  "Bogue Field": {
+    "abbr": null,
+    "logo": "icons/bogue-field.png"
+  },
+  "Bolling Field": {
+    "abbr": null,
+    "logo": "icons/bolling-field.png"
+  },
+  "Boston A.C.": {
+    "abbr": null,
+    "logo": "icons/boston-a.c..png"
+  },
+  "Boston English High": {
+    "abbr": null,
+    "logo": "icons/boston-english-high.png"
+  },
+  "Boston Latin High": {
+    "abbr": null,
+    "logo": "icons/boston-latin-high.png"
+  },
+  "Boston University": {
+    "abbr": null,
+    "logo": "icons/boston-university.png"
+  },
+  "Boulder High": {
+    "abbr": null,
+    "logo": "icons/boulder-high.png"
+  },
+  "Bradford National Guard": {
+    "abbr": null,
+    "logo": "icons/bradford-national-guard.png"
+  },
+  "Bradley": {
+    "abbr": null,
+    "logo": "icons/bradley.png"
+  },
+  "Brandeis": {
+    "abbr": null,
+    "logo": "icons/brandeis.png"
+  },
+  "Brayton": {
+    "abbr": null,
+    "logo": "icons/brayton.png"
+  },
+  "Bremerton Navy": {
+    "abbr": null,
+    "logo": "icons/bremerton-navy.png"
+  },
+  "Bridgewater": {
+    "abbr": null,
+    "logo": "icons/bridgewater.png"
+  },
+  "Britannia": {
+    "abbr": null,
+    "logo": "icons/britannia.png"
+  },
+  "British Club of New York": {
+    "abbr": null,
+    "logo": "icons/british-club-of-new-york.png"
+  },
+  "Broaddus College": {
+    "abbr": null,
+    "logo": "icons/broaddus-college.png"
+  },
+  "Brooklyn": {
+    "abbr": null,
+    "logo": "icons/brooklyn.png"
+  },
+  "Brooklyn Polytechnic Institute": {
+    "abbr": null,
+    "logo": "icons/brooklyn-polytechnic-institute.png"
+  },
+  "Brooklyn Tigers (NFL)": {
+    "abbr": null,
+    "logo": "icons/brooklyn-tigers-(nfl).png"
+  },
+  "Bryan Field": {
+    "abbr": null,
+    "logo": "icons/bryan-field.png"
+  },
+  "Bryson": {
+    "abbr": null,
+    "logo": "icons/bryson.png"
+  },
+  "Buckner Business College": {
+    "abbr": null,
+    "logo": "icons/buckner-business-college.png"
+  },
+  "Bunker Hill Navy": {
+    "abbr": null,
+    "logo": "icons/bunker-hill-navy.png"
+  },
+  "Burleson": {
+    "abbr": null,
+    "logo": "icons/burleson.png"
+  },
+  "Burlingame A.C.": {
+    "abbr": null,
+    "logo": "icons/burlingame-a.c..png"
+  },
+  "Butler YMCA": {
+    "abbr": null,
+    "logo": "icons/butler-ymca.png"
+  },
+  "Butte A.C.": {
+    "abbr": null,
+    "logo": "icons/butte-a.c..png"
+  },
+  "California Alumni": {
+    "abbr": null,
+    "logo": "icons/california-alumni.png"
+  },
+  "California-Riverside": {
+    "abbr": null,
+    "logo": "icons/california-riverside.png"
+  },
+  "California-Santa Barbara": {
+    "abbr": "UCSB",
+    "logo": "icons/california-santa-barbara.png"
+  },
+  "California Tech": {
+    "abbr": null,
+    "logo": "icons/california-tech.png"
+  },
+  "Cal Poly-Pomona": {
+    "abbr": null,
+    "logo": "icons/cal-poly-pomona.png"
+  },
+  "Cal State Fullerton": {
+    "abbr": null,
+    "logo": "icons/cal-state-fullerton.png"
+  },
+  "Cal State Los Angeles": {
+    "abbr": null,
+    "logo": "icons/cal-state-los-angeles.png"
+  },
+  "Cal State Northridge": {
+    "abbr": null,
+    "logo": "icons/cal-state-northridge.png"
+  },
+  "Cameron": {
+    "abbr": "CAM",
+    "logo": "icons/cameron.png"
+  },
+  "Camp Adams": {
+    "abbr": null,
+    "logo": "icons/camp-adams.png"
+  },
+  "Camp Baker": {
+    "abbr": null,
+    "logo": "icons/camp-baker.png"
+  },
+  "Camp Beale": {
+    "abbr": null,
+    "logo": "icons/camp-beale.png"
+  },
+  "Camp Blanding": {
+    "abbr": null,
+    "logo": "icons/camp-blanding.png"
+  },
+  "Camp Davis": {
+    "abbr": null,
+    "logo": "icons/camp-davis.png"
+  },
+  "Camp Devens": {
+    "abbr": null,
+    "logo": "icons/camp-devens.png"
+  },
+  "Camp Dodge": {
+    "abbr": null,
+    "logo": "icons/camp-dodge.png"
+  },
+  "Camp Doniphan": {
+    "abbr": null,
+    "logo": "icons/camp-doniphan.png"
+  },
+  "Campello": {
+    "abbr": null,
+    "logo": "icons/campello.png"
+  },
+  "Camp Funston": {
+    "abbr": null,
+    "logo": "icons/camp-funston.png"
+  },
+  "Camp Gordon": {
+    "abbr": null,
+    "logo": "icons/camp-gordon.png"
+  },
+  "Camp Grant": {
+    "abbr": null,
+    "logo": "icons/camp-grant.png"
+  },
+  "Camp Greene": {
+    "abbr": null,
+    "logo": "icons/camp-greene.png"
+  },
+  "Camp Greenleaf": {
+    "abbr": null,
+    "logo": "icons/camp-greenleaf.png"
+  },
+  "Camp Griffin": {
+    "abbr": null,
+    "logo": "icons/camp-griffin.png"
+  },
+  "Camp Haan": {
+    "abbr": null,
+    "logo": "icons/camp-haan.png"
+  },
+  "Camp Hancock": {
+    "abbr": null,
+    "logo": "icons/camp-hancock.png"
+  },
+  "Camp Harrison": {
+    "abbr": null,
+    "logo": "icons/camp-harrison.png"
+  },
+  "Camp Hood": {
+    "abbr": null,
+    "logo": "icons/camp-hood.png"
+  },
+  "Camp Humphreys": {
+    "abbr": null,
+    "logo": "icons/camp-humphreys.png"
+  },
+  "Camp Kilmer": {
+    "abbr": null,
+    "logo": "icons/camp-kilmer.png"
+  },
+  "Camp Lee": {
+    "abbr": null,
+    "logo": "icons/camp-lee.png"
+  },
+  "Camp Lejeune": {
+    "abbr": null,
+    "logo": "icons/camp-lejeune.png"
+  },
+  "Camp Logan": {
+    "abbr": null,
+    "logo": "icons/camp-logan.png"
+  },
+  "Camp Lyons": {
+    "abbr": null,
+    "logo": "icons/camp-lyons.png"
+  },
+  "Camp Mabry": {
+    "abbr": null,
+    "logo": "icons/camp-mabry.png"
+  },
+  "Camp MacAurthur": {
+    "abbr": null,
+    "logo": "icons/camp-macaurthur.png"
+  },
+  "Camp MacDowell": {
+    "abbr": null,
+    "logo": "icons/camp-macdowell.png"
+  },
+  "Camp Mackall": {
+    "abbr": null,
+    "logo": "icons/camp-mackall.png"
+  },
+  "Camp McClelland": {
+    "abbr": null,
+    "logo": "icons/camp-mcclelland.png"
+  },
+  "Camp McKinley": {
+    "abbr": null,
+    "logo": "icons/camp-mckinley.png"
+  },
+  "Camp McPherson": {
+    "abbr": null,
+    "logo": "icons/camp-mcpherson.png"
+  },
+  "Camp Meyer": {
+    "abbr": null,
+    "logo": "icons/camp-meyer.png"
+  },
+  "Camp Peary": {
+    "abbr": null,
+    "logo": "icons/camp-peary.png"
+  },
+  "Camp Pendleton": {
+    "abbr": null,
+    "logo": "icons/camp-pendleton.png"
+  },
+  "Camp Perry": {
+    "abbr": null,
+    "logo": "icons/camp-perry.png"
+  },
+  "Camp Pickett": {
+    "abbr": null,
+    "logo": "icons/camp-pickett.png"
+  },
+  "Camp Pike": {
+    "abbr": null,
+    "logo": "icons/camp-pike.png"
+  },
+  "Camp Polk": {
+    "abbr": null,
+    "logo": "icons/camp-polk.png"
+  },
+  "Camp Preble": {
+    "abbr": null,
+    "logo": "icons/camp-preble.png"
+  },
+  "Camp Russell": {
+    "abbr": null,
+    "logo": "icons/camp-russell.png"
+  },
+  "Camp Sevier": {
+    "abbr": null,
+    "logo": "icons/camp-sevier.png"
+  },
+  "Camp Shelby": {
+    "abbr": null,
+    "logo": "icons/camp-shelby.png"
+  },
+  "Camp Sherman": {
+    "abbr": null,
+    "logo": "icons/camp-sherman.png"
+  },
+  "Camp Taylor": {
+    "abbr": null,
+    "logo": "icons/camp-taylor.png"
+  },
+  "Camp Travis": {
+    "abbr": null,
+    "logo": "icons/camp-travis.png"
+  },
+  "Camp Wadsworth": {
+    "abbr": null,
+    "logo": "icons/camp-wadsworth.png"
+  },
+  "Canada All-Stars": {
+    "abbr": null,
+    "logo": "icons/canada-all-stars.png"
+  },
+  "Canisius": {
+    "abbr": null,
+    "logo": "icons/canisius.png"
+  },
+  "Canton A.C.": {
+    "abbr": null,
+    "logo": "icons/canton-a.c..png"
+  },
+  "Carleton-St. Olaf": {
+    "abbr": null,
+    "logo": "icons/carleton-st.-olaf.png"
+  },
+  "Carlisle": {
+    "abbr": null,
+    "logo": "icons/carlisle.png"
+  },
+  "Carlstrom Field": {
+    "abbr": null,
+    "logo": "icons/carlstrom-field.png"
+  },
+  "Carroll (Montana)": {
+    "abbr": null,
+    "logo": "icons/carroll-(montana).png"
+  },
+  "Carruthers Field": {
+    "abbr": null,
+    "logo": "icons/carruthers-field.png"
+  },
+  "Carswell AFB": {
+    "abbr": null,
+    "logo": "icons/carswell-afb.png"
+  },
+  "Casa Blanca Indians": {
+    "abbr": null,
+    "logo": "icons/casa-blanca-indians.png"
+  },
+  "Case": {
+    "abbr": null,
+    "logo": "icons/case.png"
+  },
+  "Castle Heights": {
+    "abbr": null,
+    "logo": "icons/castle-heights.png"
+  },
+  "Centenary (LA)": {
+    "abbr": null,
+    "logo": "icons/centenary-(la).png"
+  },
+  "Centerville (Butte)": {
+    "abbr": null,
+    "logo": "icons/centerville-(butte).png"
+  },
+  "Central Academy": {
+    "abbr": null,
+    "logo": "icons/central-academy.png"
+  },
+  "Central (Iowa)": {
+    "abbr": null,
+    "logo": "icons/central-(iowa).png"
+  },
+  "Central (Kentucky)": {
+    "abbr": null,
+    "logo": "icons/central-(kentucky).png"
+  },
+  "Chamberlain Hunt": {
+    "abbr": null,
+    "logo": "icons/chamberlain-hunt.png"
+  },
+  "Chanute Field": {
+    "abbr": null,
+    "logo": "icons/chanute-field.png"
+  },
+  "Charles City": {
+    "abbr": null,
+    "logo": "icons/charles-city.png"
+  },
+  "Charleston": {
+    "abbr": null,
+    "logo": "icons/charleston.png"
+  },
+  "Charleston Coast Guard": {
+    "abbr": null,
+    "logo": "icons/charleston-coast-guard.png"
+  },
+  "Charleston Navy": {
+    "abbr": null,
+    "logo": "icons/charleston-navy.png"
+  },
+  "Chatham Field": {
+    "abbr": null,
+    "logo": "icons/chatham-field.png"
+  },
+  "Chemawa": {
+    "abbr": null,
+    "logo": "icons/chemawa.png"
+  },
+  "Cherry Point Marines": {
+    "abbr": null,
+    "logo": "icons/cherry-point-marines.png"
+  },
+  "Cheyenne High": {
+    "abbr": null,
+    "logo": "icons/cheyenne-high.png"
+  },
+  "Chicago A.C.": {
+    "abbr": null,
+    "logo": "icons/chicago-a.c..png"
+  },
+  "Chicago Alumni": {
+    "abbr": null,
+    "logo": "icons/chicago-alumni.png"
+  },
+  "Chicago College": {
+    "abbr": null,
+    "logo": "icons/chicago-college.png"
+  },
+  "Chicago Dental": {
+    "abbr": null,
+    "logo": "icons/chicago-dental.png"
+  },
+  "Chicago Dining Club": {
+    "abbr": null,
+    "logo": "icons/chicago-dining-club.png"
+  },
+  "Chicago Medical": {
+    "abbr": null,
+    "logo": "icons/chicago-medical.png"
+  },
+  "Chicago Naval Reserve": {
+    "abbr": null,
+    "logo": "icons/chicago-naval-reserve.png"
+  },
+  "Chicago YMCA": {
+    "abbr": null,
+    "logo": "icons/chicago-ymca.png"
+  },
+  "Chick Springs Military": {
+    "abbr": null,
+    "logo": "icons/chick-springs-military.png"
+  },
+  "Chilocco": {
+    "abbr": null,
+    "logo": "icons/chilocco.png"
+  },
+  "Chowan": {
+    "abbr": "CHOWA",
+    "logo": "icons/chowan.png"
+  },
+  "Christian Brothers": {
+    "abbr": null,
+    "logo": "icons/christian-brothers.png"
+  },
+  "City College of New York": {
+    "abbr": null,
+    "logo": "icons/city-college-of-new-york.png"
+  },
+  "Clarke Memorial": {
+    "abbr": null,
+    "logo": "icons/clarke-memorial.png"
+  },
+  "Clarkson": {
+    "abbr": null,
+    "logo": "icons/clarkson.png"
+  },
+  "Clemson Freshmen": {
+    "abbr": null,
+    "logo": "icons/clemson-freshmen.png"
+  },
+  "Cleveland Naval Reserves": {
+    "abbr": null,
+    "logo": "icons/cleveland-naval-reserves.png"
+  },
+  "C.M.T.S.": {
+    "abbr": null,
+    "logo": "icons/c.m.t.s..png"
+  },
+  "College All-Stars": {
+    "abbr": null,
+    "logo": "icons/college-all-stars.png"
+  },
+  "Colorado Alumni": {
+    "abbr": null,
+    "logo": "icons/colorado-alumni.png"
+  },
+  "Colorado College Alumni": {
+    "abbr": null,
+    "logo": "icons/colorado-college-alumni.png"
+  },
+  "Colorado Springs Field": {
+    "abbr": null,
+    "logo": "icons/colorado-springs-field.png"
+  },
+  "Colorado Springs High": {
+    "abbr": null,
+    "logo": "icons/colorado-springs-high.png"
+  },
+  "Colorado State Freshmen": {
+    "abbr": null,
+    "logo": "icons/colorado-state-freshmen.png"
+  },
+  "Columbia A.C.": {
+    "abbr": null,
+    "logo": "icons/columbia-a.c..png"
+  },
+  "Columbia Alumni": {
+    "abbr": null,
+    "logo": "icons/columbia-alumni.png"
+  },
+  "Columbia College": {
+    "abbr": null,
+    "logo": "icons/columbia-college.png"
+  },
+  "Columbia Law": {
+    "abbr": null,
+    "logo": "icons/columbia-law.png"
+  },
+  "Columbia (Oregon)": {
+    "abbr": null,
+    "logo": "icons/columbia-(oregon).png"
+  },
+  "Columbia YMCA": {
+    "abbr": null,
+    "logo": "icons/columbia-ymca.png"
+  },
+  "Company I": {
+    "abbr": null,
+    "logo": "icons/company-i.png"
+  },
+  "Concordia Canada": {
+    "abbr": null,
+    "logo": "icons/concordia-canada.png"
+  },
+  "Concordia College (MN)": {
+    "abbr": null,
+    "logo": "icons/concordia-college-(mn).png"
+  },
+  "Connecticut Literary": {
+    "abbr": null,
+    "logo": "icons/connecticut-literary.png"
+  },
+  "Connecticut-Waterbury": {
+    "abbr": null,
+    "logo": "icons/connecticut-waterbury.png"
+  },
+  "Conway Hall": {
+    "abbr": null,
+    "logo": "icons/conway-hall.png"
+  },
+  "Corpus Christi NAS": {
+    "abbr": null,
+    "logo": "icons/corpus-christi-nas.png"
+  },
+  "Cortland State": {
+    "abbr": null,
+    "logo": "icons/cortland-state.png"
+  },
+  "Cotton City A.C.": {
+    "abbr": null,
+    "logo": "icons/cotton-city-a.c..png"
+  },
+  "Crane J.C.": {
+    "abbr": null,
+    "logo": "icons/crane-j.c..png"
+  },
+  "Creighton": {
+    "abbr": null,
+    "logo": "icons/creighton.png"
+  },
+  "Crescent A.C.": {
+    "abbr": null,
+    "logo": "icons/crescent-a.c..png"
+  },
+  "Culver": {
+    "abbr": null,
+    "logo": "icons/culver.png"
+  },
+  "Curtis Bay Coast Guard": {
+    "abbr": null,
+    "logo": "icons/curtis-bay-coast-guard.png"
+  },
+  "Dalhart Field": {
+    "abbr": null,
+    "logo": "icons/dalhart-field.png"
+  },
+  "Dallas": {
+    "abbr": null,
+    "logo": "icons/dallas.png"
+  },
+  "Daniel Baker": {
+    "abbr": null,
+    "logo": "icons/daniel-baker.png"
+  },
+  "Daniel Field": {
+    "abbr": null,
+    "logo": "icons/daniel-field.png"
+  },
+  "Davis & Elkins": {
+    "abbr": null,
+    "logo": "icons/davis-&-elkins.png"
+  },
+  "Dean Academy": {
+    "abbr": null,
+    "logo": "icons/dean-academy.png"
+  },
+  "Decatur Baptist": {
+    "abbr": null,
+    "logo": "icons/decatur-baptist.png"
+  },
+  "Del Monte Pre-Flight": {
+    "abbr": null,
+    "logo": "icons/del-monte-pre-flight.png"
+  },
+  "Denver": {
+    "abbr": "DU",
+    "logo": "icons/denver.png"
+  },
+  "Denver A.C.": {
+    "abbr": null,
+    "logo": "icons/denver-a.c..png"
+  },
+  "Denver Alumni": {
+    "abbr": null,
+    "logo": "icons/denver-alumni.png"
+  },
+  "Denver Freshmen": {
+    "abbr": null,
+    "logo": "icons/denver-freshmen.png"
+  },
+  "Denver Manual High": {
+    "abbr": null,
+    "logo": "icons/denver-manual-high.png"
+  },
+  "DePaul": {
+    "abbr": null,
+    "logo": "icons/depaul.png"
+  },
+  "Des Moines Baptist": {
+    "abbr": null,
+    "logo": "icons/des-moines-baptist.png"
+  },
+  "Detroit A.C.": {
+    "abbr": null,
+    "logo": "icons/detroit-a.c..png"
+  },
+  "Detroit Mercy": {
+    "abbr": null,
+    "logo": "icons/detroit-mercy.png"
+  },
+  "Dickinson Seminary": {
+    "abbr": null,
+    "logo": "icons/dickinson-seminary.png"
+  },
+  "Dixie": {
+    "abbr": null,
+    "logo": "icons/dixie.png"
+  },
+  "Dixon": {
+    "abbr": null,
+    "logo": "icons/dixon.png"
+  },
+  "Doane": {
+    "abbr": null,
+    "logo": "icons/doane.png"
+  },
+  "Drake Alumni": {
+    "abbr": null,
+    "logo": "icons/drake-alumni.png"
+  },
+  "Drexel": {
+    "abbr": null,
+    "logo": "icons/drexel.png"
+  },
+  "Drury": {
+    "abbr": null,
+    "logo": "icons/drury.png"
+  },
+  "Duquesne A.C.": {
+    "abbr": null,
+    "logo": "icons/duquesne-a.c..png"
+  },
+  "East Denver High": {
+    "abbr": null,
+    "logo": "icons/east-denver-high.png"
+  },
+  "East Des Moines High": {
+    "abbr": null,
+    "logo": "icons/east-des-moines-high.png"
+  },
+  "Eastern Arizona J.C.": {
+    "abbr": null,
+    "logo": "icons/eastern-arizona-j.c..png"
+  },
+  "Eastern (Virginia)": {
+    "abbr": null,
+    "logo": "icons/eastern-(virginia).png"
+  },
+  "Edmond Tech": {
+    "abbr": null,
+    "logo": "icons/edmond-tech.png"
+  },
+  "Edmonton Field": {
+    "abbr": null,
+    "logo": "icons/edmonton-field.png"
+  },
+  "Elgin Academy": {
+    "abbr": null,
+    "logo": "icons/elgin-academy.png"
+  },
+  "Elizabeth A.C.": {
+    "abbr": null,
+    "logo": "icons/elizabeth-a.c..png"
+  },
+  "Ellensburg": {
+    "abbr": null,
+    "logo": "icons/ellensburg.png"
+  },
+  "Ellington Field": {
+    "abbr": null,
+    "logo": "icons/ellington-field.png"
+  },
+  "Ellsworth": {
+    "abbr": null,
+    "logo": "icons/ellsworth.png"
+  },
+  "El Paso National Guard": {
+    "abbr": null,
+    "logo": "icons/el-paso-national-guard.png"
+  },
+  "El Toro Marines": {
+    "abbr": null,
+    "logo": "icons/el-toro-marines.png"
+  },
+  "Emporia College": {
+    "abbr": null,
+    "logo": "icons/emporia-college.png"
+  },
+  "England": {
+    "abbr": "England",
+    "logo": "icons/england.png"
+  },
+  "Englewood": {
+    "abbr": null,
+    "logo": "icons/englewood.png"
+  },
+  "Englewood High": {
+    "abbr": null,
+    "logo": "icons/englewood-high.png"
+  },
+  "Englewood YMCA": {
+    "abbr": null,
+    "logo": "icons/englewood-ymca.png"
+  },
+  "Erskine": {
+    "abbr": null,
+    "logo": "icons/erskine.png"
+  },
+  "Eton": {
+    "abbr": null,
+    "logo": "icons/eton.png"
+  },
+  "Eureka": {
+    "abbr": null,
+    "logo": "icons/eureka.png"
+  },
+  "Evanston High": {
+    "abbr": null,
+    "logo": "icons/evanston-high.png"
+  },
+  "Evansville": {
+    "abbr": null,
+    "logo": "icons/evansville.png"
+  },
+  "Exeter": {
+    "abbr": null,
+    "logo": "icons/exeter.png"
+  },
+  "F.A.A.": {
+    "abbr": null,
+    "logo": "icons/f.a.a..png"
+  },
+  "Fairfield": {
+    "abbr": null,
+    "logo": "icons/fairfield.png"
+  },
+  "Fall River": {
+    "abbr": null,
+    "logo": "icons/fall-river.png"
+  },
+  "Falls of Schuylkill": {
+    "abbr": null,
+    "logo": "icons/falls-of-schuylkill.png"
+  },
+  "Farragut Navy": {
+    "abbr": null,
+    "logo": "icons/farragut-navy.png"
+  },
+  "Finlandia University": {
+    "abbr": "FINL",
+    "logo": "icons/finlandia-university.png"
+  },
+  "Fishburne M.A.": {
+    "abbr": null,
+    "logo": "icons/fishburne-m.a..png"
+  },
+  "Fisk University": {
+    "abbr": null,
+    "logo": "icons/fisk-university.png"
+  },
+  "Fitchburg YMCA": {
+    "abbr": null,
+    "logo": "icons/fitchburg-ymca.png"
+  },
+  "Fleet City": {
+    "abbr": null,
+    "logo": "icons/fleet-city.png"
+  },
+  "Florence YMCA": {
+    "abbr": null,
+    "logo": "icons/florence-ymca.png"
+  },
+  "Florida Southern": {
+    "abbr": null,
+    "logo": "icons/florida-southern.png"
+  },
+  "Fort Benning": {
+    "abbr": null,
+    "logo": "icons/fort-benning.png"
+  },
+  "Fort Bliss": {
+    "abbr": null,
+    "logo": "icons/fort-bliss.png"
+  },
+  "Fort Bragg": {
+    "abbr": null,
+    "logo": "icons/fort-bragg.png"
+  },
+  "Fort Des Moines": {
+    "abbr": null,
+    "logo": "icons/fort-des-moines.png"
+  },
+  "Fort Douglas": {
+    "abbr": null,
+    "logo": "icons/fort-douglas.png"
+  },
+  "Fort Ethan Allen": {
+    "abbr": null,
+    "logo": "icons/fort-ethan-allen.png"
+  },
+  "Fort Jackson": {
+    "abbr": null,
+    "logo": "icons/fort-jackson.png"
+  },
+  "Fort Knox": {
+    "abbr": null,
+    "logo": "icons/fort-knox.png"
+  },
+  "Fort Leavenworth": {
+    "abbr": null,
+    "logo": "icons/fort-leavenworth.png"
+  },
+  "Fort Lewis College": {
+    "abbr": null,
+    "logo": "icons/fort-lewis-college.png"
+  },
+  "Fort Monmouth": {
+    "abbr": null,
+    "logo": "icons/fort-monmouth.png"
+  },
+  "Fort Monroe": {
+    "abbr": null,
+    "logo": "icons/fort-monroe.png"
+  },
+  "Fort Oglethorpe": {
+    "abbr": null,
+    "logo": "icons/fort-oglethorpe.png"
+  },
+  "Fort Ord": {
+    "abbr": null,
+    "logo": "icons/fort-ord.png"
+  },
+  "Fort Pierce": {
+    "abbr": null,
+    "logo": "icons/fort-pierce.png"
+  },
+  "Fort Riley": {
+    "abbr": null,
+    "logo": "icons/fort-riley.png"
+  },
+  "Fort Sheridan": {
+    "abbr": null,
+    "logo": "icons/fort-sheridan.png"
+  },
+  "Fort Totten": {
+    "abbr": null,
+    "logo": "icons/fort-totten.png"
+  },
+  "Fort Warren": {
+    "abbr": null,
+    "logo": "icons/fort-warren.png"
+  },
+  "Fort Worth": {
+    "abbr": null,
+    "logo": "icons/fort-worth.png"
+  },
+  "Foundation": {
+    "abbr": null,
+    "logo": "icons/foundation.png"
+  },
+  "Frederick": {
+    "abbr": null,
+    "logo": "icons/frederick.png"
+  },
+  "Freeport High": {
+    "abbr": null,
+    "logo": "icons/freeport-high.png"
+  },
+  "Fremont Ammuntion": {
+    "abbr": null,
+    "logo": "icons/fremont-ammuntion.png"
+  },
+  "Fresno State JV": {
+    "abbr": null,
+    "logo": "icons/fresno-state-jv.png"
+  },
+  "Friends": {
+    "abbr": null,
+    "logo": "icons/friends.png"
+  },
+  "Galveston Field": {
+    "abbr": null,
+    "logo": "icons/galveston-field.png"
+  },
+  "Garden City": {
+    "abbr": null,
+    "logo": "icons/garden-city.png"
+  },
+  "Georgetown (Kentucky)": {
+    "abbr": null,
+    "logo": "icons/georgetown-(kentucky).png"
+  },
+  "Georgetown (KY)": {
+    "abbr": "GGA",
+    "logo": "icons/georgetown-(ky).png"
+  },
+  "George Washington": {
+    "abbr": null,
+    "logo": "icons/george-washington.png"
+  },
+  "Georgia B": {
+    "abbr": null,
+    "logo": "icons/georgia-b.png"
+  },
+  "Georgia Medical": {
+    "abbr": null,
+    "logo": "icons/georgia-medical.png"
+  },
+  "Georgia Pre-Flight": {
+    "abbr": null,
+    "logo": "icons/georgia-pre-flight.png"
+  },
+  "Georgia Tech B": {
+    "abbr": null,
+    "logo": "icons/georgia-tech-b.png"
+  },
+  "Goat Island Navy": {
+    "abbr": null,
+    "logo": "icons/goat-island-navy.png"
+  },
+  "Golden High": {
+    "abbr": null,
+    "logo": "icons/golden-high.png"
+  },
+  "Gonzaga": {
+    "abbr": null,
+    "logo": "icons/gonzaga.png"
+  },
+  "Gonzaga Alumni": {
+    "abbr": null,
+    "logo": "icons/gonzaga-alumni.png"
+  },
+  "Gordon": {
+    "abbr": null,
+    "logo": "icons/gordon.png"
+  },
+  "Goshen": {
+    "abbr": null,
+    "logo": "icons/goshen.png"
+  },
+  "Grand Island": {
+    "abbr": null,
+    "logo": "icons/grand-island.png"
+  },
+  "Grand Rapids High": {
+    "abbr": null,
+    "logo": "icons/grand-rapids-high.png"
+  },
+  "Granite High": {
+    "abbr": null,
+    "logo": "icons/granite-high.png"
+  },
+  "Great Lakes Navy": {
+    "abbr": null,
+    "logo": "icons/great-lakes-navy.png"
+  },
+  "Greenfield": {
+    "abbr": null,
+    "logo": "icons/greenfield.png"
+  },
+  "Greensboro Field": {
+    "abbr": null,
+    "logo": "icons/greensboro-field.png"
+  },
+  "Greenville Field": {
+    "abbr": null,
+    "logo": "icons/greenville-field.png"
+  },
+  "Greer": {
+    "abbr": null,
+    "logo": "icons/greer.png"
+  },
+  "Grinnell Alumni": {
+    "abbr": null,
+    "logo": "icons/grinnell-alumni.png"
+  },
+  "Grinnell High": {
+    "abbr": null,
+    "logo": "icons/grinnell-high.png"
+  },
+  "Grove City": {
+    "abbr": null,
+    "logo": "icons/grove-city.png"
+  },
+  "Hahnemann Medical": {
+    "abbr": null,
+    "logo": "icons/hahnemann-medical.png"
+  },
+  "Hamilton A.C.": {
+    "abbr": null,
+    "logo": "icons/hamilton-a.c..png"
+  },
+  "Hampton A.C.": {
+    "abbr": null,
+    "logo": "icons/hampton-a.c..png"
+  },
+  "Hampton Road": {
+    "abbr": null,
+    "logo": "icons/hampton-road.png"
+  },
+  "Harrisburg A.C.": {
+    "abbr": null,
+    "logo": "icons/harrisburg-a.c..png"
+  },
+  "Harry Hillman Academy": {
+    "abbr": null,
+    "logo": "icons/harry-hillman-academy.png"
+  },
+  "Hartford": {
+    "abbr": null,
+    "logo": "icons/hartford.png"
+  },
+  "Harvard Alumni": {
+    "abbr": null,
+    "logo": "icons/harvard-alumni.png"
+  },
+  "Harvard B": {
+    "abbr": null,
+    "logo": "icons/harvard-b.png"
+  },
+  "Harvard Freshmen": {
+    "abbr": null,
+    "logo": "icons/harvard-freshmen.png"
+  },
+  "Harvard Law": {
+    "abbr": null,
+    "logo": "icons/harvard-law.png"
+  },
+  "Haskell": {
+    "abbr": null,
+    "logo": "icons/haskell.png"
+  },
+  "Hastings": {
+    "abbr": null,
+    "logo": "icons/hastings.png"
+  },
+  "Hastings State": {
+    "abbr": null,
+    "logo": "icons/hastings-state.png"
+  },
+  "Havana A.C.": {
+    "abbr": null,
+    "logo": "icons/havana-a.c..png"
+  },
+  "Havana University": {
+    "abbr": null,
+    "logo": "icons/havana-university.png"
+  },
+  "Haverford": {
+    "abbr": null,
+    "logo": "icons/haverford.png"
+  },
+  "Hawaii All-Stars": {
+    "abbr": null,
+    "logo": "icons/hawaii-all-stars.png"
+  },
+  "Hayward State": {
+    "abbr": null,
+    "logo": "icons/hayward-state.png"
+  },
+  "Hebron Academy": {
+    "abbr": null,
+    "logo": "icons/hebron-academy.png"
+  },
+  "Hedding": {
+    "abbr": null,
+    "logo": "icons/hedding.png"
+  },
+  "Herington Field": {
+    "abbr": null,
+    "logo": "icons/herington-field.png"
+  },
+  "Highland Park": {
+    "abbr": null,
+    "logo": "icons/highland-park.png"
+  },
+  "High Point": {
+    "abbr": null,
+    "logo": "icons/high-point.png"
+  },
+  "Hiwassee": {
+    "abbr": null,
+    "logo": "icons/hiwassee.png"
+  },
+  "Hoboken Navy": {
+    "abbr": null,
+    "logo": "icons/hoboken-navy.png"
+  },
+  "Hofstra": {
+    "abbr": "HOF",
+    "logo": "icons/hofstra.png"
+  },
+  "Homestead A.C.": {
+    "abbr": null,
+    "logo": "icons/homestead-a.c..png"
+  },
+  "Hondo Field": {
+    "abbr": null,
+    "logo": "icons/hondo-field.png"
+  },
+  "Hopkinson": {
+    "abbr": null,
+    "logo": "icons/hopkinson.png"
+  },
+  "Horner": {
+    "abbr": null,
+    "logo": "icons/horner.png"
+  },
+  "Houston YMCA": {
+    "abbr": null,
+    "logo": "icons/houston-ymca.png"
+  },
+  "Hyde Park": {
+    "abbr": null,
+    "logo": "icons/hyde-park.png"
+  },
+  "Hyde Park High": {
+    "abbr": null,
+    "logo": "icons/hyde-park-high.png"
+  },
+  "Idaho Marines": {
+    "abbr": null,
+    "logo": "icons/idaho-marines.png"
+  },
+  "Illinois Alumni": {
+    "abbr": null,
+    "logo": "icons/illinois-alumni.png"
+  },
+  "Illinois Cycling Club": {
+    "abbr": null,
+    "logo": "icons/illinois-cycling-club.png"
+  },
+  "Illinois Medical": {
+    "abbr": null,
+    "logo": "icons/illinois-medical.png"
+  },
+  "Independence A.C.": {
+    "abbr": null,
+    "logo": "icons/independence-a.c..png"
+  },
+  "Indiana Alumni": {
+    "abbr": null,
+    "logo": "icons/indiana-alumni.png"
+  },
+  "Indiana Medical": {
+    "abbr": null,
+    "logo": "icons/indiana-medical.png"
+  },
+  "Indianapolis Artillery": {
+    "abbr": null,
+    "logo": "icons/indianapolis-artillery.png"
+  },
+  "Intermountain": {
+    "abbr": null,
+    "logo": "icons/intermountain.png"
+  },
+  "Iowa Pre-Flight": {
+    "abbr": "IPF",
+    "logo": "icons/iowa-pre-flight.png"
+  },
+  "Jackson Br.-New Orleans": {
+    "abbr": null,
+    "logo": "icons/jackson-br.-new-orleans.png"
+  },
+  "Jackson Field": {
+    "abbr": null,
+    "logo": "icons/jackson-field.png"
+  },
+  "Jacksonville Naval Air Station": {
+    "abbr": null,
+    "logo": "icons/jacksonville-naval-air-station.png"
+  },
+  "James Millikin": {
+    "abbr": null,
+    "logo": "icons/james-millikin.png"
+  },
+  "Jefferson": {
+    "abbr": null,
+    "logo": "icons/jefferson.png"
+  },
+  "Jefferson Medical": {
+    "abbr": null,
+    "logo": "icons/jefferson-medical.png"
+  },
+  "Jersey Shore": {
+    "abbr": null,
+    "logo": "icons/jersey-shore.png"
+  },
+  "Kamehameha Alumni": {
+    "abbr": null,
+    "logo": "icons/kamehameha-alumni.png"
+  },
+  "Kansas City A.C.": {
+    "abbr": null,
+    "logo": "icons/kansas-city-a.c..png"
+  },
+  "Kansas City Medical": {
+    "abbr": null,
+    "logo": "icons/kansas-city-medical.png"
+  },
+  "Kansas City Veterinary": {
+    "abbr": null,
+    "logo": "icons/kansas-city-veterinary.png"
+  },
+  "Kean": {
+    "abbr": "KEAN",
+    "logo": "icons/kean.png"
+  },
+  "Kearney": {
+    "abbr": null,
+    "logo": "icons/kearney.png"
+  },
+  "Kearney Field": {
+    "abbr": null,
+    "logo": "icons/kearney-field.png"
+  },
+  "Keesler Field": {
+    "abbr": null,
+    "logo": "icons/keesler-field.png"
+  },
+  "Kelly Field": {
+    "abbr": null,
+    "logo": "icons/kelly-field.png"
+  },
+  "Kents Hill": {
+    "abbr": null,
+    "logo": "icons/kents-hill.png"
+  },
+  "Kentucky Christian": {
+    "abbr": "KYCHR",
+    "logo": "icons/kentucky-christian.png"
+  },
+  "King": {
+    "abbr": null,
+    "logo": "icons/king.png"
+  },
+  "Kingfisher": {
+    "abbr": null,
+    "logo": "icons/kingfisher.png"
+  },
+  "King George": {
+    "abbr": null,
+    "logo": "icons/king-george.png"
+  },
+  "Kirtland Field": {
+    "abbr": null,
+    "logo": "icons/kirtland-field.png"
+  },
+  "Kiski Preparatory": {
+    "abbr": null,
+    "logo": "icons/kiski-preparatory.png"
+  },
+  "Knox College": {
+    "abbr": "KNO",
+    "logo": "icons/knox-college.png"
+  },
+  "Knoxville": {
+    "abbr": "KNOX",
+    "logo": "icons/knoxville.png"
+  },
+  "Lackland Field": {
+    "abbr": null,
+    "logo": "icons/lackland-field.png"
+  },
+  "Lake Forest Academy": {
+    "abbr": null,
+    "logo": "icons/lake-forest-academy.png"
+  },
+  "Lake Forest Alumni": {
+    "abbr": null,
+    "logo": "icons/lake-forest-alumni.png"
+  },
+  "Lakehurst NAS": {
+    "abbr": null,
+    "logo": "icons/lakehurst-nas.png"
+  },
+  "Lakeland": {
+    "abbr": "LAKEL",
+    "logo": "icons/lakeland.png"
+  },
+  "Lake View High": {
+    "abbr": null,
+    "logo": "icons/lake-view-high.png"
+  },
+  "Lancaster Crescents": {
+    "abbr": null,
+    "logo": "icons/lancaster-crescents.png"
+  },
+  "Lane College": {
+    "abbr": "LAC",
+    "logo": "icons/lane-college.png"
+  },
+  "Lanier": {
+    "abbr": null,
+    "logo": "icons/lanier.png"
+  },
+  "Laramie High": {
+    "abbr": null,
+    "logo": "icons/laramie-high.png"
+  },
+  "Latrobe A.C.": {
+    "abbr": null,
+    "logo": "icons/latrobe-a.c..png"
+  },
+  "Laureate Boat Club": {
+    "abbr": null,
+    "logo": "icons/laureate-boat-club.png"
+  },
+  "Lawrenceville": {
+    "abbr": null,
+    "logo": "icons/lawrenceville.png"
+  },
+  "Lawton": {
+    "abbr": null,
+    "logo": "icons/lawton.png"
+  },
+  "League Island Navy": {
+    "abbr": null,
+    "logo": "icons/league-island-navy.png"
+  },
+  "Leander Clarke": {
+    "abbr": null,
+    "logo": "icons/leander-clarke.png"
+  },
+  "Lehigh A.C.": {
+    "abbr": null,
+    "logo": "icons/lehigh-a.c..png"
+  },
+  "Leilahau": {
+    "abbr": null,
+    "logo": "icons/leilahau.png"
+  },
+  "Lewis": {
+    "abbr": null,
+    "logo": "icons/lewis.png"
+  },
+  "Lewisburg A.C.": {
+    "abbr": null,
+    "logo": "icons/lewisburg-a.c..png"
+  },
+  "Lieutenants": {
+    "abbr": null,
+    "logo": "icons/lieutenants.png"
+  },
+  "Lincoln": {
+    "abbr": null,
+    "logo": "icons/lincoln.png"
+  },
+  "Lincoln Field": {
+    "abbr": null,
+    "logo": "icons/lincoln-field.png"
+  },
+  "Lincoln High": {
+    "abbr": null,
+    "logo": "icons/lincoln-high.png"
+  },
+  "Lincoln Medical": {
+    "abbr": null,
+    "logo": "icons/lincoln-medical.png"
+  },
+  "Locust Grove": {
+    "abbr": null,
+    "logo": "icons/locust-grove.png"
+  },
+  "Logan All-Stars": {
+    "abbr": null,
+    "logo": "icons/logan-all-stars.png"
+  },
+  "Lombard": {
+    "abbr": null,
+    "logo": "icons/lombard.png"
+  },
+  "Long Beach State": {
+    "abbr": "LBS",
+    "logo": "icons/long-beach-state.png"
+  },
+  "Longmont High": {
+    "abbr": null,
+    "logo": "icons/longmont-high.png"
+  },
+  "Loras": {
+    "abbr": null,
+    "logo": "icons/loras.png"
+  },
+  "Loras College": {
+    "abbr": "LOR",
+    "logo": "icons/loras-college.png"
+  },
+  "Los Angeles A.C.": {
+    "abbr": null,
+    "logo": "icons/los-angeles-a.c..png"
+  },
+  "Los Angeles Junior College": {
+    "abbr": null,
+    "logo": "icons/los-angeles-junior-college.png"
+  },
+  "Louisiana Army STU": {
+    "abbr": null,
+    "logo": "icons/louisiana-army-stu.png"
+  },
+  "Louisiana State Freshmen": {
+    "abbr": null,
+    "logo": "icons/louisiana-state-freshmen.png"
+  },
+  "Louisville Field": {
+    "abbr": null,
+    "logo": "icons/louisville-field.png"
+  },
+  "Love Field": {
+    "abbr": null,
+    "logo": "icons/love-field.png"
+  },
+  "Lowry Field": {
+    "abbr": null,
+    "logo": "icons/lowry-field.png"
+  },
+  "Loyola Academy": {
+    "abbr": null,
+    "logo": "icons/loyola-academy.png"
+  },
+  "Loyola (Baltimore)": {
+    "abbr": null,
+    "logo": "icons/loyola-(baltimore).png"
+  },
+  "Loyola (Chicago)": {
+    "abbr": null,
+    "logo": "icons/loyola-(chicago).png"
+  },
+  "Loyola (LA)": {
+    "abbr": null,
+    "logo": "icons/loyola-(la).png"
+  },
+  "Loyola Marymount": {
+    "abbr": null,
+    "logo": "icons/loyola-marymount.png"
+  },
+  "Lubbock Field": {
+    "abbr": null,
+    "logo": "icons/lubbock-field.png"
+  },
+  "Lynchburg": {
+    "abbr": null,
+    "logo": "icons/lynchburg.png"
+  },
+  "MacAurthur Field": {
+    "abbr": null,
+    "logo": "icons/macaurthur-field.png"
+  },
+  "Machinists Mates": {
+    "abbr": null,
+    "logo": "icons/machinists-mates.png"
+  },
+  "Madison High": {
+    "abbr": null,
+    "logo": "icons/madison-high.png"
+  },
+  "Manhattan": {
+    "abbr": null,
+    "logo": "icons/manhattan.png"
+  },
+  "Manhattan A.C.": {
+    "abbr": null,
+    "logo": "icons/manhattan-a.c..png"
+  },
+  "Manhattan Beach Coast Guard": {
+    "abbr": null,
+    "logo": "icons/manhattan-beach-coast-guard.png"
+  },
+  "Mankato State": {
+    "abbr": null,
+    "logo": "icons/mankato-state.png"
+  },
+  "Manual Training High": {
+    "abbr": null,
+    "logo": "icons/manual-training-high.png"
+  },
+  "March Field": {
+    "abbr": null,
+    "logo": "icons/march-field.png"
+  },
+  "Mare Island Marines": {
+    "abbr": null,
+    "logo": "icons/mare-island-marines.png"
+  },
+  "Mare Island Navy": {
+    "abbr": null,
+    "logo": "icons/mare-island-navy.png"
+  },
+  "Marine Officers": {
+    "abbr": null,
+    "logo": "icons/marine-officers.png"
+  },
+  "Marion": {
+    "abbr": null,
+    "logo": "icons/marion.png"
+  },
+  "Marion County High": {
+    "abbr": null,
+    "logo": "icons/marion-county-high.png"
+  },
+  "Marion Sims": {
+    "abbr": null,
+    "logo": "icons/marion-sims.png"
+  },
+  "Marquette": {
+    "abbr": null,
+    "logo": "icons/marquette.png"
+  },
+  "Marshall School": {
+    "abbr": null,
+    "logo": "icons/marshall-school.png"
+  },
+  "Marshalltown": {
+    "abbr": null,
+    "logo": "icons/marshalltown.png"
+  },
+  "Maryland A.C.": {
+    "abbr": null,
+    "logo": "icons/maryland-a.c..png"
+  },
+  "Maryland-Baltimore": {
+    "abbr": null,
+    "logo": "icons/maryland-baltimore.png"
+  },
+  "Maryland-Eastern Shore": {
+    "abbr": null,
+    "logo": "icons/maryland-eastern-shore.png"
+  },
+  "Massilon A.C.": {
+    "abbr": null,
+    "logo": "icons/massilon-a.c..png"
+  },
+  "Mather Field": {
+    "abbr": null,
+    "logo": "icons/mather-field.png"
+  },
+  "Maxwell Field": {
+    "abbr": null,
+    "logo": "icons/maxwell-field.png"
+  },
+  "Mayport NAS": {
+    "abbr": null,
+    "logo": "icons/mayport-nas.png"
+  },
+  "McClellan Field": {
+    "abbr": null,
+    "logo": "icons/mcclellan-field.png"
+  },
+  "McDaniel": {
+    "abbr": null,
+    "logo": "icons/mcdaniel.png"
+  },
+  "McGill": {
+    "abbr": null,
+    "logo": "icons/mcgill.png"
+  },
+  "McKendree": {
+    "abbr": "MAN",
+    "logo": "icons/mckendree.png"
+  },
+  "Medford A.C.": {
+    "abbr": null,
+    "logo": "icons/medford-a.c..png"
+  },
+  "Medico-Chirurgical": {
+    "abbr": null,
+    "logo": "icons/medico-chirurgical.png"
+  },
+  "Melville PT Boats": {
+    "abbr": null,
+    "logo": "icons/melville-pt-boats.png"
+  },
+  "Memphis High": {
+    "abbr": null,
+    "logo": "icons/memphis-high.png"
+  },
+  "Memphis Navy": {
+    "abbr": null,
+    "logo": "icons/memphis-navy.png"
+  },
+  "Mercersburg Academy": {
+    "abbr": null,
+    "logo": "icons/mercersburg-academy.png"
+  },
+  "Meridian": {
+    "abbr": null,
+    "logo": "icons/meridian.png"
+  },
+  "Meteor A.C.": {
+    "abbr": null,
+    "logo": "icons/meteor-a.c..png"
+  },
+  "Michigan A.C.": {
+    "abbr": null,
+    "logo": "icons/michigan-a.c..png"
+  },
+  "Michigan Military Academy": {
+    "abbr": null,
+    "logo": "icons/michigan-military-academy.png"
+  },
+  "Midwestern Texas State": {
+    "abbr": null,
+    "logo": "icons/midwestern-texas-state.png"
+  },
+  "Milligan": {
+    "abbr": null,
+    "logo": "icons/milligan.png"
+  },
+  "Milwaukee Medical": {
+    "abbr": null,
+    "logo": "icons/milwaukee-medical.png"
+  },
+  "Minneapolis Boat Club": {
+    "abbr": null,
+    "logo": "icons/minneapolis-boat-club.png"
+  },
+  "Minneapolis Central High": {
+    "abbr": null,
+    "logo": "icons/minneapolis-central-high.png"
+  },
+  "Minneapolis Eastern High": {
+    "abbr": null,
+    "logo": "icons/minneapolis-eastern-high.png"
+  },
+  "Minneapolis South High": {
+    "abbr": null,
+    "logo": "icons/minneapolis-south-high.png"
+  },
+  "Minnesota Alumni": {
+    "abbr": null,
+    "logo": "icons/minnesota-alumni.png"
+  },
+  "Missouri-Kansas City": {
+    "abbr": null,
+    "logo": "icons/missouri-kansas-city.png"
+  },
+  "Missouri-Rolla": {
+    "abbr": null,
+    "logo": "icons/missouri-rolla.png"
+  },
+  "Missouri Southern": {
+    "abbr": null,
+    "logo": "icons/missouri-southern.png"
+  },
+  "Missouri Valley": {
+    "abbr": null,
+    "logo": "icons/missouri-valley.png"
+  },
+  "Missouri Wesleyan": {
+    "abbr": null,
+    "logo": "icons/missouri-wesleyan.png"
+  },
+  "MIT": {
+    "abbr": "MIT",
+    "logo": "icons/mit.png"
+  },
+  "Moffett Field": {
+    "abbr": null,
+    "logo": "icons/moffett-field.png"
+  },
+  "Mohawk": {
+    "abbr": null,
+    "logo": "icons/mohawk.png"
+  },
+  "Moline A.C.": {
+    "abbr": null,
+    "logo": "icons/moline-a.c..png"
+  },
+  "Monroe A.C.": {
+    "abbr": null,
+    "logo": "icons/monroe-a.c..png"
+  },
+  "Montana Wesleyan": {
+    "abbr": null,
+    "logo": "icons/montana-wesleyan.png"
+  },
+  "Montclair A.C.": {
+    "abbr": null,
+    "logo": "icons/montclair-a.c..png"
+  },
+  "Montezuma": {
+    "abbr": null,
+    "logo": "icons/montezuma.png"
+  },
+  "Montgomery A.C.": {
+    "abbr": null,
+    "logo": "icons/montgomery-a.c..png"
+  },
+  "Monticello Navy": {
+    "abbr": null,
+    "logo": "icons/monticello-navy.png"
+  },
+  "Montreal": {
+    "abbr": null,
+    "logo": "icons/montreal.png"
+  },
+  "Mooney": {
+    "abbr": null,
+    "logo": "icons/mooney.png"
+  },
+  "Moorhead State": {
+    "abbr": null,
+    "logo": "icons/moorhead-state.png"
+  },
+  "Morgan": {
+    "abbr": null,
+    "logo": "icons/morgan.png"
+  },
+  "Morganton Mutes": {
+    "abbr": null,
+    "logo": "icons/morganton-mutes.png"
+  },
+  "Morris Brown": {
+    "abbr": "MB",
+    "logo": "icons/morris-brown.png"
+  },
+  "Morris Field": {
+    "abbr": null,
+    "logo": "icons/morris-field.png"
+  },
+  "Morris Harvey": {
+    "abbr": null,
+    "logo": "icons/morris-harvey.png"
+  },
+  "Mount Airy Deaf School": {
+    "abbr": null,
+    "logo": "icons/mount-airy-deaf-school.png"
+  },
+  "Mount Carmel All-Stars": {
+    "abbr": null,
+    "logo": "icons/mount-carmel-all-stars.png"
+  },
+  "Mount Hermon": {
+    "abbr": null,
+    "logo": "icons/mount-hermon.png"
+  },
+  "Mount Pleasant": {
+    "abbr": null,
+    "logo": "icons/mount-pleasant.png"
+  },
+  "Mount St. Mary's": {
+    "abbr": null,
+    "logo": "icons/mount-st.-mary's.png"
+  },
+  "Multnomah A.C.": {
+    "abbr": null,
+    "logo": "icons/multnomah-a.c..png"
+  },
+  "Nashville": {
+    "abbr": null,
+    "logo": "icons/nashville.png"
+  },
+  "Navy Hospital Corps": {
+    "abbr": null,
+    "logo": "icons/navy-hospital-corps.png"
+  },
+  "Navy Reserves": {
+    "abbr": null,
+    "logo": "icons/navy-reserves.png"
+  },
+  "Navy Transport": {
+    "abbr": null,
+    "logo": "icons/navy-transport.png"
+  },
+  "Nebraska Alumni": {
+    "abbr": null,
+    "logo": "icons/nebraska-alumni.png"
+  },
+  "Nebraska Wesleyan": {
+    "abbr": null,
+    "logo": "icons/nebraska-wesleyan.png"
+  },
+  "Needham": {
+    "abbr": null,
+    "logo": "icons/needham.png"
+  },
+  "Newark A.C.": {
+    "abbr": null,
+    "logo": "icons/newark-a.c..png"
+  },
+  "Newberry A.C.": {
+    "abbr": null,
+    "logo": "icons/newberry-a.c..png"
+  },
+  "Newburyport A.C.": {
+    "abbr": null,
+    "logo": "icons/newburyport-a.c..png"
+  },
+  "New England All-Stars": {
+    "abbr": null,
+    "logo": "icons/new-england-all-stars.png"
+  },
+  "New Jersey A.C.": {
+    "abbr": null,
+    "logo": "icons/new-jersey-a.c..png"
+  },
+  "New London Submarine Base": {
+    "abbr": null,
+    "logo": "icons/new-london-submarine-base.png"
+  },
+  "New Mexico Military": {
+    "abbr": null,
+    "logo": "icons/new-mexico-military.png"
+  },
+  "New Mexico Tech": {
+    "abbr": null,
+    "logo": "icons/new-mexico-tech.png"
+  },
+  "New Orleans Gym Club": {
+    "abbr": null,
+    "logo": "icons/new-orleans-gym-club.png"
+  },
+  "Newport Navy": {
+    "abbr": null,
+    "logo": "icons/newport-navy.png"
+  },
+  "Newport News": {
+    "abbr": null,
+    "logo": "icons/newport-news.png"
+  },
+  "Newport NTS": {
+    "abbr": null,
+    "logo": "icons/newport-nts.png"
+  },
+  "Newton A.C.": {
+    "abbr": null,
+    "logo": "icons/newton-a.c..png"
+  },
+  "Newton High": {
+    "abbr": null,
+    "logo": "icons/newton-high.png"
+  },
+  "Newtowne A.C.": {
+    "abbr": null,
+    "logo": "icons/newtowne-a.c..png"
+  },
+  "New York A.C.": {
+    "abbr": null,
+    "logo": "icons/new-york-a.c..png"
+  },
+  "New York Law": {
+    "abbr": null,
+    "logo": "icons/new-york-law.png"
+  },
+  "New York Naval Militia": {
+    "abbr": null,
+    "logo": "icons/new-york-naval-militia.png"
+  },
+  "New York State": {
+    "abbr": null,
+    "logo": "icons/new-york-state.png"
+  },
+  "New York University": {
+    "abbr": null,
+    "logo": "icons/new-york-university.png"
+  },
+  "Niagara": {
+    "abbr": null,
+    "logo": "icons/niagara.png"
+  },
+  "Norfolk A.C.": {
+    "abbr": null,
+    "logo": "icons/norfolk-a.c..png"
+  },
+  "Norfolk Blues": {
+    "abbr": null,
+    "logo": "icons/norfolk-blues.png"
+  },
+  "Norfolk Fire Department": {
+    "abbr": null,
+    "logo": "icons/norfolk-fire-department.png"
+  },
+  "Norfolk Marines": {
+    "abbr": null,
+    "logo": "icons/norfolk-marines.png"
+  },
+  "Norfolk Navy": {
+    "abbr": null,
+    "logo": "icons/norfolk-navy.png"
+  },
+  "Norfolk Navy Base": {
+    "abbr": null,
+    "logo": "icons/norfolk-navy-base.png"
+  },
+  "Norfolk Navy Yard": {
+    "abbr": null,
+    "logo": "icons/norfolk-navy-yard.png"
+  },
+  "Norman Naval Air Station": {
+    "abbr": null,
+    "logo": "icons/norman-naval-air-station.png"
+  },
+  "Norman Park": {
+    "abbr": null,
+    "logo": "icons/norman-park.png"
+  },
+  "North Alabama A.C.": {
+    "abbr": null,
+    "logo": "icons/north-alabama-a.c..png"
+  },
+  "North Carolina Medical": {
+    "abbr": null,
+    "logo": "icons/north-carolina-medical.png"
+  },
+  "North Carolina Pre-Flight": {
+    "abbr": "NCPF",
+    "logo": "icons/north-carolina-pre-flight.png"
+  },
+  "North Dakota Teachers": {
+    "abbr": null,
+    "logo": "icons/north-dakota-teachers.png"
+  },
+  "North Denver High": {
+    "abbr": null,
+    "logo": "icons/north-denver-high.png"
+  },
+  "North Division High": {
+    "abbr": null,
+    "logo": "icons/north-division-high.png"
+  },
+  "Northeastern": {
+    "abbr": "NE",
+    "logo": "icons/northeastern.png"
+  },
+  "Northeastern Oklahoma State": {
+    "abbr": null,
+    "logo": "icons/northeastern-oklahoma-state.png"
+  },
+  "North Georgia": {
+    "abbr": null,
+    "logo": "icons/north-georgia.png"
+  },
+  "Northwest Division High": {
+    "abbr": null,
+    "logo": "icons/northwest-division-high.png"
+  },
+  "Northwestern Academy": {
+    "abbr": null,
+    "logo": "icons/northwestern-academy.png"
+  },
+  "Northwestern Alumni": {
+    "abbr": null,
+    "logo": "icons/northwestern-alumni.png"
+  },
+  "Northwestern Dental": {
+    "abbr": null,
+    "logo": "icons/northwestern-dental.png"
+  },
+  "Northwestern (Wisconsin)": {
+    "abbr": null,
+    "logo": "icons/northwestern-(wisconsin).png"
+  },
+  "Notre Dame B": {
+    "abbr": null,
+    "logo": "icons/notre-dame-b.png"
+  },
+  "Oak Ridge": {
+    "abbr": null,
+    "logo": "icons/oak-ridge.png"
+  },
+  "Oceana NAS": {
+    "abbr": null,
+    "logo": "icons/oceana-nas.png"
+  },
+  "Ogden A.C.": {
+    "abbr": null,
+    "logo": "icons/ogden-a.c..png"
+  },
+  "Ogden High": {
+    "abbr": null,
+    "logo": "icons/ogden-high.png"
+  },
+  "Oglethorpe": {
+    "abbr": null,
+    "logo": "icons/oglethorpe.png"
+  },
+  "Ohio Am. Corp.": {
+    "abbr": null,
+    "logo": "icons/ohio-am.-corp..png"
+  },
+  "Ohio Medical": {
+    "abbr": null,
+    "logo": "icons/ohio-medical.png"
+  },
+  "Oklahoma City": {
+    "abbr": null,
+    "logo": "icons/oklahoma-city.png"
+  },
+  "Oklahoma Mines": {
+    "abbr": null,
+    "logo": "icons/oklahoma-mines.png"
+  },
+  "Oklahoma Teachers": {
+    "abbr": null,
+    "logo": "icons/oklahoma-teachers.png"
+  },
+  "Olathe Navy": {
+    "abbr": null,
+    "logo": "icons/olathe-navy.png"
+  },
+  "Olivet": {
+    "abbr": null,
+    "logo": "icons/olivet.png"
+  },
+  "Olympic A.C.": {
+    "abbr": null,
+    "logo": "icons/olympic-a.c..png"
+  },
+  "Olympic Club": {
+    "abbr": null,
+    "logo": "icons/olympic-club.png"
+  },
+  "Omaha Balloon": {
+    "abbr": null,
+    "logo": "icons/omaha-balloon.png"
+  },
+  "Omaha Light Guards": {
+    "abbr": null,
+    "logo": "icons/omaha-light-guards.png"
+  },
+  "Onondaga": {
+    "abbr": null,
+    "logo": "icons/onondaga.png"
+  },
+  "Orange A.C.": {
+    "abbr": null,
+    "logo": "icons/orange-a.c..png"
+  },
+  "Oregon College": {
+    "abbr": null,
+    "logo": "icons/oregon-college.png"
+  },
+  "Oregon State Alumni": {
+    "abbr": null,
+    "logo": "icons/oregon-state-alumni.png"
+  },
+  "Oregon Tech": {
+    "abbr": null,
+    "logo": "icons/oregon-tech.png"
+  },
+  "Originals A.C.": {
+    "abbr": null,
+    "logo": "icons/originals-a.c..png"
+  },
+  "Ottawa": {
+    "abbr": null,
+    "logo": "icons/ottawa.png"
+  },
+  "Ottumwa Pre-Flight": {
+    "abbr": null,
+    "logo": "icons/ottumwa-pre-flight.png"
+  },
+  "Ouachita": {
+    "abbr": null,
+    "logo": "icons/ouachita.png"
+  },
+  "Overland Station": {
+    "abbr": null,
+    "logo": "icons/overland-station.png"
+  },
+  "Ozarks": {
+    "abbr": null,
+    "logo": "icons/ozarks.png"
+  },
+  "Pacific": {
+    "abbr": null,
+    "logo": "icons/pacific.png"
+  },
+  "Pacific All-Stars": {
+    "abbr": null,
+    "logo": "icons/pacific-all-stars.png"
+  },
+  "Pacific Fleet": {
+    "abbr": null,
+    "logo": "icons/pacific-fleet.png"
+  },
+  "Pacific (Oregon)": {
+    "abbr": null,
+    "logo": "icons/pacific-(oregon).png"
+  },
+  "Pacific Submarines": {
+    "abbr": null,
+    "logo": "icons/pacific-submarines.png"
+  },
+  "Palmyra": {
+    "abbr": null,
+    "logo": "icons/palmyra.png"
+  },
+  "Panora": {
+    "abbr": null,
+    "logo": "icons/panora.png"
+  },
+  "Park Field": {
+    "abbr": null,
+    "logo": "icons/park-field.png"
+  },
+  "Parris Island Marines": {
+    "abbr": null,
+    "logo": "icons/parris-island-marines.png"
+  },
+  "Parsons": {
+    "abbr": null,
+    "logo": "icons/parsons.png"
+  },
+  "Parsons (Iowa)": {
+    "abbr": null,
+    "logo": "icons/parsons-(iowa).png"
+  },
+  "Pastime A.C.": {
+    "abbr": null,
+    "logo": "icons/pastime-a.c..png"
+  },
+  "Payne Field": {
+    "abbr": null,
+    "logo": "icons/payne-field.png"
+  },
+  "Pearl Harbor": {
+    "abbr": null,
+    "logo": "icons/pearl-harbor.png"
+  },
+  "Pelham Bay Navy": {
+    "abbr": null,
+    "logo": "icons/pelham-bay-navy.png"
+  },
+  "Penn Radio School": {
+    "abbr": null,
+    "logo": "icons/penn-radio-school.png"
+  },
+  "Pennsylvania Alumni": {
+    "abbr": null,
+    "logo": "icons/pennsylvania-alumni.png"
+  },
+  "Pennsylvania College": {
+    "abbr": null,
+    "logo": "icons/pennsylvania-college.png"
+  },
+  "Pennsylvania Military": {
+    "abbr": null,
+    "logo": "icons/pennsylvania-military.png"
+  },
+  "Pennsylvania Railroad YMCA": {
+    "abbr": null,
+    "logo": "icons/pennsylvania-railroad-ymca.png"
+  },
+  "Pennsylvania Reserves": {
+    "abbr": null,
+    "logo": "icons/pennsylvania-reserves.png"
+  },
+  "Pensacola A.C.": {
+    "abbr": null,
+    "logo": "icons/pensacola-a.c..png"
+  },
+  "Pensacola NAS": {
+    "abbr": null,
+    "logo": "icons/pensacola-nas.png"
+  },
+  "Peoria Socials A.C.": {
+    "abbr": null,
+    "logo": "icons/peoria-socials-a.c..png"
+  },
+  "Pepperdine": {
+    "abbr": null,
+    "logo": "icons/pepperdine.png"
+  },
+  "Peru State": {
+    "abbr": null,
+    "logo": "icons/peru-state.png"
+  },
+  "Philadelphia A.C.": {
+    "abbr": null,
+    "logo": "icons/philadelphia-a.c..png"
+  },
+  "Philadelphia All-Stars": {
+    "abbr": null,
+    "logo": "icons/philadelphia-all-stars.png"
+  },
+  "Philadelphia Naval Yard": {
+    "abbr": null,
+    "logo": "icons/philadelphia-naval-yard.png"
+  },
+  "Philaldelphia YMCA": {
+    "abbr": null,
+    "logo": "icons/philaldelphia-ymca.png"
+  },
+  "Phillips": {
+    "abbr": null,
+    "logo": "icons/phillips.png"
+  },
+  "Phoenix A.C.": {
+    "abbr": null,
+    "logo": "icons/phoenix-a.c..png"
+  },
+  "Phoenix All-Stars": {
+    "abbr": null,
+    "logo": "icons/phoenix-all-stars.png"
+  },
+  "Phoenix Indians": {
+    "abbr": null,
+    "logo": "icons/phoenix-indians.png"
+  },
+  "Physicians & Surgeons": {
+    "abbr": null,
+    "logo": "icons/physicians-&-surgeons.png"
+  },
+  "Piedmont": {
+    "abbr": null,
+    "logo": "icons/piedmont.png"
+  },
+  "Pittsburgh A.C.": {
+    "abbr": null,
+    "logo": "icons/pittsburgh-a.c..png"
+  },
+  "Pittsburgh Lyceum": {
+    "abbr": null,
+    "logo": "icons/pittsburgh-lyceum.png"
+  },
+  "Pittsfield A.C.": {
+    "abbr": null,
+    "logo": "icons/pittsfield-a.c..png"
+  },
+  "Pleasanton Navy": {
+    "abbr": null,
+    "logo": "icons/pleasanton-navy.png"
+  },
+  "Pomona Ordinance Base": {
+    "abbr": null,
+    "logo": "icons/pomona-ordinance-base.png"
+  },
+  "Pontiac A.C.": {
+    "abbr": null,
+    "logo": "icons/pontiac-a.c..png"
+  },
+  "Porter Military": {
+    "abbr": null,
+    "logo": "icons/porter-military.png"
+  },
+  "Portland": {
+    "abbr": null,
+    "logo": "icons/portland.png"
+  },
+  "Portland A.C.": {
+    "abbr": null,
+    "logo": "icons/portland-a.c..png"
+  },
+  "Port Royal": {
+    "abbr": null,
+    "logo": "icons/port-royal.png"
+  },
+  "Portsmouth Fleet": {
+    "abbr": null,
+    "logo": "icons/portsmouth-fleet.png"
+  },
+  "Post Field": {
+    "abbr": null,
+    "logo": "icons/post-field.png"
+  },
+  "Prairie A.C.": {
+    "abbr": null,
+    "logo": "icons/prairie-a.c..png"
+  },
+  "Presidio of San Francisco": {
+    "abbr": null,
+    "logo": "icons/presidio-of-san-francisco.png"
+  },
+  "Princeton A.C.": {
+    "abbr": null,
+    "logo": "icons/princeton-a.c..png"
+  },
+  "Princeton Alumni": {
+    "abbr": null,
+    "logo": "icons/princeton-alumni.png"
+  },
+  "Princeton Seminary": {
+    "abbr": null,
+    "logo": "icons/princeton-seminary.png"
+  },
+  "Providence": {
+    "abbr": null,
+    "logo": "icons/providence.png"
+  },
+  "Pueblo High": {
+    "abbr": null,
+    "logo": "icons/pueblo-high.png"
+  },
+  "Pueblo YMCA": {
+    "abbr": null,
+    "logo": "icons/pueblo-ymca.png"
+  },
+  "Purdue Alumni": {
+    "abbr": null,
+    "logo": "icons/purdue-alumni.png"
+  },
+  "Quantico Marines": {
+    "abbr": null,
+    "logo": "icons/quantico-marines.png"
+  },
+  "Queen's": {
+    "abbr": null,
+    "logo": "icons/queen's.png"
+  },
+  "Quincy A.C.": {
+    "abbr": null,
+    "logo": "icons/quincy-a.c..png"
+  },
+  "Randolph Field": {
+    "abbr": null,
+    "logo": "icons/randolph-field.png"
+  },
+  "Ream Field": {
+    "abbr": null,
+    "logo": "icons/ream-field.png"
+  },
+  "Regis (CO)": {
+    "abbr": null,
+    "logo": "icons/regis-(co).png"
+  },
+  "Reina Mercedes": {
+    "abbr": null,
+    "logo": "icons/reina-mercedes.png"
+  },
+  "Reliance A.C.": {
+    "abbr": null,
+    "logo": "icons/reliance-a.c..png"
+  },
+  "Richmond Blues": {
+    "abbr": null,
+    "logo": "icons/richmond-blues.png"
+  },
+  "Richmond Field": {
+    "abbr": null,
+    "logo": "icons/richmond-field.png"
+  },
+  "Ridgefield A.C.": {
+    "abbr": null,
+    "logo": "icons/ridgefield-a.c..png"
+  },
+  "Riverside": {
+    "abbr": null,
+    "logo": "icons/riverside.png"
+  },
+  "Roanoke": {
+    "abbr": null,
+    "logo": "icons/roanoke.png"
+  },
+  "Rockford High": {
+    "abbr": null,
+    "logo": "icons/rockford-high.png"
+  },
+  "Rockford YMCA": {
+    "abbr": null,
+    "logo": "icons/rockford-ymca.png"
+  },
+  "Rockhurst": {
+    "abbr": null,
+    "logo": "icons/rockhurst.png"
+  },
+  "Rock Island A.C.": {
+    "abbr": null,
+    "logo": "icons/rock-island-a.c..png"
+  },
+  "Rollins": {
+    "abbr": null,
+    "logo": "icons/rollins.png"
+  },
+  "Rooks": {
+    "abbr": null,
+    "logo": "icons/rooks.png"
+  },
+  "Rush Medical": {
+    "abbr": null,
+    "logo": "icons/rush-medical.png"
+  },
+  "Rusk": {
+    "abbr": null,
+    "logo": "icons/rusk.png"
+  },
+  "Sacaton Indians": {
+    "abbr": null,
+    "logo": "icons/sacaton-indians.png"
+  },
+  "Sacred Heart (Wisconsin)": {
+    "abbr": null,
+    "logo": "icons/sacred-heart-(wisconsin).png"
+  },
+  "Saint Louis": {
+    "abbr": null,
+    "logo": "icons/saint-louis.png"
+  },
+  "Saint Mary's": {
+    "abbr": null,
+    "logo": "icons/saint-mary's.png"
+  },
+  "Saint Mary's (CA)": {
+    "abbr": null,
+    "logo": "icons/saint-mary's-(ca).png"
+  },
+  "Saint Mary's (CA) Pre-Flight": {
+    "abbr": null,
+    "logo": "icons/saint-mary's-(ca)-pre-flight.png"
+  },
+  "Salem": {
+    "abbr": null,
+    "logo": "icons/salem.png"
+  },
+  "Salem International": {
+    "abbr": null,
+    "logo": "icons/salem-international.png"
+  },
+  "Salt Lake Field": {
+    "abbr": null,
+    "logo": "icons/salt-lake-field.png"
+  },
+  "Salt Lake High": {
+    "abbr": null,
+    "logo": "icons/salt-lake-high.png"
+  },
+  "Salt Lake YMCA": {
+    "abbr": null,
+    "logo": "icons/salt-lake-ymca.png"
+  },
+  "Sampson NTS": {
+    "abbr": null,
+    "logo": "icons/sampson-nts.png"
+  },
+  "San Diego Bombers (PCFL)": {
+    "abbr": null,
+    "logo": "icons/san-diego-bombers-(pcfl).png"
+  },
+  "San Diego Marines": {
+    "abbr": null,
+    "logo": "icons/san-diego-marines.png"
+  },
+  "San Diego Navy": {
+    "abbr": null,
+    "logo": "icons/san-diego-navy.png"
+  },
+  "San Francisco": {
+    "abbr": "SF",
+    "logo": "icons/san-francisco.png"
+  },
+  "San Francisco Clippers (AFL)": {
+    "abbr": null,
+    "logo": "icons/san-francisco-clippers-(afl).png"
+  },
+  "San Francisco State": {
+    "abbr": null,
+    "logo": "icons/san-francisco-state.png"
+  },
+  "San Pedro A.C.": {
+    "abbr": null,
+    "logo": "icons/san-pedro-a.c..png"
+  },
+  "San Pedro Navy": {
+    "abbr": null,
+    "logo": "icons/san-pedro-navy.png"
+  },
+  "Santa Ana Field": {
+    "abbr": null,
+    "logo": "icons/santa-ana-field.png"
+  },
+  "Santa Clara": {
+    "abbr": "SC",
+    "logo": "icons/santa-clara.png"
+  },
+  "Savannah A.C.": {
+    "abbr": null,
+    "logo": "icons/savannah-a.c..png"
+  },
+  "S.B. Howard Park": {
+    "abbr": null,
+    "logo": "icons/s.b.-howard-park.png"
+  },
+  "Schuylkill": {
+    "abbr": null,
+    "logo": "icons/schuylkill.png"
+  },
+  "Schuylkill Navy": {
+    "abbr": null,
+    "logo": "icons/schuylkill-navy.png"
+  },
+  "Scott Field": {
+    "abbr": null,
+    "logo": "icons/scott-field.png"
+  },
+  "Scout Fleet": {
+    "abbr": null,
+    "logo": "icons/scout-fleet.png"
+  },
+  "Scranton": {
+    "abbr": null,
+    "logo": "icons/scranton.png"
+  },
+  "Seamen Gunners": {
+    "abbr": null,
+    "logo": "icons/seamen-gunners.png"
+  },
+  "Second Air Force": {
+    "abbr": null,
+    "logo": "icons/second-air-force.png"
+  },
+  "Second Air Force (Colorado)": {
+    "abbr": null,
+    "logo": "icons/second-air-force-(colorado).png"
+  },
+  "Second Air Force (Washington)": {
+    "abbr": null,
+    "logo": "icons/second-air-force-(washington).png"
+  },
+  "Seton Hall": {
+    "abbr": null,
+    "logo": "icons/seton-hall.png"
+  },
+  "Sewanee Club (Virginia)": {
+    "abbr": null,
+    "logo": "icons/sewanee-club-(virginia).png"
+  },
+  "Sewanee Medical": {
+    "abbr": null,
+    "logo": "icons/sewanee-medical.png"
+  },
+  "Shamokin": {
+    "abbr": null,
+    "logo": "icons/shamokin.png"
+  },
+  "Shattuck": {
+    "abbr": null,
+    "logo": "icons/shattuck.png"
+  },
+  "Sherman": {
+    "abbr": null,
+    "logo": "icons/sherman.png"
+  },
+  "Shorter": {
+    "abbr": "SHOR",
+    "logo": "icons/shorter.png"
+  },
+  "Shreveport A.C.": {
+    "abbr": null,
+    "logo": "icons/shreveport-a.c..png"
+  },
+  "Shurtleff": {
+    "abbr": null,
+    "logo": "icons/shurtleff.png"
+  },
+  "Sioux City A.C.": {
+    "abbr": null,
+    "logo": "icons/sioux-city-a.c..png"
+  },
+  "Sioux Falls": {
+    "abbr": "SIO",
+    "logo": "icons/sioux-falls.png"
+  },
+  "SMTS": {
+    "abbr": null,
+    "logo": "icons/smts.png"
+  },
+  "Sonoma State": {
+    "abbr": null,
+    "logo": "icons/sonoma-state.png"
+  },
+  "South Bend A.C.": {
+    "abbr": null,
+    "logo": "icons/south-bend-a.c..png"
+  },
+  "South Berwick": {
+    "abbr": null,
+    "logo": "icons/south-berwick.png"
+  },
+  "South Denver High": {
+    "abbr": null,
+    "logo": "icons/south-denver-high.png"
+  },
+  "Southern California Alumni": {
+    "abbr": null,
+    "logo": "icons/southern-california-alumni.png"
+  },
+  "Southern College": {
+    "abbr": null,
+    "logo": "icons/southern-college.png"
+  },
+  "Southern Methodist Freshmen": {
+    "abbr": null,
+    "logo": "icons/southern-methodist-freshmen.png"
+  },
+  "Southern Military Academy": {
+    "abbr": null,
+    "logo": "icons/southern-military-academy.png"
+  },
+  "SOUTH FLORIDA STARS": {
+    "abbr": "SFX",
+    "logo": "icons/south-florida-stars.png"
+  },
+  "South Plains Field": {
+    "abbr": null,
+    "logo": "icons/south-plains-field.png"
+  },
+  "South Side Academy": {
+    "abbr": null,
+    "logo": "icons/south-side-academy.png"
+  },
+  "Southwestern (Kansas)": {
+    "abbr": null,
+    "logo": "icons/southwestern-(kansas).png"
+  },
+  "Southwestern University": {
+    "abbr": "SW",
+    "logo": "icons/southwestern-university.png"
+  },
+  "Southwest State": {
+    "abbr": null,
+    "logo": "icons/southwest-state.png"
+  },
+  "Spence Field": {
+    "abbr": null,
+    "logo": "icons/spence-field.png"
+  },
+  "Spring Hill": {
+    "abbr": null,
+    "logo": "icons/spring-hill.png"
+  },
+  "Squantum NAS": {
+    "abbr": null,
+    "logo": "icons/squantum-nas.png"
+  },
+  "Staats A.C.": {
+    "abbr": null,
+    "logo": "icons/staats-a.c..png"
+  },
+  "St. Albans": {
+    "abbr": null,
+    "logo": "icons/st.-albans.png"
+  },
+  "Standifer Shipbuilders": {
+    "abbr": null,
+    "logo": "icons/standifer-shipbuilders.png"
+  },
+  "St. Benedict": {
+    "abbr": null,
+    "logo": "icons/st.-benedict.png"
+  },
+  "St. Bonaventure": {
+    "abbr": null,
+    "logo": "icons/st.-bonaventure.png"
+  },
+  "St. Edward's": {
+    "abbr": null,
+    "logo": "icons/st.-edward's.png"
+  },
+  "Steelton YMCA": {
+    "abbr": null,
+    "logo": "icons/steelton-ymca.png"
+  },
+  "Sterling A.C.": {
+    "abbr": null,
+    "logo": "icons/sterling-a.c..png"
+  },
+  "Stevens": {
+    "abbr": null,
+    "logo": "icons/stevens.png"
+  },
+  "Stevens Alumni": {
+    "abbr": null,
+    "logo": "icons/stevens-alumni.png"
+  },
+  "St. Helena NTS": {
+    "abbr": null,
+    "logo": "icons/st.-helena-nts.png"
+  },
+  "Still": {
+    "abbr": null,
+    "logo": "icons/still.png"
+  },
+  "St. John's M.A.": {
+    "abbr": null,
+    "logo": "icons/st.-john's-m.a..png"
+  },
+  "St. John's (Maryland)": {
+    "abbr": null,
+    "logo": "icons/st.-john's-(maryland).png"
+  },
+  "St. Joseph's (Pennsylvania)": {
+    "abbr": null,
+    "logo": "icons/st.-joseph's-(pennsylvania).png"
+  },
+  "St. Louis Alumni-Hawaii": {
+    "abbr": null,
+    "logo": "icons/st.-louis-alumni-hawaii.png"
+  },
+  "St. Mary's (Kansas)": {
+    "abbr": null,
+    "logo": "icons/st.-mary's-(kansas).png"
+  },
+  "St. Mary's (Minnesota)": {
+    "abbr": null,
+    "logo": "icons/st.-mary's-(minnesota).png"
+  },
+  "St. Mary's (Texas)": {
+    "abbr": null,
+    "logo": "icons/st.-mary's-(texas).png"
+  },
+  "St. Paul": {
+    "abbr": null,
+    "logo": "icons/st.-paul.png"
+  },
+  "St. Paul Central High": {
+    "abbr": null,
+    "logo": "icons/st.-paul-central-high.png"
+  },
+  "St. Paul's (New Hampshire)": {
+    "abbr": null,
+    "logo": "icons/st.-paul's-(new-hampshire).png"
+  },
+  "Stroudsburg": {
+    "abbr": null,
+    "logo": "icons/stroudsburg.png"
+  },
+  "St. Steven's": {
+    "abbr": null,
+    "logo": "icons/st.-steven's.png"
+  },
+  "St. Thomas": {
+    "abbr": null,
+    "logo": "icons/st.-thomas.png"
+  },
+  "St. Viator": {
+    "abbr": null,
+    "logo": "icons/st.-viator.png"
+  },
+  "St. Vincent's (California)": {
+    "abbr": null,
+    "logo": "icons/st.-vincent's-(california).png"
+  },
+  "St. Vincent's (Pennsylvania)": {
+    "abbr": null,
+    "logo": "icons/st.-vincent's-(pennsylvania).png"
+  },
+  "Superba A.C.": {
+    "abbr": null,
+    "logo": "icons/superba-a.c..png"
+  },
+  "Swarthmore": {
+    "abbr": "SWAR",
+    "logo": "icons/swarthmore.png"
+  },
+  "Swarthmore Alumni": {
+    "abbr": null,
+    "logo": "icons/swarthmore-alumni.png"
+  },
+  "Syracuse A.C.": {
+    "abbr": null,
+    "logo": "icons/syracuse-a.c..png"
+  },
+  "Syracuse Alumni": {
+    "abbr": null,
+    "logo": "icons/syracuse-alumni.png"
+  },
+  "Talladega": {
+    "abbr": null,
+    "logo": "icons/talladega.png"
+  },
+  "Tampa": {
+    "abbr": null,
+    "logo": "icons/tampa.png"
+  },
+  "Tampa A.C.": {
+    "abbr": null,
+    "logo": "icons/tampa-a.c..png"
+  },
+  "Tarkio": {
+    "abbr": null,
+    "logo": "icons/tarkio.png"
+  },
+  "Taylor": {
+    "abbr": "TAYLOR",
+    "logo": "icons/taylor.png"
+  },
+  "Temperance A.C.": {
+    "abbr": null,
+    "logo": "icons/temperance-a.c..png"
+  },
+  "Tennessee Deaf School": {
+    "abbr": null,
+    "logo": "icons/tennessee-deaf-school.png"
+  },
+  "Tennessee Medical College": {
+    "abbr": null,
+    "logo": "icons/tennessee-medical-college.png"
+  },
+  "Tennessee-Memphis": {
+    "abbr": null,
+    "logo": "icons/tennessee-memphis.png"
+  },
+  "Tennessee Military": {
+    "abbr": null,
+    "logo": "icons/tennessee-military.png"
+  },
+  "Tennessee Wesleyan": {
+    "abbr": null,
+    "logo": "icons/tennessee-wesleyan.png"
+  },
+  "Texas A&M-Corpus Christi": {
+    "abbr": null,
+    "logo": "icons/texas-a&m-corpus-christi.png"
+  },
+  "Texas-Arlington": {
+    "abbr": null,
+    "logo": "icons/texas-arlington.png"
+  },
+  "Texas Deaf School": {
+    "abbr": null,
+    "logo": "icons/texas-deaf-school.png"
+  },
+  "Texas Military": {
+    "abbr": null,
+    "logo": "icons/texas-military.png"
+  },
+  "Thiel": {
+    "abbr": "THIEL",
+    "logo": "icons/thiel.png"
+  },
+  "Third Air Force": {
+    "abbr": null,
+    "logo": "icons/third-air-force.png"
+  },
+  "Tiffin": {
+    "abbr": "TIF",
+    "logo": "icons/tiffin.png"
+  },
+  "Tioga": {
+    "abbr": null,
+    "logo": "icons/tioga.png"
+  },
+  "Toledo A.C.": {
+    "abbr": null,
+    "logo": "icons/toledo-a.c..png"
+  },
+  "Tonkawa Preparatory": {
+    "abbr": null,
+    "logo": "icons/tonkawa-preparatory.png"
+  },
+  "Toronto All-Stars": {
+    "abbr": null,
+    "logo": "icons/toronto-all-stars.png"
+  },
+  "Toronto Argonauts": {
+    "abbr": "Toronto Argonauts",
+    "logo": "icons/toronto-argonauts.png"
+  },
+  "Transylvania": {
+    "abbr": null,
+    "logo": "icons/transylvania.png"
+  },
+  "Trinity International (IL)": {
+    "abbr": "TRN",
+    "logo": "icons/trinity-international-(il).png"
+  },
+  "Trinity (Texas)": {
+    "abbr": null,
+    "logo": "icons/trinity-(texas).png"
+  },
+  "Troy Laureates": {
+    "abbr": null,
+    "logo": "icons/troy-laureates.png"
+  },
+  "Tulane Alumni": {
+    "abbr": null,
+    "logo": "icons/tulane-alumni.png"
+  },
+  "Twin Cities Central High": {
+    "abbr": null,
+    "logo": "icons/twin-cities-central-high.png"
+  },
+  "Twin Cities High": {
+    "abbr": null,
+    "logo": "icons/twin-cities-high.png"
+  },
+  "UAY All-Stars": {
+    "abbr": null,
+    "logo": "icons/uay-all-stars.png"
+  },
+  "UC Riverside": {
+    "abbr": null,
+    "logo": "icons/uc-riverside.png"
+  },
+  "Union College": {
+    "abbr": "UNI",
+    "logo": "icons/union-college.png"
+  },
+  "Union (Tennessee)": {
+    "abbr": null,
+    "logo": "icons/union-(tennessee).png"
+  },
+  "University Club of Chicago": {
+    "abbr": null,
+    "logo": "icons/university-club-of-chicago.png"
+  },
+  "University of Mary": {
+    "abbr": "MARY",
+    "logo": "icons/university-of-mary.png"
+  },
+  "University of Mexico": {
+    "abbr": null,
+    "logo": "icons/university-of-mexico.png"
+  },
+  "Upsala": {
+    "abbr": null,
+    "logo": "icons/upsala.png"
+  },
+  "U.S. Amphibians": {
+    "abbr": null,
+    "logo": "icons/u.s.-amphibians.png"
+  },
+  "U.S. International": {
+    "abbr": null,
+    "logo": "icons/u.s.-international.png"
+  },
+  "U.S. Marines": {
+    "abbr": null,
+    "logo": "icons/u.s.-marines.png"
+  },
+  "US Recup. Company": {
+    "abbr": null,
+    "logo": "icons/us-recup.-company.png"
+  },
+  "USS Boston": {
+    "abbr": null,
+    "logo": "icons/uss-boston.png"
+  },
+  "USS Franklin": {
+    "abbr": null,
+    "logo": "icons/uss-franklin.png"
+  },
+  "USS Idaho": {
+    "abbr": null,
+    "logo": "icons/uss-idaho.png"
+  },
+  "USS Maryland": {
+    "abbr": null,
+    "logo": "icons/uss-maryland.png"
+  },
+  "USS Mercy": {
+    "abbr": null,
+    "logo": "icons/uss-mercy.png"
+  },
+  "USS Minnesota": {
+    "abbr": null,
+    "logo": "icons/uss-minnesota.png"
+  },
+  "USS Mississippi": {
+    "abbr": null,
+    "logo": "icons/uss-mississippi.png"
+  },
+  "USS New Mexico": {
+    "abbr": null,
+    "logo": "icons/uss-new-mexico.png"
+  },
+  "USS New York": {
+    "abbr": null,
+    "logo": "icons/uss-new-york.png"
+  },
+  "USS Oklahoma": {
+    "abbr": null,
+    "logo": "icons/uss-oklahoma.png"
+  },
+  "USS Tennessee": {
+    "abbr": null,
+    "logo": "icons/uss-tennessee.png"
+  },
+  "USS Utah": {
+    "abbr": null,
+    "logo": "icons/uss-utah.png"
+  },
+  "USS Washington": {
+    "abbr": null,
+    "logo": "icons/uss-washington.png"
+  },
+  "Utah Alumni": {
+    "abbr": null,
+    "logo": "icons/utah-alumni.png"
+  },
+  "Utah Field Artillery": {
+    "abbr": null,
+    "logo": "icons/utah-field-artillery.png"
+  },
+  "Utah State Alumni": {
+    "abbr": null,
+    "logo": "icons/utah-state-alumni.png"
+  },
+  "Vancouver Barracks": {
+    "abbr": null,
+    "logo": "icons/vancouver-barracks.png"
+  },
+  "Vanderbilt Alumni": {
+    "abbr": null,
+    "logo": "icons/vanderbilt-alumni.png"
+  },
+  "Vedado A.C.": {
+    "abbr": null,
+    "logo": "icons/vedado-a.c..png"
+  },
+  "Vermont": {
+    "abbr": null,
+    "logo": "icons/vermont.png"
+  },
+  "Vermont Methodist Seminary": {
+    "abbr": null,
+    "logo": "icons/vermont-methodist-seminary.png"
+  },
+  "Vicksburg A.C.": {
+    "abbr": null,
+    "logo": "icons/vicksburg-a.c..png"
+  },
+  "Vigilant A.C.": {
+    "abbr": null,
+    "logo": "icons/vigilant-a.c..png"
+  },
+  "Vincennes": {
+    "abbr": null,
+    "logo": "icons/vincennes.png"
+  },
+  "Vineland": {
+    "abbr": null,
+    "logo": "icons/vineland.png"
+  },
+  "Virginia Boat Club": {
+    "abbr": null,
+    "logo": "icons/virginia-boat-club.png"
+  },
+  "Virginia Medical": {
+    "abbr": null,
+    "logo": "icons/virginia-medical.png"
+  },
+  "Virginia Tech Alumni": {
+    "abbr": null,
+    "logo": "icons/virginia-tech-alumni.png"
+  },
+  "Virginia Union": {
+    "abbr": "VU",
+    "logo": "icons/virginia-union.png"
+  },
+  "Volunteer A.C.": {
+    "abbr": null,
+    "logo": "icons/volunteer-a.c..png"
+  },
+  "Waco Field": {
+    "abbr": null,
+    "logo": "icons/waco-field.png"
+  },
+  "Wake Forest Freshmen": {
+    "abbr": null,
+    "logo": "icons/wake-forest-freshmen.png"
+  },
+  "Walton": {
+    "abbr": null,
+    "logo": "icons/walton.png"
+  },
+  "Warrenton Preparatory": {
+    "abbr": null,
+    "logo": "icons/warrenton-preparatory.png"
+  },
+  "Washington Artillery": {
+    "abbr": null,
+    "logo": "icons/washington-artillery.png"
+  },
+  "Washington (Maryland)": {
+    "abbr": null,
+    "logo": "icons/washington-(maryland).png"
+  },
+  "Washington Redskins (NFL)": {
+    "abbr": null,
+    "logo": "icons/washington-redskins-(nfl).png"
+  },
+  "Washington YMCA": {
+    "abbr": null,
+    "logo": "icons/washington-ymca.png"
+  },
+  "Waterton": {
+    "abbr": null,
+    "logo": "icons/waterton.png"
+  },
+  "Watertown": {
+    "abbr": null,
+    "logo": "icons/watertown.png"
+  },
+  "Waukegan High": {
+    "abbr": null,
+    "logo": "icons/waukegan-high.png"
+  },
+  "Wayne State": {
+    "abbr": null,
+    "logo": "icons/wayne-state.png"
+  },
+  "Welch Neck High": {
+    "abbr": null,
+    "logo": "icons/welch-neck-high.png"
+  },
+  "Wendell Phillips High": {
+    "abbr": null,
+    "logo": "icons/wendell-phillips-high.png"
+  },
+  "Wesley": {
+    "abbr": null,
+    "logo": "icons/wesley.png"
+  },
+  "Wesleyan (CT)": {
+    "abbr": null,
+    "logo": "icons/wesleyan-(ct).png"
+  },
+  "West Coast Army": {
+    "abbr": null,
+    "logo": "icons/west-coast-army.png"
+  },
+  "West Coast Navy": {
+    "abbr": null,
+    "logo": "icons/west-coast-navy.png"
+  },
+  "West Denver High": {
+    "abbr": null,
+    "logo": "icons/west-denver-high.png"
+  },
+  "West Division High": {
+    "abbr": null,
+    "logo": "icons/west-division-high.png"
+  },
+  "West End Amateurs": {
+    "abbr": null,
+    "logo": "icons/west-end-amateurs.png"
+  },
+  "Western (Iowa)": {
+    "abbr": null,
+    "logo": "icons/western-(iowa).png"
+  },
+  "Western Ontario": {
+    "abbr": null,
+    "logo": "icons/western-ontario.png"
+  },
+  "Western Reserve": {
+    "abbr": null,
+    "logo": "icons/western-reserve.png"
+  },
+  "West Logan High": {
+    "abbr": null,
+    "logo": "icons/west-logan-high.png"
+  },
+  "Westminster (Missouri)": {
+    "abbr": null,
+    "logo": "icons/westminster-(missouri).png"
+  },
+  "Westminster (Pennsylvania)": {
+    "abbr": null,
+    "logo": "icons/westminster-(pennsylvania).png"
+  },
+  "West Seattle A.C.": {
+    "abbr": null,
+    "logo": "icons/west-seattle-a.c..png"
+  },
+  "West Texas Military": {
+    "abbr": null,
+    "logo": "icons/west-texas-military.png"
+  },
+  "Wetumpka": {
+    "abbr": null,
+    "logo": "icons/wetumpka.png"
+  },
+  "Wheaton High": {
+    "abbr": null,
+    "logo": "icons/wheaton-high.png"
+  },
+  "White Sands": {
+    "abbr": null,
+    "logo": "icons/white-sands.png"
+  },
+  "White Squadron": {
+    "abbr": null,
+    "logo": "icons/white-squadron.png"
+  },
+  "Whitman": {
+    "abbr": null,
+    "logo": "icons/whitman.png"
+  },
+  "Wichita State": {
+    "abbr": null,
+    "logo": "icons/wichita-state.png"
+  },
+  "Williams Alumni": {
+    "abbr": null,
+    "logo": "icons/williams-alumni.png"
+  },
+  "Williams Field": {
+    "abbr": null,
+    "logo": "icons/williams-field.png"
+  },
+  "Williamsport": {
+    "abbr": null,
+    "logo": "icons/williamsport.png"
+  },
+  "Williston": {
+    "abbr": null,
+    "logo": "icons/williston.png"
+  },
+  "Wilmington": {
+    "abbr": null,
+    "logo": "icons/wilmington.png"
+  },
+  "Winchester": {
+    "abbr": null,
+    "logo": "icons/winchester.png"
+  },
+  "Wisconsin Alumni": {
+    "abbr": null,
+    "logo": "icons/wisconsin-alumni.png"
+  },
+  "Wisconsin Freshmen": {
+    "abbr": null,
+    "logo": "icons/wisconsin-freshmen.png"
+  },
+  "Wisconsin-Milwaukee": {
+    "abbr": null,
+    "logo": "icons/wisconsin-milwaukee.png"
+  },
+  "Wisc. Stout": {
+    "abbr": null,
+    "logo": "icons/wisc.-stout.png"
+  },
+  "Wissahickon Barracks": {
+    "abbr": null,
+    "logo": "icons/wissahickon-barracks.png"
+  },
+  "Worcester A.C.": {
+    "abbr": null,
+    "logo": "icons/worcester-a.c..png"
+  },
+  "Worcester Academy": {
+    "abbr": null,
+    "logo": "icons/worcester-academy.png"
+  },
+  "Wyoming Alumni": {
+    "abbr": null,
+    "logo": "icons/wyoming-alumni.png"
+  },
+  "Wyoming Faculty": {
+    "abbr": null,
+    "logo": "icons/wyoming-faculty.png"
+  },
+  "Wyoming Seminary": {
+    "abbr": null,
+    "logo": "icons/wyoming-seminary.png"
+  },
+  "Xavier": {
+    "abbr": null,
+    "logo": "icons/xavier.png"
+  },
+  "Yale Alumni": {
+    "abbr": null,
+    "logo": "icons/yale-alumni.png"
+  },
+  "Yale Consolidated": {
+    "abbr": null,
+    "logo": "icons/yale-consolidated.png"
+  },
+  "Yale Freshmen": {
+    "abbr": null,
+    "logo": "icons/yale-freshmen.png"
+  },
+  "Yale/Princeton/Harvard Grads": {
+    "abbr": null,
+    "logo": "icons/yale/princeton/harvard-grads.png"
+  },
+  "YMI": {
+    "abbr": null,
+    "logo": "icons/ymi.png"
+  },
+  "York YMCA": {
+    "abbr": null,
+    "logo": "icons/york-ymca.png"
+  },
+  "Yuma Field": {
+    "abbr": null,
+    "logo": "icons/yuma-field.png"
+  }
+}
