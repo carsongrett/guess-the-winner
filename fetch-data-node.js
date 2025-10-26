@@ -5,7 +5,7 @@ const CONFIG = {
   apiKey: 'AYkI+Yu/PHFp5lbWxTjrAjN0q4DFidrdJgSoiGvPXve807qSdw0BJ6c08Vf0kFcN',
   apiBaseUrl: 'https://api.collegefootballdata.com',
   rateLimitDelay: 1000,
-  seasons: [2024, 2023, 2022, 2021],
+  seasons: [2025], // Fetch 2025 season data
 };
 
 // Make HTTPS request with proper headers
@@ -62,10 +62,47 @@ async function fetchTeamsFromCFBD() {
 async function fetchFromCFBD(season = 2023) {
   try {
     console.log(`Fetching games for season ${season}...`);
-    const url = `${CONFIG.apiBaseUrl}/games?year=${season}&seasonType=regular`;
-    const data = await makeRequest(url);
-    console.log(`✅ Fetched ${data.length} raw games for ${season}`);
-    return data;
+    
+    // Try fetching different weeks to see what's available
+    const allGames = [];
+    
+    // Fetch regular season games
+    const regularUrl = `${CONFIG.apiBaseUrl}/games?year=${season}&seasonType=regular`;
+    const regularGames = await makeRequest(regularUrl);
+    console.log(`✅ Fetched ${regularGames.length} regular season games for ${season}`);
+    allGames.push(...regularGames);
+    
+    // Fetch postseason games
+    const postseasonUrl = `${CONFIG.apiBaseUrl}/games?year=${season}&seasonType=postseason`;
+    const postseasonGames = await makeRequest(postseasonUrl);
+    console.log(`✅ Fetched ${postseasonGames.length} postseason games for ${season}`);
+    allGames.push(...postseasonGames);
+    
+    // Try fetching by specific weeks to see what's available
+    if (season === 2025) {
+      console.log('🔍 Checking available weeks for 2025...');
+      for (let week = 1; week <= 15; week++) {
+        try {
+          const weekUrl = `${CONFIG.apiBaseUrl}/games?year=${season}&week=${week}&seasonType=regular`;
+          const weekGames = await makeRequest(weekUrl);
+          if (weekGames.length > 0) {
+            console.log(`  Week ${week}: ${weekGames.length} games`);
+            allGames.push(...weekGames);
+          }
+        } catch (error) {
+          // Week might not exist, continue
+        }
+      }
+    }
+    
+    // Remove duplicates based on game ID
+    const uniqueGames = allGames.filter((game, index, self) => 
+      index === self.findIndex(g => g.id === game.id)
+    );
+    
+    console.log(`✅ Total unique games: ${uniqueGames.length} for ${season}`);
+    
+    return uniqueGames;
   } catch (error) {
     console.error(`❌ Error fetching games for ${season}: ${error.message}`);
     return [];
@@ -74,7 +111,10 @@ async function fetchFromCFBD(season = 2023) {
 
 // Normalize CFBD game data to our format
 function normalizeCFBDGame(row, teams) {
-  if (!row.homeTeam || !row.awayTeam || row.homePoints == null || row.awayPoints == null || !row.completed) return null;
+  if (!row.homeTeam || !row.awayTeam || row.homePoints == null || row.awayPoints == null) return null;
+  
+  // Only include FBS teams
+  if (row.homeClassification !== 'fbs' || row.awayClassification !== 'fbs') return null;
   
   const teamAName = row.awayTeam;
   const teamBName = row.homeTeam;
@@ -128,40 +168,71 @@ async function fetchAndSaveData() {
   console.log('🚀 Starting data fetch...');
   
   try {
+    // Fetch teams
     const teams = await fetchTeamsFromCFBD();
-    const games = await fetchAllSeasons(teams);
-    
-    console.log(`\n📊 Total games fetched: ${games.length}`);
-    
-    if (games.length > 0) {
-      const gamesBySeason = games.reduce((acc, game) => {
-        acc[game.season] = (acc[game.season] || 0) + 1;
-        return acc;
-      }, {});
-      
-      console.log('Games by season:');
-      Object.entries(gamesBySeason).forEach(([season, count]) => {
-        console.log(`  ${season}: ${count} games`);
-      });
-      
-      const teamsMapping = {};
-      teams.forEach(team => {
-        teamsMapping[team.school] = {
-          abbr: team.abbreviation,
-          logo: `icons/${team.school.toLowerCase().replace(/\s+/g, '-')}.png`
-        };
-      });
-      
-      console.log('\n📋 === COPY THIS TO data/teams.json ===');
-      console.log(JSON.stringify(teamsMapping, null, 2));
-      
-      console.log('\n📋 === COPY THIS TO data/games.json ===');
-      console.log(JSON.stringify(games, null, 2));
-      
-      console.log('\n✅ Data fetch complete! Copy the JSON above to your files.');
-    } else {
-      console.log('❌ No games were fetched. Check your API key and try again.');
+    if (teams.length === 0) {
+      console.log('❌ No teams fetched, exiting');
+      return;
     }
+    
+    // Fetch games for all seasons
+    const allGames = [];
+    for (const season of CONFIG.seasons) {
+      const games = await fetchFromCFBD(season);
+      const normalizedGames = games
+        .map(row => normalizeCFBDGame(row, teams))
+        .filter(g => g !== null);
+      
+      console.log(`✅ ${season}: ${normalizedGames.length} valid games`);
+      allGames.push(...normalizedGames);
+      
+      // Rate limiting
+      if (season !== CONFIG.seasons[CONFIG.seasons.length - 1]) {
+        await new Promise(resolve => setTimeout(resolve, CONFIG.rateLimitDelay));
+      }
+    }
+    
+    console.log(`\n🎯 Total games: ${allGames.length}`);
+    
+    // Generate teams mapping
+    const teamsMapping = {};
+    allGames.forEach(game => {
+      if (!teamsMapping[game.teamA.name]) {
+        teamsMapping[game.teamA.name] = {
+          abbr: game.teamA.abbr,
+          logo: game.teamA.logo
+        };
+      }
+      if (!teamsMapping[game.teamB.name]) {
+        teamsMapping[game.teamB.name] = {
+          abbr: game.teamB.abbr,
+          logo: game.teamB.logo
+        };
+      }
+    });
+    
+    // Save to files
+    const fs = require('fs');
+    fs.writeFileSync('data/games-2025.json', JSON.stringify(allGames, null, 2));
+    fs.writeFileSync('data/teams-2025.json', JSON.stringify(teamsMapping, null, 2));
+    
+    console.log('\n✅ Files saved:');
+    console.log('  - data/games-2025.json');
+    console.log('  - data/teams-2025.json');
+    
+    // Show week distribution
+    const weeks = {};
+    allGames.forEach(game => {
+      const week = game.id.split('-')[1];
+      weeks[week] = (weeks[week] || 0) + 1;
+    });
+    
+    console.log('\n📊 Week distribution:');
+    Object.keys(weeks).sort((a, b) => parseInt(a) - parseInt(b)).forEach(week => {
+      console.log(`  Week ${week}: ${weeks[week]} games`);
+    });
+    
+    console.log(`\n🏈 Total FBS teams: ${Object.keys(teamsMapping).length}`);
     
   } catch (error) {
     console.error(`❌ Error: ${error.message}`);

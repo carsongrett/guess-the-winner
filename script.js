@@ -85,7 +85,7 @@ const LS = {
 
 let score = LS.get('gtw.score', 0);
 let bestScore = LS.get('gtw.best', 0);
-let strikes = LS.get('gtw.strikes', 0);
+let strikes = 0; // Session-only, not stored in localStorage
 let gamesPlayed = LS.get('gtw.played', 0);
 let correctCount = LS.get('gtw.correct', 0);
 
@@ -108,7 +108,7 @@ function updateHeader() {
 function saveStats() {
   LS.set('gtw.score', score);
   LS.set('gtw.best', bestScore);
-  LS.set('gtw.strikes', strikes);
+  // strikes is session-only, not stored in localStorage
   LS.set('gtw.played', gamesPlayed);
   LS.set('gtw.correct', correctCount);
 }
@@ -163,7 +163,7 @@ function renderGame(game) {
   els.scoreA.className = 'score-box';
   els.scoreB.className = 'score-box';
 
-  els.subtitle.textContent = formatDate(game.date);
+  els.subtitle.textContent = formatDate(game.date, game.id);
 
   els.btnA.onclick = () => handleGuess(game.teamA.abbr);
   els.btnB.onclick = () => handleGuess(game.teamB.abbr);
@@ -279,7 +279,7 @@ function resetGame() {
   // Clear all localStorage data
   localStorage.removeItem('gtw.score');
   localStorage.removeItem('gtw.best');
-  localStorage.removeItem('gtw.strikes');
+  // strikes is session-only, no need to remove from localStorage
   localStorage.removeItem('gtw.played');
   localStorage.removeItem('gtw.correct');
   
@@ -304,16 +304,28 @@ function resetGame() {
 // UTILITY FUNCTIONS
 // ============================================================================
 
-function formatDate(iso) {
+function formatDate(iso, gameId = null) {
   // yyyy-mm-dd -> Mon DD, YYYY
   if (!iso) return '';
   const d = new Date(iso);
   if (String(d) === 'Invalid Date') return iso;
-  return d.toLocaleDateString(undefined, { 
+  
+  const dateStr = d.toLocaleDateString(undefined, { 
     month: 'short', 
     day: 'numeric', 
     year: 'numeric' 
   });
+  
+  // Extract week number from game ID if provided
+  if (gameId) {
+    const weekMatch = gameId.match(/^\d{4}-(\d+)-/);
+    if (weekMatch) {
+      const week = weekMatch[1];
+      return `${dateStr} - Week ${week}`;
+    }
+  }
+  
+  return dateStr;
 }
 
 function dateHash(yyyymmdd) {
@@ -442,8 +454,11 @@ function switchCategory(categoryId) {
   
   // Load new category data and start new game
   loadCategoryData(categoryId).then(() => {
-    // Reset game state for new category
+    // Reset game state for new category (treat as new game)
     state.seenIds.clear();
+    score = 0; // Reset current score
+    strikes = 0; // Reset strikes
+    updateHeader(); // Update UI to show reset values
     renderGame(pickNextGame() || randomFromArray(state.games));
   }).catch(error => {
     console.error('Error switching category:', error);

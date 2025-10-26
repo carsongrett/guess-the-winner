@@ -1,0 +1,8354 @@
+[
+  {
+    "id": "2025-1-ISU-KSU",
+    "season": 2025,
+    "date": "2025-08-23",
+    "teamA": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 21
+    },
+    "winner": "ISU"
+  },
+  {
+    "id": "2025-1-FRES-KU",
+    "season": 2025,
+    "date": "2025-08-23",
+    "teamA": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 31
+    },
+    "winner": "KU"
+  },
+  {
+    "id": "2025-1-SHSU-WKU",
+    "season": 2025,
+    "date": "2025-08-23",
+    "teamA": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 41
+    },
+    "winner": "WKU"
+  },
+  {
+    "id": "2025-1-STAN-HAW",
+    "season": 2025,
+    "date": "2025-08-23",
+    "teamA": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 23
+    },
+    "winner": "HAW"
+  },
+  {
+    "id": "2025-1-BOIS-USF",
+    "season": 2025,
+    "date": "2025-08-28",
+    "teamA": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 34
+    },
+    "winner": "USF"
+  },
+  {
+    "id": "2025-1-OHIO-RUTG",
+    "season": 2025,
+    "date": "2025-08-28",
+    "teamA": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 34
+    },
+    "winner": "RUTG"
+  },
+  {
+    "id": "2025-1-ECU-NCSU",
+    "season": 2025,
+    "date": "2025-08-28",
+    "teamA": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 24
+    },
+    "winner": "NCSU"
+  },
+  {
+    "id": "2025-1-WYO-AKR",
+    "season": 2025,
+    "date": "2025-08-28",
+    "teamA": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 0
+    },
+    "winner": "WYO"
+  },
+  {
+    "id": "2025-1-JXST-UCF",
+    "season": 2025,
+    "date": "2025-08-28",
+    "teamA": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 17
+    },
+    "winner": "UCF"
+  },
+  {
+    "id": "2025-1-BUF-MINN",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 23
+    },
+    "winner": "MINN"
+  },
+  {
+    "id": "2025-1-NEB-CIN",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 17
+    },
+    "winner": "NEB"
+  },
+  {
+    "id": "2025-1-M-OH-WIS",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 17
+    },
+    "winner": "WIS"
+  },
+  {
+    "id": "2025-1-APP-COLLE",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 11
+    },
+    "winner": "APP"
+  },
+  {
+    "id": "2025-1-KENN-WAKE",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 10
+    },
+    "winner": "WAKE"
+  },
+  {
+    "id": "2025-1-WMU-MSU",
+    "season": 2025,
+    "date": "2025-08-29",
+    "teamA": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 23
+    },
+    "winner": "MSU"
+  },
+  {
+    "id": "2025-1-AUB-BAY",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 24
+    },
+    "winner": "AUB"
+  },
+  {
+    "id": "2025-1-GT-COLO",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 20
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-1-UNLV-SHSU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 21
+    },
+    "winner": "UNLV"
+  },
+  {
+    "id": "2025-1-CMU-SJSU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 14
+    },
+    "winner": "CMU"
+  },
+  {
+    "id": "2025-1-TEX-OSU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 14
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-1-SYR-TENN",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 26
+    },
+    "teamB": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 45
+    },
+    "winner": "TENN"
+  },
+  {
+    "id": "2025-1-BALL-PUR",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 31
+    },
+    "winner": "PUR"
+  },
+  {
+    "id": "2025-1-MSST-USM",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 17
+    },
+    "winner": "MSST"
+  },
+  {
+    "id": "2025-1-NU-TULN",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 23
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-1-FAU-MD",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 39
+    },
+    "winner": "MD"
+  },
+  {
+    "id": "2025-1-TOL-UK",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 24
+    },
+    "winner": "UK"
+  },
+  {
+    "id": "2025-1-ODU-IU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 27
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-1-NEV-PSU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 11
+    },
+    "teamB": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 46
+    },
+    "winner": "PSU"
+  },
+  {
+    "id": "2025-1-TEM-MASS",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 42
+    },
+    "teamB": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 10
+    },
+    "winner": "TEM"
+  },
+  {
+    "id": "2025-1-ALA-FSU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 31
+    },
+    "winner": "FSU"
+  },
+  {
+    "id": "2025-1-MRSH-UGA",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 45
+    },
+    "winner": "UGA"
+  },
+  {
+    "id": "2025-1-CCU-UVA",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 48
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-1-UTSA-TA&M",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 42
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-1-MOST-USC",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 73
+    },
+    "winner": "USC"
+  },
+  {
+    "id": "2025-1-UTEP-USU",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 28
+    },
+    "winner": "USU"
+  },
+  {
+    "id": "2025-1-LSU-CLEM",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 10
+    },
+    "winner": "LSU"
+  },
+  {
+    "id": "2025-1-UNM-MICH",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 34
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-1-GAST-MISS",
+    "season": 2025,
+    "date": "2025-08-30",
+    "teamA": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 63
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-1-EMU-TXST",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 52
+    },
+    "winner": "TXST"
+  },
+  {
+    "id": "2025-1-RICE-UL",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 12
+    },
+    "winner": "RICE"
+  },
+  {
+    "id": "2025-1-GASO-FRES",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 42
+    },
+    "winner": "FRES"
+  },
+  {
+    "id": "2025-1-CAL-ORST",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 15
+    },
+    "winner": "CAL"
+  },
+  {
+    "id": "2025-1-HAW-ARIZ",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 40
+    },
+    "winner": "ARIZ"
+  },
+  {
+    "id": "2025-1-UTAH-UCLA",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 43
+    },
+    "teamB": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 10
+    },
+    "winner": "UTAH"
+  },
+  {
+    "id": "2025-1-CSU-WASH",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 38
+    },
+    "winner": "WASH"
+  },
+  {
+    "id": "2025-1-VT-SC",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 11
+    },
+    "teamB": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 24
+    },
+    "winner": "SC"
+  },
+  {
+    "id": "2025-1-ND-MIA",
+    "season": 2025,
+    "date": "2025-08-31",
+    "teamA": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 27
+    },
+    "winner": "MIA"
+  },
+  {
+    "id": "2025-1-TCU-UNC",
+    "season": 2025,
+    "date": "2025-09-02",
+    "teamA": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 48
+    },
+    "teamB": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 14
+    },
+    "winner": "TCU"
+  },
+  {
+    "id": "2025-2-JMU-LOU",
+    "season": 2025,
+    "date": "2025-09-05",
+    "teamA": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 28
+    },
+    "winner": "LOU"
+  },
+  {
+    "id": "2025-2-NIU-MD",
+    "season": 2025,
+    "date": "2025-09-05",
+    "teamA": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 20
+    },
+    "winner": "MD"
+  },
+  {
+    "id": "2025-2-FIU-PSU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 34
+    },
+    "winner": "PSU"
+  },
+  {
+    "id": "2025-2-CMU-PITT",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 45
+    },
+    "winner": "PITT"
+  },
+  {
+    "id": "2025-2-ILL-DUKE",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 19
+    },
+    "winner": "ILL"
+  },
+  {
+    "id": "2025-2-KENT-TTU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 62
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-2-UVA-NCSU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 35
+    },
+    "winner": "NCSU"
+  },
+  {
+    "id": "2025-2-IOWA-ISU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 16
+    },
+    "winner": "ISU"
+  },
+  {
+    "id": "2025-2-CONN-SYR",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 27
+    },
+    "winner": "SYR"
+  },
+  {
+    "id": "2025-2-BAY-SMU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 48
+    },
+    "teamB": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 45
+    },
+    "winner": "BAY"
+  },
+  {
+    "id": "2025-2-KENN-IU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 56
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-2-LIB-JXST",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 34
+    },
+    "winner": "JXST"
+  },
+  {
+    "id": "2025-2-SJSU-TEX",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 38
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-2-USU-TA&M",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 44
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-2-MISS-UK",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 23
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-2-BGSU-CIN",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 34
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-2-KU-MIZ",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 42
+    },
+    "winner": "MIZ"
+  },
+  {
+    "id": "2025-2-OKST-ORE",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 69
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-2-TROY-CLEM",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 27
+    },
+    "winner": "CLEM"
+  },
+  {
+    "id": "2025-2-UAB-NAVY",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 38
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-2-DEL-COLO",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 31
+    },
+    "winner": "COLO"
+  },
+  {
+    "id": "2025-2-M-OH-RUTG",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 45
+    },
+    "winner": "RUTG"
+  },
+  {
+    "id": "2025-2-FRES-ORST",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 36
+    },
+    "teamB": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 27
+    },
+    "winner": "FRES"
+  },
+  {
+    "id": "2025-2-UNT-WMU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 30
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-2-TXST-UTSA",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 43
+    },
+    "teamB": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 36
+    },
+    "winner": "TXST"
+  },
+  {
+    "id": "2025-2-WVU-OHIO",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 17
+    },
+    "winner": "OHIO"
+  },
+  {
+    "id": "2025-2-MTSU-WIS",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 42
+    },
+    "winner": "WIS"
+  },
+  {
+    "id": "2025-2-USF-FLA",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 18
+    },
+    "teamB": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 16
+    },
+    "winner": "USF"
+  },
+  {
+    "id": "2025-2-ARST-ARK",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 56
+    },
+    "winner": "ARK"
+  },
+  {
+    "id": "2025-2-MOST-MRSH",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 20
+    },
+    "winner": "MOST"
+  },
+  {
+    "id": "2025-2-WKU-TOL",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 45
+    },
+    "winner": "TOL"
+  },
+  {
+    "id": "2025-2-HOU-RICE",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 9
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-2-UNC-COLLE",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 3
+    },
+    "winner": "UNC"
+  },
+  {
+    "id": "2025-2-TULN-USA",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 31
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-2-MEM-GAST",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 16
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-2-ARMY-KSU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 21
+    },
+    "winner": "ARMY"
+  },
+  {
+    "id": "2025-2-AKR-NEB",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 68
+    },
+    "winner": "NEB"
+  },
+  {
+    "id": "2025-2-VAN-VT",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 44
+    },
+    "teamB": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 20
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-2-LT-LSU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 23
+    },
+    "winner": "LSU"
+  },
+  {
+    "id": "2025-2-MICH-OU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 24
+    },
+    "winner": "OU"
+  },
+  {
+    "id": "2025-2-BALL-AUB",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 42
+    },
+    "winner": "AUB"
+  },
+  {
+    "id": "2025-2-BC-MSU",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 40
+    },
+    "teamB": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 42
+    },
+    "winner": "MSU"
+  },
+  {
+    "id": "2025-2-ASU-MSST",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 24
+    },
+    "winner": "MSST"
+  },
+  {
+    "id": "2025-2-GASO-USC",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 59
+    },
+    "winner": "USC"
+  },
+  {
+    "id": "2025-2-ULM-ALA",
+    "season": 2025,
+    "date": "2025-09-06",
+    "teamA": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 73
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-2-UCLA-UNLV",
+    "season": 2025,
+    "date": "2025-09-07",
+    "teamA": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 30
+    },
+    "winner": "UNLV"
+  },
+  {
+    "id": "2025-2-TLSA-NMSU",
+    "season": 2025,
+    "date": "2025-09-07",
+    "teamA": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 21
+    },
+    "winner": "NMSU"
+  },
+  {
+    "id": "2025-2-SDSU-WSU",
+    "season": 2025,
+    "date": "2025-09-07",
+    "teamA": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 36
+    },
+    "winner": "WSU"
+  },
+  {
+    "id": "2025-2-STAN-BYU",
+    "season": 2025,
+    "date": "2025-09-07",
+    "teamA": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 27
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-2-SHSU-HAW",
+    "season": 2025,
+    "date": "2025-09-07",
+    "teamA": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 37
+    },
+    "winner": "HAW"
+  },
+  {
+    "id": "2025-3-NCSU-WAKE",
+    "season": 2025,
+    "date": "2025-09-11",
+    "teamA": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 24
+    },
+    "winner": "NCSU"
+  },
+  {
+    "id": "2025-3-COLO-HOU",
+    "season": 2025,
+    "date": "2025-09-12",
+    "teamA": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 36
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-3-KSU-ARIZ",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 23
+    },
+    "winner": "ARIZ"
+  },
+  {
+    "id": "2025-3-UNM-UCLA",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 10
+    },
+    "winner": "UNM"
+  },
+  {
+    "id": "2025-3-BUF-KENT",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 28
+    },
+    "winner": "BUF"
+  },
+  {
+    "id": "2025-3-ORE-NU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 14
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-3-OU-TEM",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 42
+    },
+    "teamB": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 3
+    },
+    "winner": "OU"
+  },
+  {
+    "id": "2025-3-WIS-ALA",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 38
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-3-CLEM-GT",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 24
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-3-MEM-TROY",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 7
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-3-CMU-MICH",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 63
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-3-USA-AUB",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 15
+    },
+    "teamB": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 31
+    },
+    "winner": "AUB"
+  },
+  {
+    "id": "2025-3-UL-MIZ",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 52
+    },
+    "winner": "MIZ"
+  },
+  {
+    "id": "2025-3-CONN-DEL",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 44
+    },
+    "winner": "DEL"
+  },
+  {
+    "id": "2025-3-UGA-TENN",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 44
+    },
+    "teamB": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 41
+    },
+    "winner": "UGA"
+  },
+  {
+    "id": "2025-3-WSU-UNT",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 59
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-3-ORST-TTU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 45
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-3-PITT-WVU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 31
+    },
+    "winner": "WVU"
+  },
+  {
+    "id": "2025-3-SMU-MOST",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 10
+    },
+    "winner": "SMU"
+  },
+  {
+    "id": "2025-3-USC-PUR",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 17
+    },
+    "winner": "USC"
+  },
+  {
+    "id": "2025-3-ISU-ARST",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 16
+    },
+    "winner": "ISU"
+  },
+  {
+    "id": "2025-3-UTEP-TEX",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 27
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-3-USF-MIA",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 12
+    },
+    "teamB": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 49
+    },
+    "winner": "MIA"
+  },
+  {
+    "id": "2025-3-MTSU-NEV",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 13
+    },
+    "winner": "MTSU"
+  },
+  {
+    "id": "2025-3-LIB-BGSU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 23
+    },
+    "winner": "BGSU"
+  },
+  {
+    "id": "2025-3-FAU-FIU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 38
+    },
+    "winner": "FIU"
+  },
+  {
+    "id": "2025-3-ODU-VT",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 26
+    },
+    "winner": "ODU"
+  },
+  {
+    "id": "2025-3-APP-USM",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 38
+    },
+    "winner": "USM"
+  },
+  {
+    "id": "2025-3-ARK-MISS",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 41
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-3-JXST-GASO",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 41
+    },
+    "winner": "GASO"
+  },
+  {
+    "id": "2025-3-WMU-ILL",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 38
+    },
+    "winner": "ILL"
+  },
+  {
+    "id": "2025-3-OHIO-OSU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 37
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-3-MASS-IOWA",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 47
+    },
+    "winner": "IOWA"
+  },
+  {
+    "id": "2025-3-EMU-UK",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 48
+    },
+    "winner": "UK"
+  },
+  {
+    "id": "2025-3-TA&M-ND",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 40
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-3-NMSU-LT",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 49
+    },
+    "winner": "LT"
+  },
+  {
+    "id": "2025-3-ECU-CCU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 0
+    },
+    "winner": "ECU"
+  },
+  {
+    "id": "2025-3-FLA-LSU",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 20
+    },
+    "winner": "LSU"
+  },
+  {
+    "id": "2025-3-VAN-SC",
+    "season": 2025,
+    "date": "2025-09-13",
+    "teamA": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 7
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-3-UTAH-WYO",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 6
+    },
+    "winner": "UTAH"
+  },
+  {
+    "id": "2025-3-NAVY-TLSA",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 42
+    },
+    "teamB": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 23
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-3-DUKE-TULN",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 34
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-3-AKR-UAB",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 31
+    },
+    "winner": "UAB"
+  },
+  {
+    "id": "2025-3-AF-USU",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 49
+    },
+    "winner": "USU"
+  },
+  {
+    "id": "2025-3-BC-STAN",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 30
+    },
+    "winner": "STAN"
+  },
+  {
+    "id": "2025-3-TXST-ASU",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 15
+    },
+    "teamB": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 34
+    },
+    "winner": "ASU"
+  },
+  {
+    "id": "2025-3-MINN-CAL",
+    "season": 2025,
+    "date": "2025-09-14",
+    "teamA": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 27
+    },
+    "winner": "CAL"
+  },
+  {
+    "id": "2025-4-RICE-COLLE",
+    "season": 2025,
+    "date": "2025-09-18",
+    "teamA": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 17
+    },
+    "winner": "RICE"
+  },
+  {
+    "id": "2025-4-TLSA-OKST",
+    "season": 2025,
+    "date": "2025-09-19",
+    "teamA": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 19
+    },
+    "teamB": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 12
+    },
+    "winner": "TLSA"
+  },
+  {
+    "id": "2025-4-IOWA-RUTG",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 28
+    },
+    "winner": "IOWA"
+  },
+  {
+    "id": "2025-4-SMU-TCU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 35
+    },
+    "winner": "TCU"
+  },
+  {
+    "id": "2025-4-SYR-CLEM",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 21
+    },
+    "winner": "SYR"
+  },
+  {
+    "id": "2025-4-TTU-UTAH",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 10
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-4-UNT-ARMY",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 38
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-4-UNLV-M-OH",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 38
+    },
+    "winner": "UNLV"
+  },
+  {
+    "id": "2025-4-MD-WIS",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 10
+    },
+    "winner": "MD"
+  },
+  {
+    "id": "2025-4-ARK-MEM",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 32
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-4-BGSU-LOU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 40
+    },
+    "winner": "LOU"
+  },
+  {
+    "id": "2025-4-UAB-TENN",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 56
+    },
+    "winner": "TENN"
+  },
+  {
+    "id": "2025-4-ORST-ORE",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 41
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-4-KENT-FSU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 66
+    },
+    "winner": "FSU"
+  },
+  {
+    "id": "2025-4-JMU-LIB",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 13
+    },
+    "winner": "JMU"
+  },
+  {
+    "id": "2025-4-TOL-WMU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 14
+    },
+    "winner": "WMU"
+  },
+  {
+    "id": "2025-4-UNC-UCF",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 34
+    },
+    "winner": "UCF"
+  },
+  {
+    "id": "2025-4-BALL-CONN",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 31
+    },
+    "winner": "CONN"
+  },
+  {
+    "id": "2025-4-UL-EMU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 34
+    },
+    "winner": "EMU"
+  },
+  {
+    "id": "2025-4-TROY-BUF",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 17
+    },
+    "winner": "TROY"
+  },
+  {
+    "id": "2025-4-MICH-NEB",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 27
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-4-PUR-ND",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 56
+    },
+    "winner": "ND"
+  },
+  {
+    "id": "2025-4-AUB-OU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 24
+    },
+    "winner": "OU"
+  },
+  {
+    "id": "2025-4-TULN-MISS",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 45
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-4-NCSU-DUKE",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 45
+    },
+    "winner": "DUKE"
+  },
+  {
+    "id": "2025-4-NIU-MSST",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 38
+    },
+    "winner": "MSST"
+  },
+  {
+    "id": "2025-4-TEM-GT",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 45
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-4-WVU-KU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 41
+    },
+    "winner": "KU"
+  },
+  {
+    "id": "2025-4-DEL-FIU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 16
+    },
+    "winner": "DEL"
+  },
+  {
+    "id": "2025-4-ARST-KENN",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 28
+    },
+    "winner": "KENN"
+  },
+  {
+    "id": "2025-4-CCU-USA",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 20
+    },
+    "winner": "CCU"
+  },
+  {
+    "id": "2025-4-MRSH-MTSU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 42
+    },
+    "teamB": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 28
+    },
+    "winner": "MRSH"
+  },
+  {
+    "id": "2025-4-SC-MIZ",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 29
+    },
+    "winner": "MIZ"
+  },
+  {
+    "id": "2025-4-BOIS-AF",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 49
+    },
+    "teamB": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 37
+    },
+    "winner": "BOIS"
+  },
+  {
+    "id": "2025-4-NEV-WKU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 31
+    },
+    "winner": "WKU"
+  },
+  {
+    "id": "2025-4-ILL-IU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 63
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-4-USM-LT",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 30
+    },
+    "winner": "LT"
+  },
+  {
+    "id": "2025-4-WASH-WSU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 59
+    },
+    "teamB": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 24
+    },
+    "winner": "WASH"
+  },
+  {
+    "id": "2025-4-ASU-BAY",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 24
+    },
+    "winner": "ASU"
+  },
+  {
+    "id": "2025-4-STAN-UVA",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 48
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-4-GAST-VAN",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 70
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-4-FLA-MIA",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 26
+    },
+    "winner": "MIA"
+  },
+  {
+    "id": "2025-4-BYU-ECU",
+    "season": 2025,
+    "date": "2025-09-20",
+    "teamA": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 13
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-4-SHSU-TEX",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 55
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-4-ULM-UTEP",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 25
+    },
+    "winner": "ULM"
+  },
+  {
+    "id": "2025-4-UTSA-CSU",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 16
+    },
+    "winner": "UTSA"
+  },
+  {
+    "id": "2025-4-WYO-COLO",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 37
+    },
+    "winner": "COLO"
+  },
+  {
+    "id": "2025-4-CAL-SDSU",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 34
+    },
+    "winner": "SDSU"
+  },
+  {
+    "id": "2025-4-MSU-USC",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 45
+    },
+    "winner": "USC"
+  },
+  {
+    "id": "2025-4-FRES-HAW",
+    "season": 2025,
+    "date": "2025-09-21",
+    "teamA": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 21
+    },
+    "winner": "FRES"
+  },
+  {
+    "id": "2025-5-ARMY-ECU",
+    "season": 2025,
+    "date": "2025-09-25",
+    "teamA": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 28
+    },
+    "winner": "ECU"
+  },
+  {
+    "id": "2025-5-FSU-UVA",
+    "season": 2025,
+    "date": "2025-09-26",
+    "teamA": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 46
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-5-TCU-ASU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 27
+    },
+    "winner": "ASU"
+  },
+  {
+    "id": "2025-5-HOU-ORST",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 24
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-5-USC-ILL",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 32
+    },
+    "teamB": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 34
+    },
+    "winner": "ILL"
+  },
+  {
+    "id": "2025-5-DUKE-SYR",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 3
+    },
+    "winner": "DUKE"
+  },
+  {
+    "id": "2025-5-UCF-KSU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 34
+    },
+    "winner": "KSU"
+  },
+  {
+    "id": "2025-5-CIN-KU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 37
+    },
+    "teamB": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 34
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-5-GT-WAKE",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 29
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-5-LOU-PITT",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 27
+    },
+    "winner": "LOU"
+  },
+  {
+    "id": "2025-5-BGSU-OHIO",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 35
+    },
+    "winner": "OHIO"
+  },
+  {
+    "id": "2025-5-USA-UNT",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 36
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-5-RUTG-MINN",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 31
+    },
+    "winner": "MINN"
+  },
+  {
+    "id": "2025-5-ND-ARK",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 56
+    },
+    "teamB": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 13
+    },
+    "winner": "ND"
+  },
+  {
+    "id": "2025-5-USU-VAN",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 55
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-5-EMU-CMU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 24
+    },
+    "winner": "CMU"
+  },
+  {
+    "id": "2025-5-GASO-JMU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 35
+    },
+    "winner": "JMU"
+  },
+  {
+    "id": "2025-5-ARST-ULM",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 28
+    },
+    "winner": "ULM"
+  },
+  {
+    "id": "2025-5-UTAH-WVU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 48
+    },
+    "teamB": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 14
+    },
+    "winner": "UTAH"
+  },
+  {
+    "id": "2025-5-CONN-BUF",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 17
+    },
+    "winner": "CONN"
+  },
+  {
+    "id": "2025-5-BAY-OKST",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 27
+    },
+    "winner": "BAY"
+  },
+  {
+    "id": "2025-5-AKR-TOL",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 45
+    },
+    "winner": "TOL"
+  },
+  {
+    "id": "2025-5-SDSU-NIU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 3
+    },
+    "winner": "SDSU"
+  },
+  {
+    "id": "2025-5-OSU-WASH",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 6
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-5-UCLA-NU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 17
+    },
+    "winner": "NU"
+  },
+  {
+    "id": "2025-5-RICE-NAVY",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 21
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-5-AUB-TA&M",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 16
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-5-IU-IOWA",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 15
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-5-CAL-BC",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 24
+    },
+    "winner": "CAL"
+  },
+  {
+    "id": "2025-5-LSU-MISS",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 19
+    },
+    "teamB": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 24
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-5-HAW-AF",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 44
+    },
+    "teamB": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 35
+    },
+    "winner": "HAW"
+  },
+  {
+    "id": "2025-5-TULN-TLSA",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 14
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-5-NMSU-UNM",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 38
+    },
+    "winner": "UNM"
+  },
+  {
+    "id": "2025-5-TENN-MSST",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 34
+    },
+    "winner": "TENN"
+  },
+  {
+    "id": "2025-5-LIB-ODU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 21
+    },
+    "winner": "ODU"
+  },
+  {
+    "id": "2025-5-MTSU-KENN",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 24
+    },
+    "winner": "KENN"
+  },
+  {
+    "id": "2025-5-JXST-USM",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 42
+    },
+    "winner": "USM"
+  },
+  {
+    "id": "2025-5-ARIZ-ISU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 39
+    },
+    "winner": "ISU"
+  },
+  {
+    "id": "2025-5-WKU-MOST",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 22
+    },
+    "winner": "WKU"
+  },
+  {
+    "id": "2025-5-MEM-FAU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 55
+    },
+    "teamB": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 26
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-5-VT-NCSU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 21
+    },
+    "winner": "VT"
+  },
+  {
+    "id": "2025-5-ORE-PSU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 24
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-5-APP-BOIS",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 47
+    },
+    "winner": "BOIS"
+  },
+  {
+    "id": "2025-5-SJSU-STAN",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 29
+    },
+    "teamB": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 30
+    },
+    "winner": "STAN"
+  },
+  {
+    "id": "2025-5-ALA-UGA",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 21
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-5-WSU-CSU",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 3
+    },
+    "winner": "WSU"
+  },
+  {
+    "id": "2025-5-MASS-MIZ",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 42
+    },
+    "winner": "MIZ"
+  },
+  {
+    "id": "2025-5-UK-SC",
+    "season": 2025,
+    "date": "2025-09-27",
+    "teamA": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 35
+    },
+    "winner": "SC"
+  },
+  {
+    "id": "2025-5-MRSH-UL",
+    "season": 2025,
+    "date": "2025-09-28",
+    "teamA": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 51
+    },
+    "teamB": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 54
+    },
+    "winner": "UL"
+  },
+  {
+    "id": "2025-5-LT-UTEP",
+    "season": 2025,
+    "date": "2025-09-28",
+    "teamA": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 11
+    },
+    "winner": "LT"
+  },
+  {
+    "id": "2025-5-BYU-COLO",
+    "season": 2025,
+    "date": "2025-09-28",
+    "teamA": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 21
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-6-SHSU-NMSU",
+    "season": 2025,
+    "date": "2025-10-03",
+    "teamA": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 37
+    },
+    "winner": "NMSU"
+  },
+  {
+    "id": "2025-6-WKU-DEL",
+    "season": 2025,
+    "date": "2025-10-03",
+    "teamA": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 24
+    },
+    "winner": "WKU"
+  },
+  {
+    "id": "2025-6-COLLE-USF",
+    "season": 2025,
+    "date": "2025-10-03",
+    "teamA": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 26
+    },
+    "teamB": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 54
+    },
+    "winner": "USF"
+  },
+  {
+    "id": "2025-6-UNM-SJSU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 35
+    },
+    "winner": "SJSU"
+  },
+  {
+    "id": "2025-6-WVU-BYU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 38
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-6-CSU-SDSU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 45
+    },
+    "winner": "SDSU"
+  },
+  {
+    "id": "2025-6-AF-NAVY",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 34
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-6-ILL-PUR",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 43
+    },
+    "teamB": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 27
+    },
+    "winner": "ILL"
+  },
+  {
+    "id": "2025-6-BC-PITT",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 48
+    },
+    "winner": "PITT"
+  },
+  {
+    "id": "2025-6-OHIO-BALL",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 20
+    },
+    "winner": "BALL"
+  },
+  {
+    "id": "2025-6-KSU-BAY",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 35
+    },
+    "winner": "BAY"
+  },
+  {
+    "id": "2025-6-CLEM-UNC",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 10
+    },
+    "winner": "CLEM"
+  },
+  {
+    "id": "2025-6-ISU-CIN",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 38
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-6-WIS-MICH",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 24
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-6-ARMY-UAB",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 13
+    },
+    "winner": "ARMY"
+  },
+  {
+    "id": "2025-6-UK-UGA",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 35
+    },
+    "winner": "UGA"
+  },
+  {
+    "id": "2025-6-UTSA-TEM",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 27
+    },
+    "winner": "TEM"
+  },
+  {
+    "id": "2025-6-WAKE-VT",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 23
+    },
+    "winner": "WAKE"
+  },
+  {
+    "id": "2025-6-WMU-MASS",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 3
+    },
+    "winner": "WMU"
+  },
+  {
+    "id": "2025-6-OKST-ARIZ",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 41
+    },
+    "winner": "ARIZ"
+  },
+  {
+    "id": "2025-6-VAN-ALA",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 30
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-6-PSU-UCLA",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 37
+    },
+    "teamB": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 42
+    },
+    "winner": "UCLA"
+  },
+  {
+    "id": "2025-6-CMU-AKR",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 28
+    },
+    "winner": "AKR"
+  },
+  {
+    "id": "2025-6-JMU-GAST",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 7
+    },
+    "winner": "JMU"
+  },
+  {
+    "id": "2025-6-M-OH-NIU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 14
+    },
+    "winner": "M-OH"
+  },
+  {
+    "id": "2025-6-FIU-CONN",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 51
+    },
+    "winner": "CONN"
+  },
+  {
+    "id": "2025-6-WASH-MD",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 20
+    },
+    "winner": "WASH"
+  },
+  {
+    "id": "2025-6-BOIS-ND",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 28
+    },
+    "winner": "ND"
+  },
+  {
+    "id": "2025-6-EMU-BUF",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 31
+    },
+    "winner": "BUF"
+  },
+  {
+    "id": "2025-6-SYR-SMU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 18
+    },
+    "teamB": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 31
+    },
+    "winner": "SMU"
+  },
+  {
+    "id": "2025-6-TEX-FLA",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 29
+    },
+    "winner": "FLA"
+  },
+  {
+    "id": "2025-6-UVA-LOU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 27
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-6-ORST-APP",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 27
+    },
+    "winner": "APP"
+  },
+  {
+    "id": "2025-6-ULM-NU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 42
+    },
+    "winner": "NU"
+  },
+  {
+    "id": "2025-6-TXST-ARST",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 31
+    },
+    "winner": "ARST"
+  },
+  {
+    "id": "2025-6-KENT-OU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 44
+    },
+    "winner": "OU"
+  },
+  {
+    "id": "2025-6-MSU-NEB",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 38
+    },
+    "winner": "NEB"
+  },
+  {
+    "id": "2025-6-CCU-ODU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 47
+    },
+    "winner": "ODU"
+  },
+  {
+    "id": "2025-6-UNLV-WYO",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 17
+    },
+    "winner": "UNLV"
+  },
+  {
+    "id": "2025-6-FAU-RICE",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 21
+    },
+    "winner": "FAU"
+  },
+  {
+    "id": "2025-6-USA-TROY",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 31
+    },
+    "winner": "TROY"
+  },
+  {
+    "id": "2025-6-TTU-HOU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 11
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-6-MSST-TA&M",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 9
+    },
+    "teamB": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 31
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-6-MIA-FSU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 22
+    },
+    "winner": "MIA"
+  },
+  {
+    "id": "2025-6-MINN-OSU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 42
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-6-COLO-TCU",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 35
+    },
+    "winner": "TCU"
+  },
+  {
+    "id": "2025-6-KU-UCF",
+    "season": 2025,
+    "date": "2025-10-04",
+    "teamA": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 20
+    },
+    "winner": "KU"
+  },
+  {
+    "id": "2025-6-TLSA-MEM",
+    "season": 2025,
+    "date": "2025-10-05",
+    "teamA": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 45
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-6-NEV-FRES",
+    "season": 2025,
+    "date": "2025-10-05",
+    "teamA": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 20
+    },
+    "winner": "FRES"
+  },
+  {
+    "id": "2025-6-DUKE-CAL",
+    "season": 2025,
+    "date": "2025-10-05",
+    "teamA": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 21
+    },
+    "winner": "DUKE"
+  },
+  {
+    "id": "2025-7-MOST-MTSU",
+    "season": 2025,
+    "date": "2025-10-08",
+    "teamA": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 20
+    },
+    "winner": "MOST"
+  },
+  {
+    "id": "2025-7-LIB-UTEP",
+    "season": 2025,
+    "date": "2025-10-09",
+    "teamA": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 19
+    },
+    "teamB": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 8
+    },
+    "winner": "LIB"
+  },
+  {
+    "id": "2025-7-LT-KENN",
+    "season": 2025,
+    "date": "2025-10-09",
+    "teamA": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 35
+    },
+    "winner": "KENN"
+  },
+  {
+    "id": "2025-7-ECU-TULN",
+    "season": 2025,
+    "date": "2025-10-09",
+    "teamA": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 19
+    },
+    "teamB": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 26
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-7-JXST-SHSU",
+    "season": 2025,
+    "date": "2025-10-10",
+    "teamA": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 29
+    },
+    "teamB": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 27
+    },
+    "winner": "JXST"
+  },
+  {
+    "id": "2025-7-USM-GASO",
+    "season": 2025,
+    "date": "2025-10-10",
+    "teamA": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 35
+    },
+    "winner": "USM"
+  },
+  {
+    "id": "2025-7-USF-UNT",
+    "season": 2025,
+    "date": "2025-10-10",
+    "teamA": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 63
+    },
+    "teamB": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 36
+    },
+    "winner": "USF"
+  },
+  {
+    "id": "2025-7-FRES-CSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 49
+    },
+    "winner": "CSU"
+  },
+  {
+    "id": "2025-7-RUTG-WASH",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 19
+    },
+    "teamB": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 38
+    },
+    "winner": "WASH"
+  },
+  {
+    "id": "2025-7-UL-JMU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 24
+    },
+    "winner": "JMU"
+  },
+  {
+    "id": "2025-7-UCF-CIN",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 11
+    },
+    "teamB": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 20
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-7-COLLE-ARMY",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 24
+    },
+    "winner": "ARMY"
+  },
+  {
+    "id": "2025-7-UCLA-MSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 13
+    },
+    "winner": "UCLA"
+  },
+  {
+    "id": "2025-7-HOU-OKST",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 39
+    },
+    "teamB": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 17
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-7-OSU-ILL",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 16
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-7-PITT-FSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 31
+    },
+    "winner": "PITT"
+  },
+  {
+    "id": "2025-7-TOL-BGSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 28
+    },
+    "winner": "BGSU"
+  },
+  {
+    "id": "2025-7-M-OH-AKR",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 7
+    },
+    "winner": "M-OH"
+  },
+  {
+    "id": "2025-7-ALA-MIZ",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 24
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-7-STAN-SMU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 34
+    },
+    "winner": "SMU"
+  },
+  {
+    "id": "2025-7-WSU-MISS",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 24
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-7-NIU-EMU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 16
+    },
+    "winner": "EMU"
+  },
+  {
+    "id": "2025-7-MASS-KENT",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 42
+    },
+    "winner": "KENT"
+  },
+  {
+    "id": "2025-7-OU-TEX",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 23
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-7-BALL-WMU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 42
+    },
+    "winner": "WMU"
+  },
+  {
+    "id": "2025-7-NU-PSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 21
+    },
+    "winner": "NU"
+  },
+  {
+    "id": "2025-7-ODU-MRSH",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 48
+    },
+    "winner": "MRSH"
+  },
+  {
+    "id": "2025-7-APP-GAST",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 20
+    },
+    "winner": "APP"
+  },
+  {
+    "id": "2025-7-ISU-COLO",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 24
+    },
+    "winner": "COLO"
+  },
+  {
+    "id": "2025-7-VT-GT",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 35
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-7-IU-ORE",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 20
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-7-NCSU-ND",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 36
+    },
+    "winner": "ND"
+  },
+  {
+    "id": "2025-7-TCU-KSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 41
+    },
+    "winner": "KSU"
+  },
+  {
+    "id": "2025-7-WAKE-ORST",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 39
+    },
+    "teamB": {
+      "name": "Oregon State",
+      "abbr": "ORST",
+      "logo": "icons/oregon-state.png",
+      "score": 14
+    },
+    "winner": "WAKE"
+  },
+  {
+    "id": "2025-7-NEB-MD",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 31
+    },
+    "winner": "NEB"
+  },
+  {
+    "id": "2025-7-AF-UNLV",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 48
+    },
+    "teamB": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 51
+    },
+    "winner": "UNLV"
+  },
+  {
+    "id": "2025-7-NAVY-TEM",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 32
+    },
+    "teamB": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 31
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-7-ARK-TENN",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 34
+    },
+    "winner": "TENN"
+  },
+  {
+    "id": "2025-7-UAB-FAU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 53
+    },
+    "winner": "FAU"
+  },
+  {
+    "id": "2025-7-IOWA-WIS",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 37
+    },
+    "teamB": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 0
+    },
+    "winner": "IOWA"
+  },
+  {
+    "id": "2025-7-SJSU-WYO",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 35
+    },
+    "winner": "WYO"
+  },
+  {
+    "id": "2025-7-ULM-CCU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 8
+    },
+    "teamB": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 23
+    },
+    "winner": "CCU"
+  },
+  {
+    "id": "2025-7-FLA-TA&M",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 34
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-7-PUR-MINN",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 27
+    },
+    "winner": "MINN"
+  },
+  {
+    "id": "2025-7-KU-TTU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 42
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-7-CLEM-BC",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 10
+    },
+    "winner": "CLEM"
+  },
+  {
+    "id": "2025-7-RICE-UTSA",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 61
+    },
+    "winner": "UTSA"
+  },
+  {
+    "id": "2025-7-MICH-USC",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 31
+    },
+    "winner": "USC"
+  },
+  {
+    "id": "2025-7-UGA-AUB",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 10
+    },
+    "winner": "UGA"
+  },
+  {
+    "id": "2025-7-SC-LSU",
+    "season": 2025,
+    "date": "2025-10-11",
+    "teamA": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 20
+    },
+    "winner": "LSU"
+  },
+  {
+    "id": "2025-7-BYU-ARIZ",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 27
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-7-TROY-TXST",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 48
+    },
+    "teamB": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 41
+    },
+    "winner": "TROY"
+  },
+  {
+    "id": "2025-7-UNM-BOIS",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 41
+    },
+    "winner": "BOIS"
+  },
+  {
+    "id": "2025-7-ASU-UTAH",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 42
+    },
+    "winner": "UTAH"
+  },
+  {
+    "id": "2025-7-SDSU-NEV",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 44
+    },
+    "teamB": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 10
+    },
+    "winner": "SDSU"
+  },
+  {
+    "id": "2025-7-USU-HAW",
+    "season": 2025,
+    "date": "2025-10-12",
+    "teamA": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 26
+    },
+    "teamB": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 44
+    },
+    "winner": "HAW"
+  },
+  {
+    "id": "2025-8-NMSU-LIB",
+    "season": 2025,
+    "date": "2025-10-14",
+    "teamA": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Liberty",
+      "abbr": "LIB",
+      "logo": "icons/liberty.png",
+      "score": 30
+    },
+    "winner": "LIB"
+  },
+  {
+    "id": "2025-8-ARST-USA",
+    "season": 2025,
+    "date": "2025-10-14",
+    "teamA": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 15
+    },
+    "teamB": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 14
+    },
+    "winner": "ARST"
+  },
+  {
+    "id": "2025-8-FIU-WKU",
+    "season": 2025,
+    "date": "2025-10-15",
+    "teamA": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 6
+    },
+    "winner": "FIU"
+  },
+  {
+    "id": "2025-8-UTEP-SHSU",
+    "season": 2025,
+    "date": "2025-10-15",
+    "teamA": {
+      "name": "UTEP",
+      "abbr": "UTEP",
+      "logo": "icons/utep.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Sam Houston",
+      "abbr": "SHSU",
+      "logo": "icons/sam-houston.png",
+      "score": 17
+    },
+    "winner": "UTEP"
+  },
+  {
+    "id": "2025-8-DEL-JXST",
+    "season": 2025,
+    "date": "2025-10-15",
+    "teamA": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Jacksonville State",
+      "abbr": "JXST",
+      "logo": "icons/jacksonville-state.png",
+      "score": 38
+    },
+    "winner": "JXST"
+  },
+  {
+    "id": "2025-8-TLSA-ECU",
+    "season": 2025,
+    "date": "2025-10-16",
+    "teamA": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "East Carolina",
+      "abbr": "ECU",
+      "logo": "icons/east-carolina.png",
+      "score": 41
+    },
+    "winner": "ECU"
+  },
+  {
+    "id": "2025-8-LOU-MIA",
+    "season": 2025,
+    "date": "2025-10-17",
+    "teamA": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 21
+    },
+    "winner": "LOU"
+  },
+  {
+    "id": "2025-8-NEB-MINN",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 24
+    },
+    "winner": "MINN"
+  },
+  {
+    "id": "2025-8-SJSU-USU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "San José State",
+      "abbr": "SJSU",
+      "logo": "icons/san-josé-state.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 30
+    },
+    "winner": "USU"
+  },
+  {
+    "id": "2025-8-UNC-CAL",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 18
+    },
+    "teamB": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 21
+    },
+    "winner": "CAL"
+  },
+  {
+    "id": "2025-8-LSU-VAN",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 31
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-8-WASH-MICH",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 24
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-8-ARMY-TULN",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Army",
+      "abbr": "ARMY",
+      "logo": "icons/army.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Tulane",
+      "abbr": "TULN",
+      "logo": "icons/tulane.png",
+      "score": 24
+    },
+    "winner": "TULN"
+  },
+  {
+    "id": "2025-8-ARIZ-HOU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Arizona",
+      "abbr": "ARIZ",
+      "logo": "icons/arizona.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 31
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-8-GT-DUKE",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Duke",
+      "abbr": "DUKE",
+      "logo": "icons/duke.png",
+      "score": 18
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-8-CMU-BGSU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 6
+    },
+    "winner": "CMU"
+  },
+  {
+    "id": "2025-8-CONN-BC",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 23
+    },
+    "winner": "CONN"
+  },
+  {
+    "id": "2025-8-EMU-M-OH",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 44
+    },
+    "winner": "M-OH"
+  },
+  {
+    "id": "2025-8-BAY-TCU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 36
+    },
+    "teamB": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 42
+    },
+    "winner": "TCU"
+  },
+  {
+    "id": "2025-8-OU-SC",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 26
+    },
+    "teamB": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 7
+    },
+    "winner": "OU"
+  },
+  {
+    "id": "2025-8-WVU-UCF",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "UCF",
+      "abbr": "UCF",
+      "logo": "icons/ucf.png",
+      "score": 45
+    },
+    "winner": "UCF"
+  },
+  {
+    "id": "2025-8-KENT-TOL",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 45
+    },
+    "winner": "TOL"
+  },
+  {
+    "id": "2025-8-BUF-MASS",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 21
+    },
+    "winner": "BUF"
+  },
+  {
+    "id": "2025-8-TROY-ULM",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 37
+    },
+    "teamB": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 14
+    },
+    "winner": "TROY"
+  },
+  {
+    "id": "2025-8-PUR-NU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 19
+    },
+    "winner": "NU"
+  },
+  {
+    "id": "2025-8-CCU-APP",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Coastal Carolina",
+      "abbr": "CCU",
+      "logo": "icons/coastal-carolina.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 37
+    },
+    "winner": "CCU"
+  },
+  {
+    "id": "2025-8-TEM-COLLE",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 49
+    },
+    "teamB": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 14
+    },
+    "winner": "TEM"
+  },
+  {
+    "id": "2025-8-WYO-AF",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Air Force",
+      "abbr": "AF",
+      "logo": "icons/air-force.png",
+      "score": 24
+    },
+    "winner": "AF"
+  },
+  {
+    "id": "2025-8-AKR-BALL",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 42
+    },
+    "winner": "BALL"
+  },
+  {
+    "id": "2025-8-OSU-WIS",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Ohio State",
+      "abbr": "OSU",
+      "logo": "icons/ohio-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 0
+    },
+    "winner": "OSU"
+  },
+  {
+    "id": "2025-8-MISS-UGA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Georgia",
+      "abbr": "UGA",
+      "logo": "icons/georgia.png",
+      "score": 43
+    },
+    "winner": "UGA"
+  },
+  {
+    "id": "2025-8-NIU-OHIO",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 48
+    },
+    "winner": "OHIO"
+  },
+  {
+    "id": "2025-8-UTSA-UNT",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "UTSA",
+      "abbr": "UTSA",
+      "logo": "icons/utsa.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 55
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-8-ODU-JMU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "James Madison",
+      "abbr": "JMU",
+      "logo": "icons/james-madison.png",
+      "score": 63
+    },
+    "winner": "JMU"
+  },
+  {
+    "id": "2025-8-TA&M-ARK",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 42
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-8-TXST-MRSH",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Texas State",
+      "abbr": "TXST",
+      "logo": "icons/texas-state.png",
+      "score": 37
+    },
+    "teamB": {
+      "name": "Marshall",
+      "abbr": "MRSH",
+      "logo": "icons/marshall.png",
+      "score": 40
+    },
+    "winner": "MRSH"
+  },
+  {
+    "id": "2025-8-UNLV-BOIS",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "UNLV",
+      "abbr": "UNLV",
+      "logo": "icons/unlv.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 56
+    },
+    "winner": "BOIS"
+  },
+  {
+    "id": "2025-8-MSU-IU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 38
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-8-SMU-CLEM",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 35
+    },
+    "teamB": {
+      "name": "Clemson",
+      "abbr": "CLEM",
+      "logo": "icons/clemson.png",
+      "score": 24
+    },
+    "winner": "SMU"
+  },
+  {
+    "id": "2025-8-TTU-ASU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 26
+    },
+    "winner": "ASU"
+  },
+  {
+    "id": "2025-8-MEM-UAB",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "UAB",
+      "abbr": "UAB",
+      "logo": "icons/uab.png",
+      "score": 31
+    },
+    "winner": "UAB"
+  },
+  {
+    "id": "2025-8-MSST-FLA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Florida",
+      "abbr": "FLA",
+      "logo": "icons/florida.png",
+      "score": 23
+    },
+    "winner": "FLA"
+  },
+  {
+    "id": "2025-8-USM-UL",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 10
+    },
+    "winner": "USM"
+  },
+  {
+    "id": "2025-8-ORE-RUTG",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 56
+    },
+    "teamB": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 10
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-8-WSU-UVA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 22
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-8-GAST-GASO",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 41
+    },
+    "winner": "GASO"
+  },
+  {
+    "id": "2025-8-MD-UCLA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Maryland",
+      "abbr": "MD",
+      "logo": "icons/maryland.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 20
+    },
+    "winner": "UCLA"
+  },
+  {
+    "id": "2025-8-HAW-CSU",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Hawai'i",
+      "abbr": "HAW",
+      "logo": "icons/hawai'i.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 19
+    },
+    "winner": "HAW"
+  },
+  {
+    "id": "2025-8-TEX-UK",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 13
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-8-PSU-IOWA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Penn State",
+      "abbr": "PSU",
+      "logo": "icons/penn-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 25
+    },
+    "winner": "IOWA"
+  },
+  {
+    "id": "2025-8-USC-ND",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "USC",
+      "abbr": "USC",
+      "logo": "icons/usc.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Notre Dame",
+      "abbr": "ND",
+      "logo": "icons/notre-dame.png",
+      "score": 34
+    },
+    "winner": "ND"
+  },
+  {
+    "id": "2025-8-PITT-SYR",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 30
+    },
+    "teamB": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 13
+    },
+    "winner": "PITT"
+  },
+  {
+    "id": "2025-8-FAU-USF",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 48
+    },
+    "winner": "USF"
+  },
+  {
+    "id": "2025-8-TENN-ALA",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 37
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-8-MIZ-AUB",
+    "season": 2025,
+    "date": "2025-10-18",
+    "teamA": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 17
+    },
+    "winner": "MIZ"
+  },
+  {
+    "id": "2025-8-UTAH-BYU",
+    "season": 2025,
+    "date": "2025-10-19",
+    "teamA": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 24
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-8-CIN-OKST",
+    "season": 2025,
+    "date": "2025-10-19",
+    "teamA": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 49
+    },
+    "teamB": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 17
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-8-NEV-UNM",
+    "season": 2025,
+    "date": "2025-10-19",
+    "teamA": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 22
+    },
+    "teamB": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 24
+    },
+    "winner": "UNM"
+  },
+  {
+    "id": "2025-8-FSU-STAN",
+    "season": 2025,
+    "date": "2025-10-19",
+    "teamA": {
+      "name": "Florida State",
+      "abbr": "FSU",
+      "logo": "icons/florida-state.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 20
+    },
+    "winner": "STAN"
+  },
+  {
+    "id": "2025-9-KENN-FIU",
+    "season": 2025,
+    "date": "2025-10-21",
+    "teamA": {
+      "name": "Kennesaw State",
+      "abbr": "KENN",
+      "logo": "icons/kennesaw-state.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Florida International",
+      "abbr": "FIU",
+      "logo": "icons/florida-international.png",
+      "score": 26
+    },
+    "winner": "KENN"
+  },
+  {
+    "id": "2025-9-WKU-LT",
+    "season": 2025,
+    "date": "2025-10-21",
+    "teamA": {
+      "name": "Western Kentucky",
+      "abbr": "WKU",
+      "logo": "icons/western-kentucky.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Louisiana Tech",
+      "abbr": "LT",
+      "logo": "icons/louisiana-tech.png",
+      "score": 27
+    },
+    "winner": "WKU"
+  },
+  {
+    "id": "2025-9-MTSU-DEL",
+    "season": 2025,
+    "date": "2025-10-22",
+    "teamA": {
+      "name": "Middle Tennessee",
+      "abbr": "MTSU",
+      "logo": "icons/middle-tennessee.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Delaware",
+      "abbr": "DEL",
+      "logo": "icons/delaware.png",
+      "score": 31
+    },
+    "winner": "DEL"
+  },
+  {
+    "id": "2025-9-MOST-NMSU",
+    "season": 2025,
+    "date": "2025-10-23",
+    "teamA": {
+      "name": "Missouri State",
+      "abbr": "MOST",
+      "logo": "icons/missouri-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "New Mexico State",
+      "abbr": "NMSU",
+      "logo": "icons/new-mexico-state.png",
+      "score": 17
+    },
+    "winner": "MOST"
+  },
+  {
+    "id": "2025-9-USA-GAST",
+    "season": 2025,
+    "date": "2025-10-23",
+    "teamA": {
+      "name": "South Alabama",
+      "abbr": "USA",
+      "logo": "icons/south-alabama.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Georgia State",
+      "abbr": "GAST",
+      "logo": "icons/georgia-state.png",
+      "score": 31
+    },
+    "winner": "USA"
+  },
+  {
+    "id": "2025-9-UNT-COLLE",
+    "season": 2025,
+    "date": "2025-10-24",
+    "teamA": {
+      "name": "North Texas",
+      "abbr": "UNT",
+      "logo": "icons/north-texas.png",
+      "score": 54
+    },
+    "teamB": {
+      "name": "Charlotte",
+      "abbr": "COLLE",
+      "logo": "icons/charlotte.png",
+      "score": 20
+    },
+    "winner": "UNT"
+  },
+  {
+    "id": "2025-9-CAL-VT",
+    "season": 2025,
+    "date": "2025-10-24",
+    "teamA": {
+      "name": "California",
+      "abbr": "CAL",
+      "logo": "icons/california.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Virginia Tech",
+      "abbr": "VT",
+      "logo": "icons/virginia-tech.png",
+      "score": 42
+    },
+    "winner": "VT"
+  },
+  {
+    "id": "2025-9-BOIS-NEV",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Boise State",
+      "abbr": "BOIS",
+      "logo": "icons/boise-state.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Nevada",
+      "abbr": "NEV",
+      "logo": "icons/nevada.png",
+      "score": 3
+    },
+    "winner": "BOIS"
+  },
+  {
+    "id": "2025-9-SYR-GT",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Syracuse",
+      "abbr": "SYR",
+      "logo": "icons/syracuse.png",
+      "score": 16
+    },
+    "teamB": {
+      "name": "Georgia Tech",
+      "abbr": "GT",
+      "logo": "icons/georgia-tech.png",
+      "score": 41
+    },
+    "winner": "GT"
+  },
+  {
+    "id": "2025-9-UCLA-IU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "UCLA",
+      "abbr": "UCLA",
+      "logo": "icons/ucla.png",
+      "score": 6
+    },
+    "teamB": {
+      "name": "Indiana",
+      "abbr": "IU",
+      "logo": "icons/indiana.png",
+      "score": 56
+    },
+    "winner": "IU"
+  },
+  {
+    "id": "2025-9-MISS-OU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Ole Miss",
+      "abbr": "MISS",
+      "logo": "icons/ole-miss.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Oklahoma",
+      "abbr": "OU",
+      "logo": "icons/oklahoma.png",
+      "score": 26
+    },
+    "winner": "MISS"
+  },
+  {
+    "id": "2025-9-SMU-WAKE",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "SMU",
+      "abbr": "SMU",
+      "logo": "icons/smu.png",
+      "score": 12
+    },
+    "teamB": {
+      "name": "Wake Forest",
+      "abbr": "WAKE",
+      "logo": "icons/wake-forest.png",
+      "score": 13
+    },
+    "winner": "WAKE"
+  },
+  {
+    "id": "2025-9-BGSU-KENT",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Bowling Green",
+      "abbr": "BGSU",
+      "logo": "icons/bowling-green.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Kent State",
+      "abbr": "KENT",
+      "logo": "icons/kent-state.png",
+      "score": 24
+    },
+    "winner": "KENT"
+  },
+  {
+    "id": "2025-9-APP-ODU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "App State",
+      "abbr": "APP",
+      "logo": "icons/app-state.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Old Dominion",
+      "abbr": "ODU",
+      "logo": "icons/old-dominion.png",
+      "score": 24
+    },
+    "winner": "ODU"
+  },
+  {
+    "id": "2025-9-OHIO-EMU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Ohio",
+      "abbr": "OHIO",
+      "logo": "icons/ohio.png",
+      "score": 28
+    },
+    "teamB": {
+      "name": "Eastern Michigan",
+      "abbr": "EMU",
+      "logo": "icons/eastern-michigan.png",
+      "score": 21
+    },
+    "winner": "OHIO"
+  },
+  {
+    "id": "2025-9-KSU-KU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Kansas State",
+      "abbr": "KSU",
+      "logo": "icons/kansas-state.png",
+      "score": 42
+    },
+    "teamB": {
+      "name": "Kansas",
+      "abbr": "KU",
+      "logo": "icons/kansas.png",
+      "score": 17
+    },
+    "winner": "KSU"
+  },
+  {
+    "id": "2025-9-NU-NEB",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Northwestern",
+      "abbr": "NU",
+      "logo": "icons/northwestern.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Nebraska",
+      "abbr": "NEB",
+      "logo": "icons/nebraska.png",
+      "score": 28
+    },
+    "winner": "NEB"
+  },
+  {
+    "id": "2025-9-USF-MEM",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "South Florida",
+      "abbr": "USF",
+      "logo": "icons/south-florida.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Memphis",
+      "abbr": "MEM",
+      "logo": "icons/memphis.png",
+      "score": 34
+    },
+    "winner": "MEM"
+  },
+  {
+    "id": "2025-9-RUTG-PUR",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Rutgers",
+      "abbr": "RUTG",
+      "logo": "icons/rutgers.png",
+      "score": 27
+    },
+    "teamB": {
+      "name": "Purdue",
+      "abbr": "PUR",
+      "logo": "icons/purdue.png",
+      "score": 24
+    },
+    "winner": "RUTG"
+  },
+  {
+    "id": "2025-9-UVA-UNC",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Virginia",
+      "abbr": "UVA",
+      "logo": "icons/virginia.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "North Carolina",
+      "abbr": "UNC",
+      "logo": "icons/north-carolina.png",
+      "score": 16
+    },
+    "winner": "UVA"
+  },
+  {
+    "id": "2025-9-AUB-ARK",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Auburn",
+      "abbr": "AUB",
+      "logo": "icons/auburn.png",
+      "score": 33
+    },
+    "teamB": {
+      "name": "Arkansas",
+      "abbr": "ARK",
+      "logo": "icons/arkansas.png",
+      "score": 24
+    },
+    "winner": "AUB"
+  },
+  {
+    "id": "2025-9-AKR-BUF",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Akron",
+      "abbr": "AKR",
+      "logo": "icons/akron.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Buffalo",
+      "abbr": "BUF",
+      "logo": "icons/buffalo.png",
+      "score": 16
+    },
+    "winner": "AKR"
+  },
+  {
+    "id": "2025-9-USU-UNM",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Utah State",
+      "abbr": "USU",
+      "logo": "icons/utah-state.png",
+      "score": 14
+    },
+    "teamB": {
+      "name": "New Mexico",
+      "abbr": "UNM",
+      "logo": "icons/new-mexico.png",
+      "score": 33
+    },
+    "winner": "UNM"
+  },
+  {
+    "id": "2025-9-CONN-RICE",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "UConn",
+      "abbr": "CONN",
+      "logo": "icons/connecticut.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Rice",
+      "abbr": "RICE",
+      "logo": "icons/rice.png",
+      "score": 37
+    },
+    "winner": "RICE"
+  },
+  {
+    "id": "2025-9-MIZ-VAN",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Missouri",
+      "abbr": "MIZ",
+      "logo": "icons/missouri.png",
+      "score": 10
+    },
+    "teamB": {
+      "name": "Vanderbilt",
+      "abbr": "VAN",
+      "logo": "icons/vanderbilt.png",
+      "score": 17
+    },
+    "winner": "VAN"
+  },
+  {
+    "id": "2025-9-MASS-CMU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Massachusetts",
+      "abbr": "MASS",
+      "logo": "icons/massachusetts.png",
+      "score": 13
+    },
+    "teamB": {
+      "name": "Central Michigan",
+      "abbr": "CMU",
+      "logo": "icons/central-michigan.png",
+      "score": 38
+    },
+    "winner": "CMU"
+  },
+  {
+    "id": "2025-9-BALL-NIU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Ball State",
+      "abbr": "BALL",
+      "logo": "icons/ball-state.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Northern Illinois",
+      "abbr": "NIU",
+      "logo": "icons/northern-illinois.png",
+      "score": 21
+    },
+    "winner": "NIU"
+  },
+  {
+    "id": "2025-9-ILL-WASH",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Illinois",
+      "abbr": "ILL",
+      "logo": "icons/illinois.png",
+      "score": 25
+    },
+    "teamB": {
+      "name": "Washington",
+      "abbr": "WASH",
+      "logo": "icons/washington.png",
+      "score": 42
+    },
+    "winner": "WASH"
+  },
+  {
+    "id": "2025-9-TOL-WSU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Toledo",
+      "abbr": "TOL",
+      "logo": "icons/toledo.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Washington State",
+      "abbr": "WSU",
+      "logo": "icons/washington-state.png",
+      "score": 28
+    },
+    "winner": "WSU"
+  },
+  {
+    "id": "2025-9-NCSU-PITT",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "NC State",
+      "abbr": "NCSU",
+      "logo": "icons/nc-state.png",
+      "score": 34
+    },
+    "teamB": {
+      "name": "Pittsburgh",
+      "abbr": "PITT",
+      "logo": "icons/pittsburgh.png",
+      "score": 53
+    },
+    "winner": "PITT"
+  },
+  {
+    "id": "2025-9-ALA-SC",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Alabama",
+      "abbr": "ALA",
+      "logo": "icons/alabama.png",
+      "score": 29
+    },
+    "teamB": {
+      "name": "South Carolina",
+      "abbr": "SC",
+      "logo": "icons/south-carolina.png",
+      "score": 22
+    },
+    "winner": "ALA"
+  },
+  {
+    "id": "2025-9-ULM-USM",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "UL Monroe",
+      "abbr": "ULM",
+      "logo": "icons/ul-monroe.png",
+      "score": 21
+    },
+    "teamB": {
+      "name": "Southern Miss",
+      "abbr": "USM",
+      "logo": "icons/southern-miss.png",
+      "score": 49
+    },
+    "winner": "USM"
+  },
+  {
+    "id": "2025-9-FAU-NAVY",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Florida Atlantic",
+      "abbr": "FAU",
+      "logo": "icons/florida-atlantic.png",
+      "score": 32
+    },
+    "teamB": {
+      "name": "Navy",
+      "abbr": "NAVY",
+      "logo": "icons/navy.png",
+      "score": 42
+    },
+    "winner": "NAVY"
+  },
+  {
+    "id": "2025-9-TEM-TLSA",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Temple",
+      "abbr": "TEM",
+      "logo": "icons/temple.png",
+      "score": 38
+    },
+    "teamB": {
+      "name": "Tulsa",
+      "abbr": "TLSA",
+      "logo": "icons/tulsa.png",
+      "score": 37
+    },
+    "winner": "TEM"
+  },
+  {
+    "id": "2025-9-WMU-M-OH",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Western Michigan",
+      "abbr": "WMU",
+      "logo": "icons/western-michigan.png",
+      "score": 17
+    },
+    "teamB": {
+      "name": "Miami (OH)",
+      "abbr": "M-OH",
+      "logo": "icons/miami-(oh).png",
+      "score": 26
+    },
+    "winner": "M-OH"
+  },
+  {
+    "id": "2025-9-MINN-IOWA",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Minnesota",
+      "abbr": "MINN",
+      "logo": "icons/minnesota.png",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Iowa",
+      "abbr": "IOWA",
+      "logo": "icons/iowa.png",
+      "score": 41
+    },
+    "winner": "IOWA"
+  },
+  {
+    "id": "2025-9-SDSU-FRES",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "San Diego State",
+      "abbr": "SDSU",
+      "logo": "icons/san-diego-state.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Fresno State",
+      "abbr": "FRES",
+      "logo": "icons/fresno-state.png",
+      "score": 0
+    },
+    "winner": "SDSU"
+  },
+  {
+    "id": "2025-9-BYU-ISU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "BYU",
+      "abbr": "BYU",
+      "logo": "icons/byu.png",
+      "score": 41
+    },
+    "teamB": {
+      "name": "Iowa State",
+      "abbr": "ISU",
+      "logo": "icons/iowa-state.png",
+      "score": 27
+    },
+    "winner": "BYU"
+  },
+  {
+    "id": "2025-9-BAY-CIN",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Baylor",
+      "abbr": "BAY",
+      "logo": "icons/baylor.png",
+      "score": 20
+    },
+    "teamB": {
+      "name": "Cincinnati",
+      "abbr": "CIN",
+      "logo": "icons/cincinnati.png",
+      "score": 41
+    },
+    "winner": "CIN"
+  },
+  {
+    "id": "2025-9-OKST-TTU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Oklahoma State",
+      "abbr": "OKST",
+      "logo": "icons/oklahoma-state.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Texas Tech",
+      "abbr": "TTU",
+      "logo": "icons/texas-tech.png",
+      "score": 42
+    },
+    "winner": "TTU"
+  },
+  {
+    "id": "2025-9-TEX-MSST",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Texas",
+      "abbr": "TEX",
+      "logo": "icons/texas.png",
+      "score": 45
+    },
+    "teamB": {
+      "name": "Mississippi State",
+      "abbr": "MSST",
+      "logo": "icons/mississippi-state.png",
+      "score": 38
+    },
+    "winner": "TEX"
+  },
+  {
+    "id": "2025-9-TCU-WVU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "TCU",
+      "abbr": "TCU",
+      "logo": "icons/tcu.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "West Virginia",
+      "abbr": "WVU",
+      "logo": "icons/west-virginia.png",
+      "score": 17
+    },
+    "winner": "TCU"
+  },
+  {
+    "id": "2025-9-UL-TROY",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Louisiana",
+      "abbr": "UL",
+      "logo": "icons/louisiana.png",
+      "score": 23
+    },
+    "teamB": {
+      "name": "Troy",
+      "abbr": "TROY",
+      "logo": "icons/troy.png",
+      "score": 35
+    },
+    "winner": "TROY"
+  },
+  {
+    "id": "2025-9-STAN-MIA",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Stanford",
+      "abbr": "STAN",
+      "logo": "icons/stanford.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Miami",
+      "abbr": "MIA",
+      "logo": "icons/miami.png",
+      "score": 42
+    },
+    "winner": "MIA"
+  },
+  {
+    "id": "2025-9-GASO-ARST",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Georgia Southern",
+      "abbr": "GASO",
+      "logo": "icons/georgia-southern.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Arkansas State",
+      "abbr": "ARST",
+      "logo": "icons/arkansas-state.png",
+      "score": 34
+    },
+    "winner": "ARST"
+  },
+  {
+    "id": "2025-9-WIS-ORE",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Wisconsin",
+      "abbr": "WIS",
+      "logo": "icons/wisconsin.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Oregon",
+      "abbr": "ORE",
+      "logo": "icons/oregon.png",
+      "score": 21
+    },
+    "winner": "ORE"
+  },
+  {
+    "id": "2025-9-MICH-MSU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Michigan",
+      "abbr": "MICH",
+      "logo": "icons/michigan.png",
+      "score": 31
+    },
+    "teamB": {
+      "name": "Michigan State",
+      "abbr": "MSU",
+      "logo": "icons/michigan-state.png",
+      "score": 20
+    },
+    "winner": "MICH"
+  },
+  {
+    "id": "2025-9-TA&M-LSU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Texas A&M",
+      "abbr": "TA&M",
+      "logo": "icons/texasAM.png",
+      "score": 49
+    },
+    "teamB": {
+      "name": "LSU",
+      "abbr": "LSU",
+      "logo": "icons/lsu.png",
+      "score": 25
+    },
+    "winner": "TA&M"
+  },
+  {
+    "id": "2025-9-BC-LOU",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Boston College",
+      "abbr": "BC",
+      "logo": "icons/boston-college.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Louisville",
+      "abbr": "LOU",
+      "logo": "icons/louisville.png",
+      "score": 38
+    },
+    "winner": "LOU"
+  },
+  {
+    "id": "2025-9-CSU-WYO",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Colorado State",
+      "abbr": "CSU",
+      "logo": "icons/colorado-state.png",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Wyoming",
+      "abbr": "WYO",
+      "logo": "icons/wyoming.png",
+      "score": 28
+    },
+    "winner": "WYO"
+  },
+  {
+    "id": "2025-9-TENN-UK",
+    "season": 2025,
+    "date": "2025-10-25",
+    "teamA": {
+      "name": "Tennessee",
+      "abbr": "TENN",
+      "logo": "icons/tennessee.png",
+      "score": 56
+    },
+    "teamB": {
+      "name": "Kentucky",
+      "abbr": "UK",
+      "logo": "icons/kentucky.png",
+      "score": 34
+    },
+    "winner": "TENN"
+  },
+  {
+    "id": "2025-9-HOU-ASU",
+    "season": 2025,
+    "date": "2025-10-26",
+    "teamA": {
+      "name": "Houston",
+      "abbr": "HOU",
+      "logo": "icons/houston.png",
+      "score": 24
+    },
+    "teamB": {
+      "name": "Arizona State",
+      "abbr": "ASU",
+      "logo": "icons/arizona-state.png",
+      "score": 16
+    },
+    "winner": "HOU"
+  },
+  {
+    "id": "2025-9-COLO-UTAH",
+    "season": 2025,
+    "date": "2025-10-26",
+    "teamA": {
+      "name": "Colorado",
+      "abbr": "COLO",
+      "logo": "icons/colorado.png",
+      "score": 7
+    },
+    "teamB": {
+      "name": "Utah",
+      "abbr": "UTAH",
+      "logo": "icons/utah.png",
+      "score": 53
+    },
+    "winner": "UTAH"
+  }
+]

@@ -10,11 +10,11 @@ const CATEGORIES = {
   },
   'cfb-2025': {
     name: 'College Football 2025',
-    description: 'Upcoming 2025 season',
+    description: '2025 season games',
     icon: '🏈',
     dataFile: 'data/games-2025.json',
     teamsFile: 'data/teams-2025.json',
-    available: false // Will be available when we add 2025 data
+    available: true
   }
 };
 
