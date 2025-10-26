@@ -7,7 +7,7 @@
 // ============================================================================
 
 const CONFIG = {
-  dataSource: 'local',   // 'local' | 'cfbd' (future)
+  dataSource: 'local',   // Switch back to local since we'll have the data
   maxStrikes: 3
 };
 
@@ -319,37 +319,52 @@ function hideWelcome() {
 
 function startGame() {
   hideWelcome();
-  renderGame(pickNextGame() || randomFromArray(state.games));
+  if (state.games.length > 0) {
+    renderGame(pickNextGame() || randomFromArray(state.games));
+  } else {
+    showError('No games available to play');
+  }
+}
+
+function showError(message) {
+  els.subtitle.textContent = message;
+  els.subtitle.style.color = '#F44336'; // Red color for error
+  els.btnA.disabled = true;
+  els.btnB.disabled = true;
+  els.resultRow.hidden = true;
+  els.nextBtn.hidden = true;
 }
 
 // ============================================================================
 // DATA LOADING
 // ============================================================================
 
-async function loadLocalData() {
-  const [teamsRes, gamesRes] = await Promise.all([
-    fetch('data/teams.json'),
-    fetch('data/games.json')
-  ]);
-  const [teams, games] = await Promise.all([teamsRes.json(), gamesRes.json()]);
-
-  state.teams = teams;
-  // Ensure logos resolved even if JSON items omit full path:
-  state.games = games.map(g => ({
-    ...g,
-    teamA: resolveTeamAsset(g.teamA),
-    teamB: resolveTeamAsset(g.teamB)
-  }));
+async function loadData() {
+  try {
+    console.log('Loading local data...');
+    
+    // Load teams and games from local JSON files
+    const [teamsRes, gamesRes] = await Promise.all([
+      fetch('data/teams.json'),
+      fetch('data/games.json')
+    ]);
+    
+    const [teams, games] = await Promise.all([
+      teamsRes.json(), 
+      gamesRes.json()
+    ]);
+    
+    state.teams = teams;
+    state.games = games;
+    
+    console.log(`Loaded ${games.length} games and ${Object.keys(teams).length} teams from local data`);
+  } catch (error) {
+    console.error('Failed to load local data:', error);
+    showError(`Failed to load game data: ${error.message}`);
+    return;
+  }
 }
 
-function resolveTeamAsset(team) {
-  // If logo already provided, keep it. Otherwise, map by name/abbr.
-  if (team.logo) return team;
-  // Try by name then abbr from teams.json
-  const byName = state.teams[team.name];
-  const logo = byName?.logo || (team.abbr ? `logos/${team.abbr}.png` : '');
-  return { ...team, logo };
-}
 
 // ============================================================================
 // SERVICE WORKER
@@ -376,40 +391,8 @@ window.addEventListener('DOMContentLoaded', async () => {
   updateHeader();
   registerSW();
 
-  await loadLocalData();
+  await loadData();
 
   // Show welcome screen first
   showWelcome();
 });
-
-/* CFBD example (Phase 2) – keep commented for now:
-
-async function fetchFromCFBD(season = 2024) {
-  const headers = { 'accept': 'application/json', 'x-api-key': 'YOUR_CFBD_KEY' };
-  const url = `https://api.collegefootballdata.com/games?year=${season}&seasonType=regular`;
-  const res = await fetch(url, { headers });
-  const data = await res.json();
-  return data.map(normalizeCFBDGame).filter(Boolean);
-}
-
-function normalizeCFBDGame(row) {
-  // Map CFBD fields to local schema. Requires team logo mapping from teams.json
-  if (!row.home_team || !row.away_team || row.home_points == null || row.away_points == null) return null;
-  const teamAName = row.home_team;
-  const teamBName = row.away_team;
-  const teamA = resolveFromTeamsJson(teamAName, row.home_points);
-  const teamB = resolveFromTeamsJson(teamBName, row.away_points);
-  const winner = row.home_points > row.away_points ? teamA.abbr : teamB.abbr;
-  return {
-    id: `${row.season}-${row.week}-${teamA.abbr}-${teamB.abbr}`,
-    season: row.season,
-    date: row.start_date ? row.start_date.slice(0,10) : '',
-    teamA, teamB, winner
-  };
-}
-
-function resolveFromTeamsJson(name, score) {
-  const t = state.teams[name] || {};
-  return { name, abbr: t.abbr || name.slice(0,3).toUpperCase(), logo: t.logo || '', score };
-}
-*/
