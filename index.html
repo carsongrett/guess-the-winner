@@ -47,7 +47,6 @@
         <div class="strike" id="strike3"></div>
       </div>
       <div class="actions">
-        <button class="linklike" id="modeToggle">Daily: Off</button>
         <button class="linklike" id="resetBtn">Reset</button>
         <button class="linklike" id="shareBtn">Share</button>
         <button class="linklike" id="howBtn">How</button>
@@ -55,12 +54,32 @@
     </footer>
   </div>
 
+  <!-- Welcome Modal -->
+  <div class="modal" id="welcomeModal">
+    <div class="modal-content">
+      <h3>Welcome to Guess the Winner!</h3>
+      <p>Test your college football knowledge!</p>
+      <ul style="text-align: left; margin: 15px 0;">
+        <li>Guess which team won each game</li>
+        <li>You get 3 strikes before your streak ends</li>
+        <li>Build your longest winning streak</li>
+        <li>No accounts needed - just play!</li>
+      </ul>
+      <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
+        <button class="next-btn" id="startGameBtn">Play Now</button>
+      </div>
+    </div>
+  </div>
+
   <!-- Game Over Modal -->
-  <div class="modal" id="modal" hidden>
+  <div class="modal" id="gameOverModal" hidden>
     <div class="modal-content">
       <h3>Game Over!</h3>
       <p id="summaryText">Your streak has ended.</p>
-      <button class="next-btn" id="restartBtn">Play Again</button>
+      <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
+        <button class="next-btn" id="restartBtn">Play Again</button>
+        <button class="linklike" id="modalResetBtn">Reset All</button>
+      </div>
     </div>
   </div>
 

@@ -13,7 +13,6 @@ A mobile-first Progressive Web App (PWA) game where players guess the winner of 
 ## Game Modes
 
 - **Random Mode**: Random games from the database
-- **Daily Mode**: Same game for all players each day
 
 ## File Structure
 

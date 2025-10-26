@@ -3,7 +3,6 @@
 */
 
 const CONFIG = {
-  mode: 'random',        // 'random' | 'daily'
   dataSource: 'local',   // 'local' | 'cfbd' (future)
   maxStrikes: 3
 };
@@ -18,10 +17,12 @@ const els = {
   resultRow: document.getElementById('resultRow'),
   nextBtn: document.getElementById('nextBtn'),
   strikeDots: [document.getElementById('strike1'), document.getElementById('strike2'), document.getElementById('strike3')],
-  modal: document.getElementById('modal'),
+  welcomeModal: document.getElementById('welcomeModal'),
+  gameOverModal: document.getElementById('gameOverModal'),
   summaryText: document.getElementById('summaryText'),
+  startGameBtn: document.getElementById('startGameBtn'),
   restartBtn: document.getElementById('restartBtn'),
-  modeToggle: document.getElementById('modeToggle'),
+  modalResetBtn: document.getElementById('modalResetBtn'),
   resetBtn: document.getElementById('resetBtn'),
   shareBtn: document.getElementById('shareBtn'),
   howBtn: document.getElementById('howBtn')
@@ -145,10 +146,6 @@ function winnerName(g) {
 }
 
 function nextGame() {
-  if (CONFIG.mode === 'daily') {
-    // In daily mode we only allow one play; start a new round with the same game but keep strikes/streak going if you want multiple plays.
-    // For v1: show the same daily game again but mark as seen.
-  }
   const next = pickNextGame();
   if (!next) {
     // Reset session memory to allow repeats
@@ -183,21 +180,15 @@ function dateHash(yyyymmdd) {
   return h;
 }
 
-function selectDailyGame() {
-  const today = new Date();
-  const ymd = today.toISOString().slice(0,10).replace(/-/g,'');
-  const idx = dateHash(ymd) % state.games.length;
-  return state.games[idx];
-}
 
 function showGameOver() {
-  els.modal.hidden = false;
+  els.gameOverModal.hidden = false;
   const acc = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
   els.summaryText.textContent = `Streak ended. Best: ${bestStreak}. Games: ${gamesPlayed}. Accuracy: ${acc}%.`;
 }
 
 function hideGameOver() {
-  els.modal.hidden = true;
+  els.gameOverModal.hidden = true;
 }
 
 function restart() {
@@ -207,7 +198,7 @@ function restart() {
   saveStats();
   updateHeader();
   hideGameOver();
-  renderGame(CONFIG.mode === 'daily' ? selectDailyGame() : pickNextGame() || randomFromArray(state.games));
+  renderGame(pickNextGame() || randomFromArray(state.games));
 }
 
 function resetGame() {
@@ -233,16 +224,9 @@ function resetGame() {
   hideGameOver();
   
   // Start fresh game
-  renderGame(CONFIG.mode === 'daily' ? selectDailyGame() : pickNextGame() || randomFromArray(state.games));
+  renderGame(pickNextGame() || randomFromArray(state.games));
 }
 
-function toggleMode() {
-  CONFIG.mode = CONFIG.mode === 'random' ? 'daily' : 'random';
-  els.modeToggle.textContent = `Daily: ${CONFIG.mode === 'daily' ? 'On' : 'Off'}`;
-  // Optional: reset session on mode change
-  state.seenIds.clear();
-  renderGame(CONFIG.mode === 'daily' ? selectDailyGame() : pickNextGame() || randomFromArray(state.games));
-}
 
 function shareStreak() {
   const url = location.href;
@@ -253,6 +237,19 @@ function shareStreak() {
 
 function howTo() {
   alert('Tap the team that won. You have 3 strikes before your streak ends. No accounts, no scroll. Enjoy!');
+}
+
+function showWelcome() {
+  els.welcomeModal.hidden = false;
+}
+
+function hideWelcome() {
+  els.welcomeModal.hidden = true;
+}
+
+function startGame() {
+  hideWelcome();
+  renderGame(pickNextGame() || randomFromArray(state.games));
 }
 
 async function loadLocalData() {
@@ -322,8 +319,9 @@ function registerSW() {
 window.addEventListener('DOMContentLoaded', async () => {
   // UI events
   els.nextBtn.addEventListener('click', nextGame);
+  els.startGameBtn.addEventListener('click', startGame);
   els.restartBtn.addEventListener('click', restart);
-  els.modeToggle.addEventListener('click', toggleMode);
+  els.modalResetBtn.addEventListener('click', resetGame);
   els.resetBtn.addEventListener('click', resetGame);
   els.shareBtn.addEventListener('click', shareStreak);
   els.howBtn.addEventListener('click', howTo);
@@ -333,6 +331,6 @@ window.addEventListener('DOMContentLoaded', async () => {
 
   await loadLocalData();
 
-  const first = (CONFIG.mode === 'daily') ? selectDailyGame() : pickNextGame() || randomFromArray(state.games);
-  renderGame(first);
+  // Show welcome screen first
+  showWelcome();
 });
