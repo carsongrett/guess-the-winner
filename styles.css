@@ -1,14 +1,16 @@
 /* Black/white, no gradients, no shadows, no hover UI. Mobile-first, no-scroll layout. */
 
 :root {
-  --bg: #000;
-  --fg: #fff;
-  --muted: #bbb;
-  --border: #333;
-  --accent: #fff; /* keep white for now; team logos bring color */
+  --bg: #EFEBCE; /* Beige - main background */
+  --fg: #000000; /* Black - main text */
+  --muted: #000000; /* Black - muted text */
+  --border: #A3A380; /* Sage - borders */
+  --accent: #A3A380; /* Sage - accents */
 }
 
 * { box-sizing: border-box; }
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 html, body {
   margin: 0;
@@ -16,7 +18,7 @@ html, body {
   height: 100%;
   background: var(--bg);
   color: var(--fg);
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
 }
 
 #app {
@@ -63,11 +65,29 @@ html, body {
   margin-right: 4px;
 }
 .strike {
-  width: 15px; height: 15px; border: 1px solid var(--fg);
-  display: inline-block;
+  width: 20px; 
+  height: 20px; 
+  border: 2px solid var(--fg);
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
 }
-.strike.filled { background: var(--fg); }
-.strike.empty { background: transparent; }
+
+.strike.filled { 
+  background: var(--fg);
+  color: #FF0000; /* Red X */
+}
+
+.strike.filled::after {
+  content: '✕';
+}
+
+.strike.empty { 
+  background: transparent; 
+}
 
 .game-over-text {
   text-align: center;
@@ -110,7 +130,7 @@ html, body {
   gap: 12px;
   width: 100%;
   padding: 12px;
-  background: transparent;
+  background: #D6CE93; /* Vanilla - team box background */
   color: var(--fg);
   border: 1px solid var(--fg);
   cursor: pointer;
@@ -132,7 +152,7 @@ html, body {
   place-items: center;
   font-weight: 700;
   font-size: 16px;
-  background: #111;
+  background: #EFEBCE; /* Beige - logo background */
 }
 
 .team-name { font-size: 30px; }
@@ -198,7 +218,7 @@ html, body {
 }
 
 .modal-content {
-  background: #000;
+  background: #D6CE93; /* Vanilla - modal background */
   border: 1px solid var(--border);
   width: calc(100vw - 32px);
   max-width: 420px;
