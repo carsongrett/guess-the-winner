@@ -54,7 +54,7 @@ html, body {
   gap: 4px; 
   justify-content: center;
   align-items: center;
-  margin-bottom: 8px;
+  margin-bottom: 2px;
 }
 
 .strikes-label {
@@ -138,6 +138,14 @@ html, body {
   padding-top: 10px;
   font-size: 14px;
   text-align: center;
+}
+
+.result-row.correct { 
+  color: #4CAF50; /* Green */
+}
+
+.result-row.wrong { 
+  color: #F44336; /* Red */
 }
 
 .actions {

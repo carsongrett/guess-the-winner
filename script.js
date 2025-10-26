@@ -88,6 +88,10 @@ function renderGame(game) {
   state.answering = true;
   els.resultRow.hidden = true;
   els.nextBtn.hidden = true;
+  
+  // Clear any result classes from previous game
+  els.resultRow.classList.remove('correct', 'wrong');
+  
   setButtonsEnabled(true);
   boundNoScroll();
 
@@ -128,9 +132,18 @@ function handleGuess(choiceAbbr) {
 
 function showResult(correct, g) {
   els.resultRow.hidden = false;
+  
+  // Clear any existing result classes
+  els.resultRow.classList.remove('correct', 'wrong');
+  
+  // Set text content
   els.resultRow.textContent = correct
     ? `Correct! ${winnerName(g)} won ${g.teamA.score}-${g.teamB.score}`
     : `Wrong — ${winnerName(g)} won ${g.teamA.score}-${g.teamB.score}`;
+  
+  // Add appropriate CSS class for color
+  els.resultRow.classList.add(correct ? 'correct' : 'wrong');
+  
   els.nextBtn.hidden = false;
   els.nextBtn.onclick = () => nextGame();
 }
