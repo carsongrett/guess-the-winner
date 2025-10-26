@@ -8,7 +8,7 @@ const CONFIG = {
 };
 
 const els = {
-  streakChip: document.getElementById('streakChip'),
+  scoreChip: document.getElementById('scoreChip'),
   bestChip: document.getElementById('bestChip'),
   accuracyChip: document.getElementById('accuracyChip'),
   subtitle: document.getElementById('subtitle'),
@@ -19,6 +19,7 @@ const els = {
   strikeDots: [document.getElementById('strike1'), document.getElementById('strike2'), document.getElementById('strike3')],
   welcomeModal: document.getElementById('welcomeModal'),
   startGameBtn: document.getElementById('startGameBtn'),
+  gameOverText: document.getElementById('gameOverText'),
   resetBtn: document.getElementById('resetBtn'),
   shareBtn: document.getElementById('shareBtn'),
   howBtn: document.getElementById('howBtn')
@@ -41,15 +42,15 @@ const LS = {
 };
 
 // Stats
-let streak = LS.get('gtw.streak', 0);
-let bestStreak = LS.get('gtw.best', 0);
+let score = LS.get('gtw.score', 0);
+let bestScore = LS.get('gtw.best', 0);
 let strikes = LS.get('gtw.strikes', 0);
 let gamesPlayed = LS.get('gtw.played', 0);
 let correctCount = LS.get('gtw.correct', 0);
 
 function updateHeader() {
-  els.streakChip.textContent = `Streak: ${streak}`;
-  els.bestChip.textContent = `Best: ${bestStreak}`;
+  els.scoreChip.textContent = `Score: ${score}`;
+  els.bestChip.textContent = `Best: ${bestScore}`;
   const acc = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
   els.accuracyChip.textContent = `Acc: ${acc}%`;
   els.strikeDots.forEach((dot, idx) => {
@@ -59,8 +60,8 @@ function updateHeader() {
 }
 
 function saveStats() {
-  LS.set('gtw.streak', streak);
-  LS.set('gtw.best', bestStreak);
+  LS.set('gtw.score', score);
+  LS.set('gtw.best', bestScore);
   LS.set('gtw.strikes', strikes);
   LS.set('gtw.played', gamesPlayed);
   LS.set('gtw.correct', correctCount);
@@ -92,6 +93,9 @@ function renderGame(game) {
   // Clear any result classes from previous game
   els.resultRow.classList.remove('correct', 'wrong');
   
+  // Hide Game Over text when starting new game
+  els.gameOverText.hidden = true;
+  
   setButtonsEnabled(true);
   boundNoScroll();
 
@@ -113,15 +117,17 @@ function handleGuess(choiceAbbr) {
   const correct = (choiceAbbr === g.winner);
   gamesPlayed++;
   if (correct) {
-    streak++;
+    score++;
     correctCount++;
-    bestStreak = Math.max(bestStreak, streak);
+    bestScore = Math.max(bestScore, score);
   } else {
     strikes++;
     if (strikes >= CONFIG.maxStrikes) {
-      // Reset strikes and streak when reaching max strikes
+      // Reset strikes and score when reaching max strikes
       strikes = 0;
-      streak = 0;
+      score = 0;
+      // Show Game Over text
+      els.gameOverText.hidden = false;
     }
   }
 
@@ -145,6 +151,14 @@ function showResult(correct, g) {
   els.resultRow.classList.add(correct ? 'correct' : 'wrong');
   
   els.nextBtn.hidden = false;
+  
+  // Change button text based on whether Game Over is shown
+  if (els.gameOverText.hidden) {
+    els.nextBtn.textContent = 'Next';
+  } else {
+    els.nextBtn.textContent = 'New Game';
+  }
+  
   els.nextBtn.onclick = () => nextGame();
 }
 
@@ -191,7 +205,7 @@ function dateHash(yyyymmdd) {
 
 
 function restart() {
-  streak = 0;
+  score = 0;
   strikes = 0;
   state.seenIds.clear();
   saveStats();
@@ -201,15 +215,15 @@ function restart() {
 
 function resetGame() {
   // Clear all localStorage data
-  localStorage.removeItem('gtw.streak');
+  localStorage.removeItem('gtw.score');
   localStorage.removeItem('gtw.best');
   localStorage.removeItem('gtw.strikes');
   localStorage.removeItem('gtw.played');
   localStorage.removeItem('gtw.correct');
   
   // Reset all stats
-  streak = 0;
-  bestStreak = 0;
+  score = 0;
+  bestScore = 0;
   strikes = 0;
   gamesPlayed = 0;
   correctCount = 0;
@@ -225,15 +239,15 @@ function resetGame() {
 }
 
 
-function shareStreak() {
+function shareScore() {
   const url = location.href;
-  const text = `I'm on a ${streak}-in-a-row streak on Guess the Winner!`;
+  const text = `I scored ${score} points on Guess the Winner!`;
   const intent = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
   window.open(intent, '_blank', 'noopener,noreferrer');
 }
 
 function howTo() {
-  alert('Tap the team that won. You have 3 strikes before your streak ends. No accounts, no scroll. Enjoy!');
+  alert('Tap the team that won. You have 3 strikes before your score resets.');
 }
 
 function showWelcome() {
@@ -318,7 +332,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   els.nextBtn.addEventListener('click', nextGame);
   els.startGameBtn.addEventListener('click', startGame);
   els.resetBtn.addEventListener('click', resetGame);
-  els.shareBtn.addEventListener('click', shareStreak);
+  els.shareBtn.addEventListener('click', shareScore);
   els.howBtn.addEventListener('click', howTo);
 
   updateHeader();

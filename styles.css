@@ -69,6 +69,14 @@ html, body {
 .strike.filled { background: var(--fg); }
 .strike.empty { background: transparent; }
 
+.game-over-text {
+  text-align: center;
+  color: #F44336; /* Red */
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
 .app-main {
   display: grid;
   place-items: center;

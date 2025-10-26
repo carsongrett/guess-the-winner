@@ -12,7 +12,7 @@
     <header class="app-header">
       <div class="brand">Guess the Winner</div>
       <div class="stats">
-        <div class="chip" id="streakChip">Streak: 0</div>
+        <div class="chip" id="scoreChip">Score: 0</div>
         <div class="chip" id="bestChip">Best: 0</div>
         <div class="chip" id="accuracyChip">Acc: 0%</div>
       </div>
@@ -25,6 +25,7 @@
         <div class="strike" id="strike2"></div>
         <div class="strike" id="strike3"></div>
       </div>
+      <div class="game-over-text" id="gameOverText" hidden>Game Over</div>
       <div class="card">
         <div class="subtitle" id="subtitle">Loading...</div>
         <div class="matchup">
@@ -50,7 +51,7 @@
       <div class="actions">
         <button class="linklike" id="resetBtn">Reset</button>
         <button class="linklike" id="shareBtn">Share</button>
-        <button class="linklike" id="howBtn">How</button>
+        <button class="linklike" id="howBtn"> How </button>
       </div>
     </footer>
   </div>
@@ -62,8 +63,8 @@
       <p>Test your college football memory!</p>
       <ul style="text-align: left; margin: 15px 0;">
         <li>Guess which team won each game</li>
-        <li>You get 3 strikes before your streak ends</li>
-        <li>Build your longest winning streak</li>
+        <li>You get 3 strikes before your score resets</li>
+        <li>Build your highest score</li>
         
       </ul>
       <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">

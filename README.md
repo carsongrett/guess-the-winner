@@ -4,8 +4,8 @@ A mobile-first Progressive Web App (PWA) game where players guess the winner of 
 
 ## Features
 
-- **3-Strike System**: Players have 3 strikes before their streak ends
-- **Streak Tracking**: Persistent streak and best streak tracking
+- **3-Strike System**: Players have 3 strikes before their score resets
+- **Score Tracking**: Persistent score and best score tracking
 - **Mobile-First Design**: Optimized for mobile devices with no-scroll layout
 - **PWA Support**: Installable as a mobile app
 - **Local Data**: Uses JSON files for game data (expandable to API)
