@@ -18,11 +18,7 @@ const els = {
   nextBtn: document.getElementById('nextBtn'),
   strikeDots: [document.getElementById('strike1'), document.getElementById('strike2'), document.getElementById('strike3')],
   welcomeModal: document.getElementById('welcomeModal'),
-  gameOverModal: document.getElementById('gameOverModal'),
-  summaryText: document.getElementById('summaryText'),
   startGameBtn: document.getElementById('startGameBtn'),
-  restartBtn: document.getElementById('restartBtn'),
-  modalResetBtn: document.getElementById('modalResetBtn'),
   resetBtn: document.getElementById('resetBtn'),
   shareBtn: document.getElementById('shareBtn'),
   howBtn: document.getElementById('howBtn')
@@ -119,11 +115,8 @@ function handleGuess(choiceAbbr) {
   } else {
     strikes++;
     if (strikes >= CONFIG.maxStrikes) {
-      // End of run
-      showGameOver();
-      saveStats();
-      updateHeader();
-      return;
+      // Reset strikes and continue playing
+      strikes = 0;
     }
   }
 
@@ -181,15 +174,7 @@ function dateHash(yyyymmdd) {
 }
 
 
-function showGameOver() {
-  els.gameOverModal.hidden = false;
-  const acc = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
-  els.summaryText.textContent = `Streak ended. Best: ${bestStreak}. Games: ${gamesPlayed}. Accuracy: ${acc}%.`;
-}
 
-function hideGameOver() {
-  els.gameOverModal.hidden = true;
-}
 
 function restart() {
   streak = 0;
@@ -197,7 +182,6 @@ function restart() {
   state.seenIds.clear();
   saveStats();
   updateHeader();
-  hideGameOver();
   renderGame(pickNextGame() || randomFromArray(state.games));
 }
 
@@ -221,7 +205,6 @@ function resetGame() {
   
   // Update UI
   updateHeader();
-  hideGameOver();
   
   // Start fresh game
   renderGame(pickNextGame() || randomFromArray(state.games));
@@ -320,8 +303,6 @@ window.addEventListener('DOMContentLoaded', async () => {
   // UI events
   els.nextBtn.addEventListener('click', nextGame);
   els.startGameBtn.addEventListener('click', startGame);
-  els.restartBtn.addEventListener('click', restart);
-  els.modalResetBtn.addEventListener('click', resetGame);
   els.resetBtn.addEventListener('click', resetGame);
   els.shareBtn.addEventListener('click', shareStreak);
   els.howBtn.addEventListener('click', howTo);
