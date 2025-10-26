@@ -53,7 +53,14 @@ html, body {
   display: flex; 
   gap: 4px; 
   justify-content: center;
-  margin-bottom: 16px;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.strikes-label {
+  color: var(--muted);
+  font-size: 12px;
+  margin-right: 4px;
 }
 .strike {
   width: 10px; height: 10px; border: 1px solid var(--fg);
