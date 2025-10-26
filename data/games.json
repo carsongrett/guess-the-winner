@@ -12,7 +12,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 21
     },
     "winner": "GT"
@@ -48,7 +48,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 19
     },
     "winner": "UNC"
@@ -84,7 +84,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 10
     },
     "winner": "MSU"
@@ -120,7 +120,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 14
     },
     "winner": "WIS"
@@ -420,7 +420,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 23
     },
     "teamB": {
@@ -444,7 +444,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 52
     },
     "winner": "UNT"
@@ -480,7 +480,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 0
     },
     "winner": "ALA"
@@ -690,7 +690,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 13
     },
     "teamB": {
@@ -744,7 +744,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 7
     },
     "teamB": {
@@ -948,7 +948,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 16
     },
     "winner": "NIU"
@@ -1014,7 +1014,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 38
     },
     "teamB": {
@@ -1092,7 +1092,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 31
     },
     "winner": "SC"
@@ -1146,7 +1146,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 3
     },
     "winner": "MISS"
@@ -1200,7 +1200,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 16
     },
     "winner": "FIU"
@@ -1362,7 +1362,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 16
     },
     "winner": "ALA"
@@ -1452,7 +1452,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 0
     },
     "winner": "OSU"
@@ -1524,7 +1524,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 16
     },
     "winner": "WSU"
@@ -1680,7 +1680,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 33
     },
     "teamB": {
@@ -1704,7 +1704,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 20
     },
     "winner": "NCSU"
@@ -1752,13 +1752,13 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 66
     },
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "winner": "TTU"
@@ -1776,7 +1776,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 9
     },
     "winner": "ILL"
@@ -1788,7 +1788,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 12
     },
     "teamB": {
@@ -2112,7 +2112,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 38
     },
     "teamB": {
@@ -2238,13 +2238,13 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 21
     },
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 49
     },
     "winner": "WKU"
@@ -2280,7 +2280,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 49
     },
     "winner": "USF"
@@ -2724,7 +2724,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 50
     },
     "teamB": {
@@ -2796,7 +2796,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 37
     },
     "teamB": {
@@ -2904,7 +2904,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 20
     },
     "teamB": {
@@ -2940,7 +2940,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 30
     },
     "teamB": {
@@ -3066,7 +3066,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 17
     },
     "teamB": {
@@ -3180,7 +3180,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "winner": "CONN"
@@ -3192,7 +3192,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 14
     },
     "teamB": {
@@ -3210,7 +3210,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 15
     },
     "teamB": {
@@ -3246,7 +3246,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 26
     },
     "teamB": {
@@ -3282,7 +3282,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 20
     },
     "teamB": {
@@ -3300,7 +3300,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 44
     },
     "teamB": {
@@ -3336,7 +3336,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 50
     },
     "teamB": {
@@ -3702,7 +3702,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 20
     },
     "winner": "BC"
@@ -3720,7 +3720,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 17
     },
     "winner": "NCSU"
@@ -3738,7 +3738,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 10
     },
     "winner": "TULN"
@@ -3846,7 +3846,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 20
     },
     "winner": "MRSH"
@@ -3930,7 +3930,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 22
     },
     "teamB": {
@@ -4080,7 +4080,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 20
     },
     "winner": "DUKE"
@@ -4134,7 +4134,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 10
     },
     "winner": "FIU"
@@ -4182,7 +4182,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 52
     },
     "teamB": {
@@ -4242,7 +4242,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 7
     },
     "winner": "MEM"
@@ -4326,7 +4326,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 44
     },
     "teamB": {
@@ -4368,7 +4368,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 16
     },
     "winner": "SMU"
@@ -4650,7 +4650,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 24
     },
     "teamB": {
@@ -4704,7 +4704,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 34
     },
     "teamB": {
@@ -4764,7 +4764,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 45
     },
     "winner": "WMU"
@@ -4830,7 +4830,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 3
     },
     "teamB": {
@@ -5082,7 +5082,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 13
     },
     "teamB": {
@@ -5322,7 +5322,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 28
     },
     "winner": "TTU"
@@ -5388,7 +5388,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 44
     },
     "teamB": {
@@ -5406,13 +5406,13 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 48
     },
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 21
     },
     "winner": "LT"
@@ -5574,7 +5574,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 25
     },
     "winner": "ALA"
@@ -5622,7 +5622,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 34
     },
     "teamB": {
@@ -5664,7 +5664,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 17
     },
     "winner": "NIU"
@@ -5712,7 +5712,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 3
     },
     "teamB": {
@@ -5820,7 +5820,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 34
     },
     "teamB": {
@@ -5910,7 +5910,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 25
     },
     "teamB": {
@@ -5964,13 +5964,13 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 37
     },
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 41
     },
     "winner": "UNT"
@@ -6288,7 +6288,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 14
     },
     "teamB": {
@@ -6312,7 +6312,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 30
     },
     "winner": "NMSU"
@@ -6330,7 +6330,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 31
     },
     "winner": "WKU"
@@ -6402,7 +6402,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 16
     },
     "winner": "DUKE"
@@ -6654,7 +6654,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 35
     },
     "winner": "SC"
@@ -6672,7 +6672,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 34
     },
     "winner": "EMU"
@@ -6852,7 +6852,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 24
     },
     "winner": "UTSA"
@@ -6864,7 +6864,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 35
     },
     "teamB": {
@@ -6882,7 +6882,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 6
     },
     "teamB": {
@@ -6906,7 +6906,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 48
     },
     "winner": "WMU"
@@ -7026,7 +7026,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 35
     },
     "teamB": {
@@ -7158,7 +7158,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 44
     },
     "winner": "MEM"
@@ -7350,7 +7350,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 14
     },
     "teamB": {
@@ -7392,7 +7392,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 20
     },
     "winner": "JXST"
@@ -7518,7 +7518,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 41
     },
     "winner": "UNC"
@@ -7638,7 +7638,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 37
     },
     "teamB": {
@@ -7716,7 +7716,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 7
     },
     "winner": "M-OH"
@@ -7752,7 +7752,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 23
     },
     "winner": "BALL"
@@ -7782,7 +7782,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 52
     },
     "teamB": {
@@ -7878,7 +7878,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 34
     },
     "winner": "TCU"
@@ -8148,7 +8148,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 14
     },
     "winner": "MIA"
@@ -8382,7 +8382,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 3
     },
     "winner": "SHSU"
@@ -8412,7 +8412,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 31
     },
     "teamB": {
@@ -8466,13 +8466,13 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 21
     },
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 44
     },
     "winner": "USF"
@@ -8760,7 +8760,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 23
     },
     "winner": "TTU"
@@ -8772,13 +8772,13 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 11
     },
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 35
     },
     "winner": "UNC"
@@ -8868,7 +8868,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 20
     },
     "winner": "MTSU"
@@ -9078,7 +9078,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 44
     },
     "teamB": {
@@ -9204,7 +9204,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 13
     },
     "teamB": {
@@ -9240,13 +9240,13 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 28
     },
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 42
     },
     "winner": "NIU"
@@ -9282,7 +9282,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "winner": "ECU"
@@ -9438,7 +9438,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 7
     },
     "teamB": {
@@ -9528,7 +9528,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 17
     },
     "teamB": {
@@ -9618,7 +9618,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 3
     },
     "teamB": {
@@ -9726,7 +9726,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 27
     },
     "teamB": {
@@ -9786,7 +9786,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 28
     },
     "winner": "SC"
@@ -9798,7 +9798,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 37
     },
     "teamB": {
@@ -9840,7 +9840,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 41
     },
     "winner": "WKU"
@@ -9930,7 +9930,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 3
     },
     "winner": "ND"
@@ -10110,7 +10110,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 10
     },
     "winner": "TOL"
@@ -10146,7 +10146,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 13
     },
     "winner": "BGSU"
@@ -10158,7 +10158,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 29
     },
     "teamB": {
@@ -10236,7 +10236,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 27
     },
     "winner": "UTSA"
@@ -10302,13 +10302,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 7
     },
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 12
     },
     "winner": "LT"
@@ -10470,7 +10470,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 15
     },
     "winner": "TEM"
@@ -10650,7 +10650,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 59
     },
     "winner": "USF"
@@ -10770,7 +10770,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 34
     },
     "teamB": {
@@ -10950,7 +10950,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 31
     },
     "teamB": {
@@ -11076,13 +11076,13 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 16
     },
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 14
     },
     "winner": "CMU"
@@ -11100,7 +11100,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 9
     },
     "winner": "M-OH"
@@ -11352,7 +11352,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 21
     },
     "winner": "BC"
@@ -11406,7 +11406,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 21
     },
     "winner": "LIB"
@@ -11472,7 +11472,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 21
     },
     "teamB": {
@@ -11526,7 +11526,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 27
     },
     "teamB": {
@@ -11748,7 +11748,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 56
     },
     "winner": "TTU"
@@ -11796,7 +11796,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 63
     },
     "teamB": {
@@ -11814,7 +11814,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 28
     },
     "teamB": {
@@ -11856,7 +11856,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 14
     },
     "winner": "ARK"
@@ -12504,7 +12504,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 17
     },
     "winner": "SC"
@@ -12588,7 +12588,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 52
     },
     "teamB": {
@@ -12630,7 +12630,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 24
     },
     "winner": "UNT"
@@ -12696,7 +12696,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 26
     },
     "teamB": {
@@ -12720,7 +12720,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 24
     },
     "winner": "FIU"
@@ -12738,7 +12738,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 28
     },
     "winner": "RICE"
@@ -12894,7 +12894,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 30
     },
     "teamB": {
@@ -12936,7 +12936,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 63
     },
     "winner": "FAU"
@@ -12966,13 +12966,13 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 24
     },
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 16
     },
     "winner": "NIU"
@@ -13074,7 +13074,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 33
     },
     "teamB": {
@@ -13092,7 +13092,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 19
     },
     "teamB": {
@@ -13182,7 +13182,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 11
     },
     "teamB": {
@@ -13386,7 +13386,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 12
     },
     "winner": "JXST"
@@ -13668,7 +13668,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 22
     },
     "teamB": {
@@ -13764,7 +13764,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 7
     },
     "winner": "MSU"
@@ -13962,7 +13962,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 14
     },
     "winner": "SMU"
@@ -14016,7 +14016,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 27
     },
     "winner": "NIU"
@@ -14064,13 +14064,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 41
     },
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 24
     },
     "winner": "WKU"
@@ -14154,7 +14154,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "teamB": {
@@ -14298,13 +14298,13 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 31
     },
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 17
     },
     "winner": "UNC"
@@ -14340,7 +14340,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 7
     },
     "winner": "ALA"
@@ -14358,7 +14358,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 33
     },
     "winner": "WYO"
@@ -14478,7 +14478,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 45
     },
     "teamB": {
@@ -14808,7 +14808,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 7
     },
     "winner": "SYR"
@@ -14892,7 +14892,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 40
     },
     "teamB": {
@@ -14946,7 +14946,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 10
     },
     "teamB": {
@@ -15006,7 +15006,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 39
     },
     "winner": "FIU"
@@ -15078,7 +15078,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 19
     },
     "winner": "MIZ"
@@ -15126,7 +15126,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 30
     },
     "teamB": {
@@ -15306,7 +15306,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 66
     },
     "teamB": {
@@ -15510,7 +15510,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 31
     },
     "winner": "FSU"
@@ -15636,7 +15636,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "winner": "ND"
@@ -15648,7 +15648,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 3
     },
     "teamB": {
@@ -15684,7 +15684,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 31
     },
     "teamB": {
@@ -15708,7 +15708,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 14
     },
     "winner": "UGA"
@@ -15762,7 +15762,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 10
     },
     "winner": "IOWA"
@@ -15852,7 +15852,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 10
     },
     "winner": "OSU"
@@ -15972,13 +15972,13 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 37
     },
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 40
     },
     "winner": "UNT"
@@ -15996,7 +15996,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 11
     },
     "winner": "NEB"
@@ -16212,7 +16212,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "winner": "CLEM"
@@ -16458,7 +16458,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 14
     },
     "teamB": {
@@ -16482,7 +16482,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 24
     },
     "winner": "TROY"
@@ -16554,7 +16554,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 31
     },
     "winner": "FSU"
@@ -16626,7 +16626,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 31
     },
     "winner": "TOL"
@@ -16770,7 +16770,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 14
     },
     "winner": "NEB"
@@ -16788,7 +16788,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 13
     },
     "winner": "WVU"
@@ -16860,7 +16860,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 17
     },
     "winner": "ILL"
@@ -16890,7 +16890,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 42
     },
     "teamB": {
@@ -16950,7 +16950,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 34
     },
     "winner": "CMU"
@@ -17034,7 +17034,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 23
     },
     "teamB": {
@@ -17304,7 +17304,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 37
     },
     "teamB": {
@@ -17364,7 +17364,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 41
     },
     "winner": "UNC"
@@ -17484,13 +17484,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 31
     },
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 10
     },
     "winner": "WKU"
@@ -17580,7 +17580,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 24
     },
     "winner": "LT"
@@ -17790,7 +17790,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 26
     },
     "teamB": {
@@ -17934,7 +17934,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 42
     },
     "teamB": {
@@ -17958,7 +17958,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 44
     },
     "winner": "USF"
@@ -18012,7 +18012,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 33
     },
     "winner": "TOL"
@@ -18042,7 +18042,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 49
     },
     "teamB": {
@@ -18300,7 +18300,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 20
     },
     "winner": "TENN"
@@ -18492,7 +18492,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 30
     },
     "teamB": {
@@ -18546,13 +18546,13 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 28
     },
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 35
     },
     "winner": "WKU"
@@ -18696,7 +18696,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 28
     },
     "winner": "MSST"
@@ -18732,7 +18732,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 13
     },
     "winner": "BUF"
@@ -18804,7 +18804,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 24
     },
     "winner": "NAVY"
@@ -18816,7 +18816,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 39
     },
     "teamB": {
@@ -18834,7 +18834,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 40
     },
     "teamB": {
@@ -18930,7 +18930,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 55
     },
     "winner": "NIU"
@@ -19056,7 +19056,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 35
     },
     "winner": "UAB"
@@ -19086,7 +19086,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 20
     },
     "teamB": {
@@ -19236,7 +19236,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 39
     },
     "winner": "TTU"
@@ -19374,13 +19374,13 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 31
     },
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 23
     },
     "winner": "MTSU"
@@ -19608,7 +19608,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 41
     },
     "teamB": {
@@ -19716,7 +19716,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 45
     },
     "teamB": {
@@ -19824,13 +19824,13 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 14
     },
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 56
     },
     "winner": "FAU"
@@ -19860,7 +19860,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 21
     },
     "teamB": {
@@ -19896,7 +19896,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "teamB": {
@@ -19914,7 +19914,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 39
     },
     "teamB": {
@@ -20022,7 +20022,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 23
     },
     "teamB": {
@@ -20148,7 +20148,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 21
     },
     "teamB": {
@@ -20238,7 +20238,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 41
     },
     "teamB": {
@@ -20370,7 +20370,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 35
     },
     "winner": "LIB"
@@ -20406,7 +20406,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 17
     },
     "winner": "JXST"
@@ -20604,7 +20604,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 17
     },
     "winner": "OHIO"
@@ -20724,7 +20724,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 20
     },
     "teamB": {
@@ -20784,7 +20784,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 24
     },
     "winner": "USF"
@@ -20802,7 +20802,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 12
     },
     "winner": "MIZ"
@@ -20838,7 +20838,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 28
     },
     "winner": "TULN"
@@ -20856,7 +20856,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "winner": "BALL"
@@ -20994,7 +20994,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 10
     },
     "teamB": {
@@ -21030,7 +21030,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 27
     },
     "teamB": {
@@ -21090,7 +21090,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 14
     },
     "winner": "BYU"
@@ -21174,7 +21174,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 38
     },
     "teamB": {
@@ -21336,7 +21336,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 24
     },
     "teamB": {
@@ -21354,7 +21354,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 29
     },
     "teamB": {
@@ -21450,7 +21450,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 38
     },
     "winner": "FAU"
@@ -21486,7 +21486,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 41
     },
     "winner": "FSU"
@@ -21594,7 +21594,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 17
     },
     "winner": "TA&M"
@@ -21648,7 +21648,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 45
     },
     "winner": "WMU"
@@ -21678,7 +21678,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 42
     },
     "teamB": {
@@ -22206,7 +22206,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 42
     },
     "winner": "GT"
@@ -22308,13 +22308,13 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 37
     },
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 31
     },
     "winner": "CMU"
@@ -22380,7 +22380,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 35
     },
     "teamB": {
@@ -22596,7 +22596,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 38
     },
     "teamB": {
@@ -22722,7 +22722,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 29
     },
     "teamB": {
@@ -22764,7 +22764,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 42
     },
     "winner": "UAB"
@@ -22782,7 +22782,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 50
     },
     "winner": "MEM"
@@ -22908,7 +22908,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 24
     },
     "winner": "FSU"
@@ -23142,7 +23142,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 30
     },
     "winner": "LIB"
@@ -23160,7 +23160,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 7
     },
     "winner": "NMSU"
@@ -23358,7 +23358,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 21
     },
     "winner": "WKU"
@@ -23442,13 +23442,13 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 38
     },
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 28
     },
     "winner": "WMU"
@@ -23460,7 +23460,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 17
     },
     "teamB": {
@@ -23592,7 +23592,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "winner": "SMU"
@@ -23646,7 +23646,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 16
     },
     "winner": "TTU"
@@ -23694,7 +23694,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 47
     },
     "teamB": {
@@ -23730,7 +23730,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 27
     },
     "teamB": {
@@ -23964,7 +23964,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 27
     },
     "teamB": {
@@ -24054,7 +24054,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 40
     },
     "teamB": {
@@ -24072,7 +24072,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 27
     },
     "teamB": {
@@ -24162,7 +24162,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 29
     },
     "teamB": {
@@ -24216,7 +24216,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 7
     },
     "teamB": {
@@ -24468,7 +24468,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 47
     },
     "teamB": {
@@ -24612,13 +24612,13 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 24
     },
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 0
     },
     "winner": "NIU"
@@ -24654,7 +24654,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 20
     },
     "winner": "OHIO"
@@ -24708,7 +24708,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 21
     },
     "winner": "UTSA"
@@ -24846,7 +24846,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 8
     },
     "teamB": {
@@ -25008,7 +25008,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 34
     },
     "teamB": {
@@ -25050,7 +25050,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 17
     },
     "winner": "JXST"
@@ -25158,7 +25158,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 35
     },
     "winner": "UNT"
@@ -25224,7 +25224,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 28
     },
     "teamB": {
@@ -25302,7 +25302,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 20
     },
     "winner": "CLEM"
@@ -25476,7 +25476,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 24
     },
     "teamB": {
@@ -25584,7 +25584,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 17
     },
     "teamB": {
@@ -25746,7 +25746,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 10
     },
     "teamB": {
@@ -25836,7 +25836,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "teamB": {
@@ -25986,7 +25986,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 7
     },
     "winner": "TEX"
@@ -26148,7 +26148,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 37
     },
     "winner": "NIU"
@@ -26220,7 +26220,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 20
     },
     "winner": "SHSU"
@@ -26256,7 +26256,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 21
     },
     "winner": "RICE"
@@ -26268,7 +26268,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 45
     },
     "teamB": {
@@ -26382,7 +26382,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 41
     },
     "winner": "WKU"
@@ -26688,7 +26688,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 24
     },
     "winner": "FSU"
@@ -26736,7 +26736,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 7
     },
     "teamB": {
@@ -26772,7 +26772,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 48
     },
     "teamB": {
@@ -26832,7 +26832,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 20
     },
     "winner": "NCSU"
@@ -27060,7 +27060,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 16
     },
     "teamB": {
@@ -27168,7 +27168,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 43
     },
     "teamB": {
@@ -27192,7 +27192,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 31
     },
     "winner": "UNT"
@@ -27282,7 +27282,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 44
     },
     "winner": "OKST"
@@ -27300,7 +27300,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 24
     },
     "winner": "MIZ"
@@ -27372,7 +27372,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 13
     },
     "winner": "MSU"
@@ -27516,7 +27516,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 63
     },
     "winner": "UNC"
@@ -27690,7 +27690,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 21
     },
     "teamB": {
@@ -27750,7 +27750,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 38
     },
     "winner": "OHIO"
@@ -27786,7 +27786,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 7
     },
     "winner": "JMU"
@@ -27906,7 +27906,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 35
     },
     "teamB": {
@@ -27942,7 +27942,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 10
     },
     "teamB": {
@@ -28056,7 +28056,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 49
     },
     "winner": "WKU"
@@ -28068,7 +28068,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 24
     },
     "teamB": {
@@ -28164,7 +28164,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 35
     },
     "winner": "UNC"
@@ -28308,7 +28308,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 30
     },
     "winner": "ARK"
@@ -28320,7 +28320,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 24
     },
     "teamB": {
@@ -28344,7 +28344,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 37
     },
     "winner": "WMU"
@@ -28500,7 +28500,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 33
     },
     "teamB": {
@@ -28560,7 +28560,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 34
     },
     "winner": "MTSU"
@@ -28776,7 +28776,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 35
     },
     "winner": "TLSA"
@@ -28974,7 +28974,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 35
     },
     "winner": "FSU"
@@ -29058,7 +29058,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 7
     },
     "teamB": {
@@ -29082,7 +29082,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 30
     },
     "winner": "IU"
@@ -29244,7 +29244,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 27
     },
     "winner": "UNLV"
@@ -29346,7 +29346,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 28
     },
     "teamB": {
@@ -29604,7 +29604,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 14
     },
     "winner": "NCSU"
@@ -29670,7 +29670,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 13
     },
     "teamB": {
@@ -29694,7 +29694,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 28
     },
     "winner": "FLA"
@@ -29760,7 +29760,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "teamB": {
@@ -29784,7 +29784,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 20
     },
     "winner": "CLEM"
@@ -30126,7 +30126,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 3
     },
     "winner": "LOU"
@@ -30180,7 +30180,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 14
     },
     "winner": "PSU"
@@ -30252,7 +30252,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 45
     },
     "winner": "MTSU"
@@ -30282,7 +30282,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 32
     },
     "teamB": {
@@ -30318,7 +30318,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 37
     },
     "teamB": {
@@ -30342,7 +30342,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 34
     },
     "winner": "MEM"
@@ -30372,7 +30372,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 73
     },
     "teamB": {
@@ -30648,7 +30648,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 14
     },
     "winner": "USA"
@@ -30684,7 +30684,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 23
     },
     "winner": "UK"
@@ -30720,7 +30720,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 26
     },
     "winner": "PUR"
@@ -30732,7 +30732,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 56
     },
     "teamB": {
@@ -30876,7 +30876,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 44
     },
     "teamB": {
@@ -30972,7 +30972,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 6
     },
     "winner": "SJSU"
@@ -31020,7 +31020,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 30
     },
     "teamB": {
@@ -31098,7 +31098,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 28
     },
     "winner": "KSU"
@@ -31296,7 +31296,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 38
     },
     "winner": "BALL"
@@ -31362,7 +31362,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 28
     },
     "teamB": {
@@ -31416,7 +31416,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 21
     },
     "teamB": {
@@ -31494,7 +31494,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "winner": "TOL"
@@ -31596,7 +31596,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 41
     },
     "teamB": {
@@ -31632,13 +31632,13 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 45
     },
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 28
     },
     "winner": "UNT"
@@ -31794,7 +31794,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 27
     },
     "teamB": {
@@ -32226,7 +32226,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 23
     },
     "teamB": {
@@ -32340,7 +32340,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 24
     },
     "winner": "CIN"
@@ -32358,7 +32358,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 31
     },
     "winner": "OKST"
@@ -32406,7 +32406,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 16
     },
     "teamB": {
@@ -32424,7 +32424,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 32
     },
     "teamB": {
@@ -32520,7 +32520,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 14
     },
     "winner": "UAB"
@@ -32574,7 +32574,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 27
     },
     "winner": "UNC"
@@ -32664,7 +32664,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 28
     },
     "winner": "UTSA"
@@ -32712,7 +32712,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 41
     },
     "teamB": {
@@ -32880,7 +32880,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 24
     },
     "winner": "SC"
@@ -32952,7 +32952,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 17
     },
     "winner": "NCSU"
@@ -33186,7 +33186,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 28
     },
     "winner": "CMU"
@@ -33378,7 +33378,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 14
     },
     "teamB": {
@@ -33450,13 +33450,13 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 17
     },
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 35
     },
     "winner": "WKU"
@@ -33510,7 +33510,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 39
     },
     "winner": "NIU"
@@ -33612,7 +33612,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 31
     },
     "teamB": {
@@ -33630,13 +33630,13 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 47
     },
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 27
     },
     "winner": "UNT"
@@ -33666,7 +33666,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 17
     },
     "teamB": {
@@ -33756,7 +33756,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 28
     },
     "teamB": {
@@ -33870,7 +33870,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 38
     },
     "winner": "UNC"
@@ -34044,7 +34044,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 20
     },
     "teamB": {
@@ -34224,7 +34224,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 18
     },
     "teamB": {
@@ -34266,7 +34266,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 17
     },
     "winner": "OHIO"
@@ -34314,7 +34314,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 48
     },
     "teamB": {
@@ -34332,7 +34332,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 41
     },
     "teamB": {
@@ -34410,7 +34410,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 27
     },
     "winner": "UTSA"
@@ -34554,7 +34554,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 16
     },
     "winner": "WMU"
@@ -34590,7 +34590,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 21
     },
     "winner": "UTEP"
@@ -34782,7 +34782,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 30
     },
     "teamB": {
@@ -34986,7 +34986,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 34
     },
     "winner": "FIU"
@@ -35130,7 +35130,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 27
     },
     "winner": "HOU"
@@ -35142,7 +35142,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 41
     },
     "teamB": {
@@ -35250,13 +35250,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 13
     },
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 40
     },
     "winner": "UNT"
@@ -35448,7 +35448,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 10
     },
     "teamB": {
@@ -35538,7 +35538,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 24
     },
     "teamB": {
@@ -35628,7 +35628,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 17
     },
     "teamB": {
@@ -35646,7 +35646,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 42
     },
     "teamB": {
@@ -35670,7 +35670,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 24
     },
     "winner": "MTSU"
@@ -35790,13 +35790,13 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 22
     },
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 35
     },
     "winner": "CMU"
@@ -35814,7 +35814,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 9
     },
     "winner": "BGSU"
@@ -35940,7 +35940,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 59
     },
     "winner": "WKU"
@@ -35958,7 +35958,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 24
     },
     "winner": "TCU"
@@ -36030,7 +36030,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 31
     },
     "winner": "UNC"
@@ -36138,7 +36138,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 28
     },
     "winner": "TEM"
@@ -36168,13 +36168,13 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 40
     },
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 24
     },
     "winner": "LT"
@@ -36420,7 +36420,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 52
     },
     "teamB": {
@@ -36624,7 +36624,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 45
     },
     "winner": "FSU"
@@ -36642,7 +36642,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 38
     },
     "winner": "SC"
@@ -36888,13 +36888,13 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 21
     },
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 24
     },
     "winner": "NIU"
@@ -36924,7 +36924,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 31
     },
     "teamB": {
@@ -37086,7 +37086,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 23
     },
     "teamB": {
@@ -37284,7 +37284,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 45
     },
     "teamB": {
@@ -37338,7 +37338,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 24
     },
     "teamB": {
@@ -37470,7 +37470,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 7
     },
     "winner": "UTSA"
@@ -37488,7 +37488,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "winner": "UAB"
@@ -37650,7 +37650,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 6
     },
     "winner": "FLA"
@@ -37686,7 +37686,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 52
     },
     "winner": "FAU"
@@ -37698,7 +37698,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 43
     },
     "teamB": {
@@ -37848,7 +37848,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 36
     },
     "winner": "UNC"
@@ -37866,7 +37866,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 38
     },
     "winner": "FSU"
@@ -38040,7 +38040,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 23
     },
     "teamB": {
@@ -38058,13 +38058,13 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 10
     },
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 12
     },
     "winner": "WMU"
@@ -38100,7 +38100,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 42
     },
     "winner": "TLSA"
@@ -38184,7 +38184,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 49
     },
     "teamB": {
@@ -38526,13 +38526,13 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 49
     },
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 21
     },
     "winner": "MTSU"
@@ -38550,7 +38550,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 21
     },
     "winner": "COLLE"
@@ -38730,7 +38730,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 17
     },
     "winner": "AUB"
@@ -38760,7 +38760,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 17
     },
     "teamB": {
@@ -38814,7 +38814,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 63
     },
     "teamB": {
@@ -38838,7 +38838,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 14
     },
     "winner": "TTU"
@@ -39138,7 +39138,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 20
     },
     "teamB": {
@@ -39198,7 +39198,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 19
     },
     "winner": "EMU"
@@ -39282,7 +39282,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 27
     },
     "teamB": {
@@ -39336,7 +39336,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 45
     },
     "teamB": {
@@ -39480,13 +39480,13 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 31
     },
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 32
     },
     "winner": "WKU"
@@ -39504,7 +39504,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 31
     },
     "winner": "SC"
@@ -39606,7 +39606,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 12
     },
     "teamB": {
@@ -39624,7 +39624,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "teamB": {
@@ -39660,7 +39660,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 27
     },
     "teamB": {
@@ -39972,7 +39972,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 33
     },
     "winner": "MTSU"
@@ -40020,7 +40020,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 39
     },
     "teamB": {
@@ -40092,7 +40092,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 51
     },
     "teamB": {
@@ -40242,7 +40242,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 27
     },
     "winner": "UTSA"
@@ -40380,7 +40380,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 10
     },
     "teamB": {
@@ -40566,7 +40566,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 0
     },
     "winner": "NCSU"
@@ -40620,7 +40620,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 10
     },
     "winner": "VT"
@@ -40710,7 +40710,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 14
     },
     "winner": "MICH"
@@ -40962,7 +40962,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 34
     },
     "winner": "MSST"
@@ -40980,7 +40980,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 24
     },
     "winner": "MIZ"
@@ -41124,7 +41124,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 38
     },
     "winner": "TTU"
@@ -41160,7 +41160,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "winner": "FLA"
@@ -41178,7 +41178,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 22
     },
     "winner": "NIU"
@@ -41334,7 +41334,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 38
     },
     "teamB": {
@@ -41430,7 +41430,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 35
     },
     "winner": "ARMY"
@@ -41538,7 +41538,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 20
     },
     "winner": "SC"
@@ -41550,7 +41550,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 20
     },
     "teamB": {
@@ -41568,7 +41568,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 43
     },
     "teamB": {
@@ -41610,7 +41610,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 14
     },
     "winner": "VT"
@@ -41802,7 +41802,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 38
     },
     "teamB": {
@@ -41970,7 +41970,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 12
     },
     "winner": "SMU"
@@ -42036,7 +42036,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 59
     },
     "teamB": {
@@ -42072,7 +42072,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 17
     },
     "teamB": {
@@ -42276,7 +42276,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 44
     },
     "winner": "WMU"
@@ -42384,7 +42384,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 10
     },
     "winner": "MICH"
@@ -42546,7 +42546,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 14
     },
     "winner": "WAKE"
@@ -42594,7 +42594,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 37
     },
     "teamB": {
@@ -42798,7 +42798,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 13
     },
     "winner": "UTSA"
@@ -42864,7 +42864,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 54
     },
     "teamB": {
@@ -42888,7 +42888,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 13
     },
     "winner": "UGA"
@@ -42954,7 +42954,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 6
     },
     "teamB": {
@@ -42978,7 +42978,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 21
     },
     "winner": "LSU"
@@ -42990,7 +42990,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 59
     },
     "teamB": {
@@ -43194,7 +43194,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 39
     },
     "winner": "COLLE"
@@ -43404,7 +43404,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 31
     },
     "teamB": {
@@ -43446,7 +43446,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 35
     },
     "winner": "TEX"
@@ -43512,7 +43512,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 23
     },
     "teamB": {
@@ -43692,7 +43692,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 23
     },
     "teamB": {
@@ -43872,7 +43872,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 10
     },
     "teamB": {
@@ -43926,13 +43926,13 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 24
     },
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 17
     },
     "winner": "LT"
@@ -43950,7 +43950,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 22
     },
     "winner": "GT"
@@ -44034,7 +44034,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 31
     },
     "teamB": {
@@ -44076,7 +44076,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 7
     },
     "winner": "AF"
@@ -44148,7 +44148,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 27
     },
     "winner": "BYU"
@@ -44364,7 +44364,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 24
     },
     "winner": "WMU"
@@ -44394,7 +44394,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 38
     },
     "teamB": {
@@ -44538,7 +44538,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 27
     },
     "teamB": {
@@ -44724,7 +44724,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 23
     },
     "winner": "TTU"
@@ -44760,7 +44760,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 17
     },
     "winner": "M-OH"
@@ -44772,7 +44772,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 33
     },
     "teamB": {
@@ -44790,7 +44790,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 23
     },
     "teamB": {
@@ -44844,7 +44844,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 58
     },
     "teamB": {
@@ -44868,7 +44868,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 17
     },
     "winner": "SMU"
@@ -44940,7 +44940,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 27
     },
     "winner": "NCSU"
@@ -45060,7 +45060,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 34
     },
     "teamB": {
@@ -45120,7 +45120,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 31
     },
     "winner": "MSU"
@@ -45444,7 +45444,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 20
     },
     "winner": "TENN"
@@ -45498,7 +45498,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 22
     },
     "winner": "NIU"
@@ -45696,7 +45696,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 13
     },
     "winner": "LIB"
@@ -45708,13 +45708,13 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 25
     },
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 35
     },
     "winner": "FSU"
@@ -45786,7 +45786,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 30
     },
     "winner": "CMU"
@@ -45798,7 +45798,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 20
     },
     "teamB": {
@@ -45822,7 +45822,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 14
     },
     "winner": "UAB"
@@ -45894,7 +45894,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 35
     },
     "winner": "MIZ"
@@ -45942,7 +45942,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 31
     },
     "teamB": {
@@ -45978,7 +45978,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 46
     },
     "teamB": {
@@ -46320,7 +46320,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 21
     },
     "teamB": {
@@ -46536,7 +46536,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 31
     },
     "teamB": {
@@ -46644,7 +46644,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 64
     },
     "teamB": {
@@ -46662,7 +46662,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 26
     },
     "teamB": {
@@ -46698,7 +46698,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 34
     },
     "teamB": {
@@ -46734,7 +46734,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 45
     },
     "teamB": {
@@ -46812,7 +46812,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 43
     },
     "winner": "WKU"
@@ -46848,7 +46848,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 41
     },
     "winner": "TTU"
@@ -46860,7 +46860,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 21
     },
     "teamB": {
@@ -47118,7 +47118,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 3
     },
     "winner": "UTEP"
@@ -47226,7 +47226,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 38
     },
     "winner": "FAU"
@@ -47262,7 +47262,7 @@
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 44
     },
     "winner": "MTSU"
@@ -47382,13 +47382,13 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 38
     },
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 39
     },
     "winner": "NIU"
@@ -47418,7 +47418,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 24
     },
     "teamB": {
@@ -47454,7 +47454,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 59
     },
     "teamB": {
@@ -47694,7 +47694,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 15
     },
     "winner": "TOL"
@@ -47850,7 +47850,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 26
     },
     "teamB": {
@@ -47958,7 +47958,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 16
     },
     "teamB": {
@@ -47976,7 +47976,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 34
     },
     "teamB": {
@@ -48000,7 +48000,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 34
     },
     "winner": "WKU"
@@ -48108,7 +48108,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 14
     },
     "winner": "TA&M"
@@ -48180,7 +48180,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 14
     },
     "winner": "ECU"
@@ -48450,7 +48450,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 30
     },
     "winner": "UNT"
@@ -48594,7 +48594,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 21
     },
     "winner": "OU"
@@ -48660,7 +48660,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 35
     },
     "teamB": {
@@ -48720,7 +48720,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 20
     },
     "winner": "CLEM"
@@ -48738,7 +48738,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 20
     },
     "winner": "ODU"
@@ -48750,7 +48750,7 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 45
     },
     "teamB": {
@@ -48822,7 +48822,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 28
     },
     "teamB": {
@@ -49026,7 +49026,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 34
     },
     "winner": "ND"
@@ -49164,13 +49164,13 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 30
     },
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 42
     },
     "winner": "CMU"
@@ -49188,7 +49188,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 47
     },
     "winner": "KENT"
@@ -49314,7 +49314,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 38
     },
     "winner": "UAB"
@@ -49380,7 +49380,7 @@
     "teamA": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 58
     },
     "teamB": {
@@ -49530,7 +49530,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 38
     },
     "winner": "UNT"
@@ -49632,13 +49632,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 48
     },
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 21
     },
     "winner": "WKU"
@@ -49794,7 +49794,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 14
     },
     "teamB": {
@@ -49848,7 +49848,7 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 13
     },
     "teamB": {
@@ -49992,7 +49992,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 42
     },
     "teamB": {
@@ -50010,7 +50010,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 40
     },
     "teamB": {
@@ -50190,7 +50190,7 @@
     "teamA": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 45
     },
     "teamB": {
@@ -50226,7 +50226,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 30
     },
     "teamB": {
@@ -50262,7 +50262,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 54
     },
     "teamB": {
@@ -50286,7 +50286,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 23
     },
     "winner": "PITT"
@@ -50298,7 +50298,7 @@
     "teamA": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 28
     },
     "teamB": {
@@ -50592,7 +50592,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 42
     },
     "winner": "WKU"
@@ -50640,7 +50640,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 42
     },
     "teamB": {
@@ -50766,7 +50766,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 41
     },
     "teamB": {
@@ -50784,7 +50784,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 50
     },
     "teamB": {
@@ -50808,7 +50808,7 @@
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 16
     },
     "winner": "ODU"
@@ -50856,7 +50856,7 @@
     "teamA": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 31
     },
     "teamB": {
@@ -50892,7 +50892,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 20
     },
     "teamB": {
@@ -50934,7 +50934,7 @@
     "teamB": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 28
     },
     "winner": "MIZ"
@@ -51276,7 +51276,7 @@
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 21
     },
     "winner": "EMU"
@@ -51312,7 +51312,7 @@
     "teamB": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 33
     },
     "winner": "NIU"
@@ -51330,7 +51330,7 @@
     "teamB": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 37
     },
     "winner": "CMU"
@@ -51360,7 +51360,7 @@
     "teamA": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 19
     },
     "teamB": {
@@ -51474,7 +51474,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 14
     },
     "winner": "TULN"
@@ -51546,7 +51546,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 26
     },
     "winner": "FSU"
@@ -51558,13 +51558,13 @@
     "teamA": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 52
     },
     "teamB": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 17
     },
     "winner": "WKU"
@@ -51774,7 +51774,7 @@
     "teamA": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 17
     },
     "teamB": {
@@ -52158,7 +52158,7 @@
     "teamB": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 49
     },
     "winner": "UNT"
@@ -52170,7 +52170,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 21
     },
     "teamB": {
@@ -52278,7 +52278,7 @@
     "teamA": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 0
     },
     "teamB": {
@@ -52368,13 +52368,13 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 21
     },
     "teamB": {
       "name": "Western Michigan",
       "abbr": "WMU",
-      "logo": "icons/westernMichigan.png",
+      "logo": "icons/western-michigan.png",
       "score": 42
     },
     "winner": "WMU"
@@ -52458,7 +52458,7 @@
     "teamA": {
       "name": "Central Michigan",
       "abbr": "CMU",
-      "logo": "icons/centralMichigan.png",
+      "logo": "icons/central-michigan.png",
       "score": 31
     },
     "teamB": {
@@ -52572,7 +52572,7 @@
     "teamB": {
       "name": "South Florida",
       "abbr": "USF",
-      "logo": "icons/southFlorida.png",
+      "logo": "icons/south-florida.png",
       "score": 13
     },
     "winner": "UCF"
@@ -52698,7 +52698,7 @@
     "teamB": {
       "name": "North Carolina",
       "abbr": "UNC",
-      "logo": "icons/northCarolina.png",
+      "logo": "icons/north-carolina.png",
       "score": 30
     },
     "winner": "NCSU"
@@ -52806,7 +52806,7 @@
     "teamB": {
       "name": "Florida State",
       "abbr": "FSU",
-      "logo": "icons/floridaState.png",
+      "logo": "icons/florida-state.png",
       "score": 21
     },
     "winner": "FLA"
@@ -52842,7 +52842,7 @@
     "teamB": {
       "name": "Texas Tech",
       "abbr": "TTU",
-      "logo": "icons/texasTech.png",
+      "logo": "icons/texas-tech.png",
       "score": 24
     },
     "winner": "BAY"
@@ -52950,7 +52950,7 @@
     "teamB": {
       "name": "Louisiana Tech",
       "abbr": "LT",
-      "logo": "icons/LouisianaTech.png",
+      "logo": "icons/louisiana-tech.png",
       "score": 31
     },
     "winner": "RICE"
@@ -52998,7 +52998,7 @@
     "teamA": {
       "name": "North Texas",
       "abbr": "UNT",
-      "logo": "icons/northTexas.png",
+      "logo": "icons/north-texas.png",
       "score": 45
     },
     "teamB": {
@@ -53148,7 +53148,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 53
     },
     "winner": "WKU"
@@ -53358,13 +53358,13 @@
     "teamA": {
       "name": "Florida Atlantic",
       "abbr": "FAU",
-      "logo": "icons/floridaAtlantic.png",
+      "logo": "icons/florida-atlantic.png",
       "score": 17
     },
     "teamB": {
       "name": "Middle Tennessee",
       "abbr": "MTSU",
-      "logo": "icons/middleTennessee.png",
+      "logo": "icons/middle-tennessee.png",
       "score": 27
     },
     "winner": "MTSU"
@@ -53376,7 +53376,7 @@
     "teamA": {
       "name": "South Carolina",
       "abbr": "SC",
-      "logo": "icons/southCarolina.png",
+      "logo": "icons/south-carolina.png",
       "score": 0
     },
     "teamB": {
@@ -53544,7 +53544,7 @@
     "teamB": {
       "name": "Western Kentucky",
       "abbr": "WKU",
-      "logo": "icons/westernKentucky.png",
+      "logo": "icons/western-kentucky.png",
       "score": 41
     },
     "winner": "UTSA"
@@ -53592,7 +53592,7 @@
     "teamA": {
       "name": "Northern Illinois",
       "abbr": "NIU",
-      "logo": "icons/northernIllinois.png",
+      "logo": "icons/northern-illinois.png",
       "score": 41
     },
     "teamB": {

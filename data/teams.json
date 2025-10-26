@@ -121,7 +121,7 @@
   },
   "Florida Atlantic": {
     "abbr": "FAU",
-    "logo": "icons/floridaAtlantic.png"
+    "logo": "icons/florida-atlantic.png"
   },
   "Florida International": {
     "abbr": "FIU",
@@ -257,7 +257,7 @@
   },
   "Middle Tennessee": {
     "abbr": "MTSU",
-    "logo": "icons/middleTennessee.png"
+    "logo": "icons/middle-tennessee.png"
   },
   "Minnesota": {
     "abbr": "MINN",
@@ -393,7 +393,7 @@
   },
   "South Carolina": {
     "abbr": "SC",
-    "logo": "icons/southCarolina.png"
+    "logo": "icons/south-carolina.png"
   },
   "Southern Miss": {
     "abbr": "USM",
@@ -437,7 +437,7 @@
   },
   "Texas Tech": {
     "abbr": "TTU",
-    "logo": "icons/texasTech.png"
+    "logo": "icons/texas-tech.png"
   },
   "Toledo": {
     "abbr": "TOL",
