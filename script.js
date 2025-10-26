@@ -1,11 +1,19 @@
-/* Guess the Winner – CFB-only, local JSON first, API later. 3-strike streak.
+/* Guess the Winner – CFB-only, local JSON first, API later. 3-strike score system.
    Data format aligns to /data/games.json and /data/teams.json.
 */
+
+// ============================================================================
+// CONFIGURATION
+// ============================================================================
 
 const CONFIG = {
   dataSource: 'local',   // 'local' | 'cfbd' (future)
   maxStrikes: 3
 };
+
+// ============================================================================
+// DOM ELEMENTS
+// ============================================================================
 
 const els = {
   scoreChip: document.getElementById('scoreChip'),
@@ -16,7 +24,11 @@ const els = {
   btnB: document.getElementById('btnB'),
   resultRow: document.getElementById('resultRow'),
   nextBtn: document.getElementById('nextBtn'),
-  strikeDots: [document.getElementById('strike1'), document.getElementById('strike2'), document.getElementById('strike3')],
+  strikeDots: [
+    document.getElementById('strike1'), 
+    document.getElementById('strike2'), 
+    document.getElementById('strike3')
+  ],
   welcomeModal: document.getElementById('welcomeModal'),
   startGameBtn: document.getElementById('startGameBtn'),
   gameOverText: document.getElementById('gameOverText'),
@@ -24,6 +36,10 @@ const els = {
   shareBtn: document.getElementById('shareBtn'),
   howBtn: document.getElementById('howBtn')
 };
+
+// ============================================================================
+// GAME STATE
+// ============================================================================
 
 const state = {
   games: [],
@@ -34,25 +50,44 @@ const state = {
   answering: false
 };
 
+// ============================================================================
+// LOCAL STORAGE UTILITIES
+// ============================================================================
+
 const LS = {
   get(key, fallback) {
-    try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch { return fallback; }
+    try { 
+      const v = localStorage.getItem(key); 
+      return v ? JSON.parse(v) : fallback; 
+    } catch { 
+      return fallback; 
+    }
   },
-  set(key, val) { localStorage.setItem(key, JSON.stringify(val)); }
+  set(key, val) { 
+    localStorage.setItem(key, JSON.stringify(val)); 
+  }
 };
 
-// Stats
+// ============================================================================
+// GAME STATISTICS
+// ============================================================================
+
 let score = LS.get('gtw.score', 0);
 let bestScore = LS.get('gtw.best', 0);
 let strikes = LS.get('gtw.strikes', 0);
 let gamesPlayed = LS.get('gtw.played', 0);
 let correctCount = LS.get('gtw.correct', 0);
 
+// ============================================================================
+// UI FUNCTIONS
+// ============================================================================
+
 function updateHeader() {
   els.scoreChip.textContent = `Score: ${score}`;
   els.bestChip.textContent = `Best: ${bestScore}`;
   const acc = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
   els.accuracyChip.textContent = `Acc: ${acc}%`;
+  
   els.strikeDots.forEach((dot, idx) => {
     dot.classList.toggle('filled', idx < strikes);
     dot.classList.toggle('empty', idx >= strikes);
@@ -74,7 +109,12 @@ function boundNoScroll() {
 
 function renderTeamButton(btn, team) {
   btn.innerHTML = `
-    <div class="team-logo">${team.logo ? `<img src="${team.logo}" alt="${team.name} logo" width="44" height="44" />` : `<span>${team.abbr || team.name.slice(0,3).toUpperCase()}</span>`}</div>
+    <div class="team-logo">
+      ${team.logo 
+        ? `<img src="${team.logo}" alt="${team.name} logo" width="64" height="64" />` 
+        : `<span>${team.abbr || team.name.slice(0,3).toUpperCase()}</span>`
+      }
+    </div>
     <div class="team-name">${team.name}</div>
   `;
 }
@@ -83,6 +123,10 @@ function setButtonsEnabled(enabled) {
   els.btnA.disabled = !enabled;
   els.btnB.disabled = !enabled;
 }
+
+// ============================================================================
+// GAME LOGIC
+// ============================================================================
 
 function renderGame(game) {
   state.current = game;
@@ -116,6 +160,7 @@ function handleGuess(choiceAbbr) {
   const g = state.current;
   const correct = (choiceAbbr === g.winner);
   gamesPlayed++;
+  
   if (correct) {
     score++;
     correctCount++;
@@ -187,22 +232,9 @@ function randomFromArray(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function formatDate(iso) {
-  // yyyy-mm-dd -> Mon DD, YYYY
-  if (!iso) return '';
-  const d = new Date(iso);
-  if (String(d) === 'Invalid Date') return iso;
-  return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' });
-}
-
-function dateHash(yyyymmdd) {
-  let h = 0;
-  for (let i = 0; i < yyyymmdd.length; i++) h = (h * 31 + yyyymmdd.charCodeAt(i)) >>> 0;
-  return h;
-}
-
-
-
+// ============================================================================
+// GAME CONTROL FUNCTIONS
+// ============================================================================
 
 function restart() {
   score = 0;
@@ -238,6 +270,33 @@ function resetGame() {
   renderGame(pickNextGame() || randomFromArray(state.games));
 }
 
+// ============================================================================
+// UTILITY FUNCTIONS
+// ============================================================================
+
+function formatDate(iso) {
+  // yyyy-mm-dd -> Mon DD, YYYY
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (String(d) === 'Invalid Date') return iso;
+  return d.toLocaleDateString(undefined, { 
+    month: 'short', 
+    day: 'numeric', 
+    year: 'numeric' 
+  });
+}
+
+function dateHash(yyyymmdd) {
+  let h = 0;
+  for (let i = 0; i < yyyymmdd.length; i++) {
+    h = (h * 31 + yyyymmdd.charCodeAt(i)) >>> 0;
+  }
+  return h;
+}
+
+// ============================================================================
+// SOCIAL & HELP FUNCTIONS
+// ============================================================================
 
 function shareScore() {
   const url = location.href;
@@ -247,7 +306,7 @@ function shareScore() {
 }
 
 function howTo() {
-  alert('Tap the team that won. You have 3 strikes before your score resets.');
+  alert('Historical CFB games will display. Tap the team that won. You get 3 strikes before your score resets.');
 }
 
 function showWelcome() {
@@ -262,6 +321,10 @@ function startGame() {
   hideWelcome();
   renderGame(pickNextGame() || randomFromArray(state.games));
 }
+
+// ============================================================================
+// DATA LOADING
+// ============================================================================
 
 async function loadLocalData() {
   const [teamsRes, gamesRes] = await Promise.all([
@@ -287,6 +350,37 @@ function resolveTeamAsset(team) {
   const logo = byName?.logo || (team.abbr ? `logos/${team.abbr}.png` : '');
   return { ...team, logo };
 }
+
+// ============================================================================
+// SERVICE WORKER
+// ============================================================================
+
+function registerSW() {
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js').catch(() => {});
+  }
+}
+
+// ============================================================================
+// INITIALIZATION
+// ============================================================================
+
+window.addEventListener('DOMContentLoaded', async () => {
+  // UI events
+  els.nextBtn.addEventListener('click', nextGame);
+  els.startGameBtn.addEventListener('click', startGame);
+  els.resetBtn.addEventListener('click', resetGame);
+  els.shareBtn.addEventListener('click', shareScore);
+  els.howBtn.addEventListener('click', howTo);
+
+  updateHeader();
+  registerSW();
+
+  await loadLocalData();
+
+  // Show welcome screen first
+  showWelcome();
+});
 
 /* CFBD example (Phase 2) – keep commented for now:
 
@@ -319,27 +413,3 @@ function resolveFromTeamsJson(name, score) {
   return { name, abbr: t.abbr || name.slice(0,3).toUpperCase(), logo: t.logo || '', score };
 }
 */
-
-function registerSW() {
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js').catch(() => {});
-  }
-}
-
-/* Init */
-window.addEventListener('DOMContentLoaded', async () => {
-  // UI events
-  els.nextBtn.addEventListener('click', nextGame);
-  els.startGameBtn.addEventListener('click', startGame);
-  els.resetBtn.addEventListener('click', resetGame);
-  els.shareBtn.addEventListener('click', shareScore);
-  els.howBtn.addEventListener('click', howTo);
-
-  updateHeader();
-  registerSW();
-
-  await loadLocalData();
-
-  // Show welcome screen first
-  showWelcome();
-});
