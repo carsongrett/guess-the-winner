@@ -76,11 +76,11 @@ async function fetchFromCFBD(season = 2023) {
 function normalizeCFBDGame(row, teams) {
   if (!row.homeTeam || !row.awayTeam || row.homePoints == null || row.awayPoints == null || !row.completed) return null;
   
-  const teamAName = row.homeTeam;
-  const teamBName = row.awayTeam;
-  const teamA = resolveTeam(teamAName, row.homePoints, teams);
-  const teamB = resolveTeam(teamBName, row.awayPoints, teams);
-  const winner = row.homePoints > row.awayPoints ? teamA.abbr : teamB.abbr;
+  const teamAName = row.awayTeam;
+  const teamBName = row.homeTeam;
+  const teamA = resolveTeam(teamAName, row.awayPoints, teams);
+  const teamB = resolveTeam(teamBName, row.homePoints, teams);
+  const winner = row.homePoints > row.awayPoints ? teamB.abbr : teamA.abbr;
   
   return {
     id: `${row.season}-${row.week}-${teamA.abbr}-${teamB.abbr}`,

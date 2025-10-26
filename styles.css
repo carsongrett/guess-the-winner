@@ -123,6 +123,20 @@ html, body {
   gap: 8px;
 }
 
+.team-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.team-container:first-child {
+  margin-bottom: 8px;
+}
+
+.team-container:last-child {
+  margin-top: 8px;
+}
+
 .team-btn {
   display: grid;
   grid-template-columns: 64px 1fr;
@@ -155,7 +169,73 @@ html, body {
   background: #EFEBCE; /* Beige - logo background */
 }
 
-.team-name { font-size: 30px; }
+.team-name { 
+  font-size: 30px; 
+}
+
+.score-box {
+  width: 60px;
+  height: 40px;
+  background: #000;
+  border: 2px solid #333;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', monospace;
+  font-size: 24px;
+  font-weight: bold;
+  color: #00ff00;
+  text-shadow: 0 0 8px currentColor;
+  box-shadow: inset 0 0 10px rgba(0, 255, 0, 0.3);
+  position: relative;
+}
+
+.score-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(
+    90deg,
+    transparent 0px,
+    rgba(0, 255, 0, 0.1) 1px,
+    transparent 2px
+  );
+  pointer-events: none;
+}
+
+.score-box.winner {
+  color: #00ff00;
+  text-shadow: 0 0 8px #00ff00;
+  box-shadow: inset 0 0 10px rgba(0, 255, 0, 0.3);
+}
+
+.score-box.loser {
+  color: #ff0000;
+  text-shadow: 0 0 8px #ff0000;
+  box-shadow: inset 0 0 10px rgba(255, 0, 0, 0.3);
+}
+
+.score-box.winner::before {
+  background: repeating-linear-gradient(
+    90deg,
+    transparent 0px,
+    rgba(0, 255, 0, 0.1) 1px,
+    transparent 2px
+  );
+}
+
+.score-box.loser::before {
+  background: repeating-linear-gradient(
+    90deg,
+    transparent 0px,
+    rgba(255, 0, 0, 0.1) 1px,
+    transparent 2px
+  );
+}
 
 .vs { 
   text-align: center; 

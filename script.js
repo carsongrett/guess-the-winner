@@ -22,6 +22,8 @@ const els = {
   subtitle: document.getElementById('subtitle'),
   btnA: document.getElementById('btnA'),
   btnB: document.getElementById('btnB'),
+  scoreA: document.getElementById('scoreA'),
+  scoreB: document.getElementById('scoreB'),
   resultRow: document.getElementById('resultRow'),
   nextBtn: document.getElementById('nextBtn'),
   strikeDots: [
@@ -145,6 +147,12 @@ function renderGame(game) {
 
   renderTeamButton(els.btnA, game.teamA);
   renderTeamButton(els.btnB, game.teamB);
+  
+  // Reset score boxes
+  els.scoreA.textContent = '--';
+  els.scoreB.textContent = '--';
+  els.scoreA.className = 'score-box';
+  els.scoreB.className = 'score-box';
 
   els.subtitle.textContent = formatDate(game.date);
 
@@ -183,6 +191,19 @@ function handleGuess(choiceAbbr) {
 
 function showResult(correct, g) {
   els.resultRow.hidden = false;
+  
+  // Populate score boxes with digital score bug
+  els.scoreA.textContent = g.teamA.score;
+  els.scoreB.textContent = g.teamB.score;
+  
+  // Apply winner/loser styling
+  if (g.winner === g.teamA.abbr) {
+    els.scoreA.classList.add('winner');
+    els.scoreB.classList.add('loser');
+  } else {
+    els.scoreA.classList.add('loser');
+    els.scoreB.classList.add('winner');
+  }
   
   // Clear any existing result classes
   els.resultRow.classList.remove('correct', 'wrong');
