@@ -161,6 +161,10 @@ html, body {
   place-items: center;
 }
 
+.modal[hidden] {
+  display: none;
+}
+
 .modal-content {
   background: #000;
   border: 1px solid var(--border);
