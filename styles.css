@@ -54,16 +54,16 @@ html, body {
   gap: 4px; 
   justify-content: center;
   align-items: center;
-  margin-bottom: 2px;
+  margin-bottom: 1px;
 }
 
 .strikes-label {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 16px;
   margin-right: 4px;
 }
 .strike {
-  width: 10px; height: 10px; border: 1px solid var(--fg);
+  width: 15px; height: 15px; border: 1px solid var(--fg);
   display: inline-block;
 }
 .strike.filled { background: var(--fg); }
@@ -77,37 +77,36 @@ html, body {
 
 .card {
   width: 100%;
-  max-width: 460px;
+  max-width: 360px;
   border: 1px solid var(--border);
   padding: 12px;
 }
 
 .subtitle {
   text-align: center;
-  font-size: 12px;
+  font-size: 20px;
   color: var(--muted);
   margin-bottom: 8px;
 }
 
 .matchup {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
   gap: 8px;
 }
 
 .team-btn {
   display: grid;
-  grid-template-columns: 44px 1fr;
+  grid-template-columns: 64px 1fr;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
   width: 100%;
-  padding: 10px;
+  padding: 12px;
   background: transparent;
   color: var(--fg);
   border: 1px solid var(--fg);
   cursor: pointer;
-  min-height: 56px;
+  min-height: 80px;
 }
 
 .team-btn:focus,
@@ -118,19 +117,24 @@ html, body {
 }
 
 .team-logo {
-  width: 44px;
-  height: 44px;
+  width: 64px;
+  height: 64px;
   border: 1px solid var(--border);
   display: grid;
   place-items: center;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   background: #111;
 }
 
-.team-name { font-size: 16px; }
+.team-name { font-size: 30px; }
 
-.vs { text-align: center; color: var(--muted); }
+.vs { 
+  text-align: center; 
+  color: var(--muted);
+  font-size: 22px;
+  padding: 4px 0;
+}
 
 .result-row {
   margin-top: 10px;
