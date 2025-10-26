@@ -194,6 +194,14 @@ html, body {
   cursor: pointer;
 }
 
+.footnote {
+  text-align: left;
+  color: var(--muted);
+  font-size: 15px;
+  margin: 1px 0;
+  font-style: italic;
+}
+
 .ad-banner {
   height: 80px; /* fixed height to avoid layout shift */
   width: 100%;
