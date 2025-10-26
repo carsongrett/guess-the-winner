@@ -11,6 +11,9 @@ const CONFIG = {
   maxStrikes: 3
 };
 
+// Category management
+let currentCategory = 'cfb-2021-2024'; // Default category
+
 // ============================================================================
 // DOM ELEMENTS
 // ============================================================================
@@ -36,7 +39,13 @@ const els = {
   gameOverText: document.getElementById('gameOverText'),
   resetBtn: document.getElementById('resetBtn'),
   shareBtn: document.getElementById('shareBtn'),
-  howBtn: document.getElementById('howBtn')
+  howBtn: document.getElementById('howBtn'),
+  categoryBtns: document.querySelectorAll('.category-btn'),
+  footnote: document.getElementById('footnote'),
+  categoryToggle: document.getElementById('categoryToggle'),
+  categoryDropdown: document.getElementById('categoryDropdown'),
+  currentCategoryName: document.getElementById('currentCategoryName'),
+  categoryOptions: document.querySelectorAll('.category-option')
 };
 
 // ============================================================================
@@ -339,12 +348,107 @@ function hideWelcome() {
 }
 
 function startGame() {
-  hideWelcome();
-  if (state.games.length > 0) {
-    renderGame(pickNextGame() || randomFromArray(state.games));
-  } else {
-    showError('No games available to play');
+  // Load data for selected category first
+  loadCategoryData(currentCategory).then(() => {
+    hideWelcome();
+    if (state.games.length > 0) {
+      renderGame(pickNextGame() || randomFromArray(state.games));
+    } else {
+      showError('No games available to play');
+    }
+  }).catch(error => {
+    console.error('Error loading category data:', error);
+    showError('Error loading game data');
+  });
+}
+
+// Category selection functions
+function selectCategory(categoryId) {
+  // Remove selected class from all buttons
+  els.categoryBtns.forEach(btn => btn.classList.remove('selected'));
+  
+  // Add selected class to clicked button
+  const selectedBtn = document.querySelector(`[data-category="${categoryId}"]`);
+  if (selectedBtn && !selectedBtn.classList.contains('disabled')) {
+    selectedBtn.classList.add('selected');
+    currentCategory = categoryId;
+    
+    // Update header switcher
+    const category = CATEGORIES[categoryId];
+    els.currentCategoryName.textContent = category.name.split(' ').pop();
+    
+    // Enable start button
+    els.startGameBtn.disabled = false;
+    els.startGameBtn.textContent = 'Play Now';
   }
+}
+
+function loadCategoryData(categoryId) {
+  const category = CATEGORIES[categoryId];
+  if (!category || !category.available) {
+    console.error('Category not available:', categoryId);
+    return;
+  }
+  
+  // Update footnote based on category
+  if (categoryId === 'cfb-2021-2024') {
+    els.footnote.textContent = 'Games from 2021-2024.';
+  } else if (categoryId === 'cfb-2025') {
+    els.footnote.textContent = 'Games from 2025 season.';
+  }
+  
+  // Load games and teams data for the selected category
+  return Promise.all([
+    fetch(category.dataFile).then(r => r.json()),
+    fetch(category.teamsFile).then(r => r.json())
+  ]).then(([games, teams]) => {
+    state.games = games;
+    state.teams = teams;
+    console.log(`Loaded ${games.length} games for ${category.name}`);
+  });
+}
+
+// Category switcher functions
+function toggleCategoryDropdown() {
+  const isOpen = !els.categoryDropdown.hidden;
+  els.categoryDropdown.hidden = isOpen;
+  els.categoryToggle.classList.toggle('open', !isOpen);
+}
+
+function switchCategory(categoryId) {
+  const category = CATEGORIES[categoryId];
+  if (!category || !category.available) {
+    console.error('Category not available:', categoryId);
+    return;
+  }
+  
+  // Update current category
+  currentCategory = categoryId;
+  
+  // Update UI
+  els.currentCategoryName.textContent = category.name.split(' ').pop(); // Get last part (e.g., "2021-2024")
+  
+  // Update selected state in dropdown
+  els.categoryOptions.forEach(option => {
+    option.classList.remove('selected');
+    if (option.dataset.category === categoryId) {
+      option.classList.add('selected');
+    }
+  });
+  
+  // Close dropdown
+  els.categoryDropdown.hidden = true;
+  els.categoryToggle.classList.remove('open');
+  
+  // Load new category data and start new game
+  loadCategoryData(categoryId).then(() => {
+    // Reset game state for new category
+    state.seenIds.clear();
+    renderGame(pickNextGame() || randomFromArray(state.games));
+  }).catch(error => {
+    console.error('Error switching category:', error);
+    showError('Error loading new category');
+  });
 }
 
 function showError(message) {
@@ -408,6 +512,33 @@ window.addEventListener('DOMContentLoaded', async () => {
   els.resetBtn.addEventListener('click', resetGame);
   els.shareBtn.addEventListener('click', shareScore);
   els.howBtn.addEventListener('click', howTo);
+  
+  // Category selection events
+  els.categoryBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const categoryId = btn.dataset.category;
+      selectCategory(categoryId);
+    });
+  });
+
+  // Category switcher events
+  els.categoryToggle.addEventListener('click', toggleCategoryDropdown);
+  els.categoryOptions.forEach(option => {
+    option.addEventListener('click', () => {
+      const categoryId = option.dataset.category;
+      if (!option.classList.contains('disabled')) {
+        switchCategory(categoryId);
+      }
+    });
+  });
+  
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.category-switcher')) {
+      els.categoryDropdown.hidden = true;
+      els.categoryToggle.classList.remove('open');
+    }
+  });
 
   updateHeader();
   registerSW();

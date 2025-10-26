@@ -11,10 +11,30 @@
   <div id="app">
     <header class="app-header">
       <div class="brand">Guess the Winner</div>
-      <div class="stats">
-        <div class="chip" id="scoreChip">Score: 0</div>
-        <div class="chip" id="bestChip">Best: 0</div>
-        <div class="chip" id="accuracyChip">Acc: 0%</div>
+      <div class="header-controls">
+        <div class="category-switcher">
+          <button class="category-toggle" id="categoryToggle">
+            <span class="category-icon">🏈</span>
+            <span class="category-name" id="currentCategoryName">2021-2024</span>
+            <span class="dropdown-arrow">▼</span>
+          </button>
+          <div class="category-dropdown" id="categoryDropdown" hidden>
+            <button class="category-option" data-category="cfb-2021-2024">
+              <span class="category-icon">🏈</span>
+              <span class="category-text">2021-2024</span>
+            </button>
+            <button class="category-option disabled" data-category="cfb-2025">
+              <span class="category-icon">🏈</span>
+              <span class="category-text">2025</span>
+              <span class="coming-soon">Soon</span>
+            </button>
+          </div>
+        </div>
+        <div class="stats">
+          <div class="chip" id="scoreChip">Score: 0</div>
+          <div class="chip" id="bestChip">Best: 0</div>
+          <div class="chip" id="accuracyChip">Acc: 0%</div>
+        </div>
       </div>
     </header>
 
@@ -50,7 +70,7 @@
           <button class="next-btn" id="nextBtn" hidden>Next</button>
         </div>
       </div>
-      <div class="footnote">Games from 2021-2024.</div>
+      <div class="footnote" id="footnote">Games from 2021-2024.</div>
       <div class="ad-banner">Space</div>
     </main>
 
@@ -68,18 +88,37 @@
     <div class="modal-content">
       <h3>Welcome to Guess the Winner!</h3>
       <p>Test your college football memory!</p>
+      
+      <!-- Category Selection -->
+      <div class="category-section">
+        <h4>Choose Your Era:</h4>
+        <div class="category-grid">
+          <button class="category-btn" data-category="cfb-2021-2024">
+            <div class="category-icon">🏈</div>
+            <div class="category-name">2021-2024</div>
+            <div class="category-desc">Recent seasons</div>
+          </button>
+          <button class="category-btn disabled" data-category="cfb-2025">
+            <div class="category-icon">🏈</div>
+            <div class="category-name">2025</div>
+            <div class="category-desc">Coming soon</div>
+          </button>
+        </div>
+      </div>
+      
       <ul style="text-align: left; margin: 15px 0;">
         <li>Guess which team won each game</li>
         <li>You get 3 strikes before your score resets</li>
         <li>Build your highest score</li>
-        
       </ul>
+      
       <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
-        <button class="next-btn" id="startGameBtn">Play Now</button>
+        <button class="next-btn" id="startGameBtn" disabled>Select Era</button>
       </div>
     </div>
   </div>
 
+  <script src="categories.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
