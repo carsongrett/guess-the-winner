@@ -45,7 +45,14 @@ const els = {
   categoryToggle: document.getElementById('categoryToggle'),
   categoryDropdown: document.getElementById('categoryDropdown'),
   currentCategoryName: document.getElementById('currentCategoryName'),
-  categoryOptions: document.querySelectorAll('.category-option')
+  categoryOptions: document.querySelectorAll('.category-option'),
+  // Game Over Modal elements
+  gameOverModal: document.getElementById('gameOverModal'),
+  finalScore: document.getElementById('finalScore'),
+  bestScoreDisplay: document.getElementById('bestScoreDisplay'),
+  accuracyDisplay: document.getElementById('accuracyDisplay'),
+  shareScoreBtn: document.getElementById('shareScoreBtn'),
+  playAgainBtn: document.getElementById('playAgainBtn')
 };
 
 // ============================================================================
@@ -151,6 +158,9 @@ function renderGame(game) {
   // Hide Game Over text when starting new game
   els.gameOverText.hidden = true;
   
+  // Hide Game Over modal when starting new game
+  els.gameOverModal.hidden = true;
+  
   setButtonsEnabled(true);
   boundNoScroll();
 
@@ -184,13 +194,10 @@ function handleGuess(choiceAbbr) {
     bestScore = Math.max(bestScore, score);
   } else {
     strikes++;
-    if (strikes >= CONFIG.maxStrikes) {
-      // Reset strikes and score when reaching max strikes
-      strikes = 0;
-      score = 0;
-      // Show Game Over text
-      els.gameOverText.hidden = false;
-    }
+  if (strikes >= CONFIG.maxStrikes) {
+    // Show Game Over modal
+    showGameOverModal();
+  }
   }
 
   saveStats();
@@ -475,6 +482,57 @@ function showError(message) {
   els.nextBtn.hidden = true;
 }
 
+function showGameOverModal() {
+  // Update modal content with current stats
+  els.finalScore.textContent = score;
+  els.bestScoreDisplay.textContent = bestScore;
+  const accuracy = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
+  els.accuracyDisplay.textContent = `${accuracy}%`;
+  
+  // Show the modal
+  els.gameOverModal.hidden = false;
+  
+  // Disable main game buttons
+  setButtonsEnabled(false);
+}
+
+function hideGameOverModal() {
+  els.gameOverModal.hidden = true;
+}
+
+function shareScore() {
+  const category = CATEGORIES[currentCategory];
+  const categoryName = category ? category.name.split(' ').pop() : 'CFB';
+  const accuracy = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
+  
+  const shareText = `Just scored ${score} points in Guess the Winner (${categoryName})!\n\n` +
+    `Final Stats:\n` +
+    `• Score: ${score}\n` +
+    `• Best Score: ${bestScore}\n` +
+    `• Lifetime Accuracy: ${accuracy}%\n\n` +
+    `Can you beat my score?`;
+  
+  // Create Twitter share URL
+  const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(window.location.href)}`;
+  
+  // Open Twitter in a new window/tab
+  window.open(twitterUrl, '_blank', 'width=550,height=420');
+}
+
+function playAgain() {
+  // Reset game state
+  strikes = 0;
+  score = 0;
+  state.seenIds.clear();
+  
+  // Hide modal
+  hideGameOverModal();
+  
+  // Start new game
+  updateHeader();
+  renderGame(pickNextGame() || randomFromArray(state.games));
+}
+
 // ============================================================================
 // DATA LOADING
 // ============================================================================
@@ -554,6 +612,10 @@ window.addEventListener('DOMContentLoaded', async () => {
       els.categoryToggle.classList.remove('open');
     }
   });
+
+  // Game Over Modal events
+  els.shareScoreBtn.addEventListener('click', shareScore);
+  els.playAgainBtn.addEventListener('click', playAgain);
 
   updateHeader();
   registerSW();

@@ -204,7 +204,7 @@
     "teamA": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 0
     },
     "teamB": {
@@ -222,7 +222,7 @@
     "teamA": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 34
     },
     "teamB": {
@@ -408,7 +408,7 @@
     "teamB": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 17
     },
     "winner": "MSST"
@@ -582,7 +582,7 @@
     "teamA": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 24
     },
     "teamB": {
@@ -906,7 +906,7 @@
     "teamA": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 0
     },
     "teamB": {
@@ -1248,7 +1248,7 @@
     "teamA": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 17
     },
     "teamB": {
@@ -1308,7 +1308,7 @@
     "teamB": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 36
     },
     "winner": "TXST"
@@ -1608,7 +1608,7 @@
     "teamA": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 40
     },
     "teamB": {
@@ -2226,7 +2226,7 @@
     "teamB": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 38
     },
     "winner": "FIU"
@@ -2256,13 +2256,13 @@
     "teamA": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 22
     },
     "teamB": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 38
     },
     "winner": "USM"
@@ -2562,7 +2562,7 @@
     "teamA": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 20
     },
     "teamB": {
@@ -2748,7 +2748,7 @@
     "teamB": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 38
     },
     "winner": "UNLV"
@@ -3126,7 +3126,7 @@
     "teamB": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 16
     },
     "winner": "DEL"
@@ -3264,7 +3264,7 @@
     "teamA": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 20
     },
     "teamB": {
@@ -3426,7 +3426,7 @@
     "teamA": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 17
     },
     "teamB": {
@@ -4026,7 +4026,7 @@
     "teamB": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 24
     },
     "winner": "CAL"
@@ -4170,7 +4170,7 @@
     "teamB": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 42
     },
     "winner": "USM"
@@ -4272,7 +4272,7 @@
     "teamA": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 14
     },
     "teamB": {
@@ -4578,7 +4578,7 @@
     "teamA": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 7
     },
     "teamB": {
@@ -4722,7 +4722,7 @@
     "teamA": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 21
     },
     "teamB": {
@@ -4866,7 +4866,7 @@
     "teamA": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 25
     },
     "teamB": {
@@ -4884,7 +4884,7 @@
     "teamA": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 10
     },
     "teamB": {
@@ -5016,7 +5016,7 @@
     "teamB": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 27
     },
     "winner": "APP"
@@ -5424,7 +5424,7 @@
     "teamA": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 38
     },
     "teamB": {
@@ -5640,7 +5640,7 @@
     "teamA": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 20
     },
     "teamB": {
@@ -5820,7 +5820,7 @@
     "teamA": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 41
     },
     "teamB": {
@@ -6150,7 +6150,7 @@
     "teamB": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 10
     },
     "winner": "CLEM"
@@ -6168,7 +6168,7 @@
     "teamB": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 61
     },
     "winner": "UTSA"
@@ -6378,7 +6378,7 @@
     "teamA": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 25
     },
     "teamB": {
@@ -6636,7 +6636,7 @@
     "teamB": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 23
     },
     "winner": "CONN"
@@ -6654,7 +6654,7 @@
     "teamB": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 44
     },
     "winner": "M-OH"
@@ -6798,7 +6798,7 @@
     "teamB": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 37
     },
     "winner": "CCU"
@@ -6918,7 +6918,7 @@
     "teamA": {
       "name": "UTSA",
       "abbr": "UTSA",
-      "logo": "icons/utsa.png",
+      "logo": "icons/texasSanAntonio.png",
       "score": 17
     },
     "teamB": {
@@ -7098,7 +7098,7 @@
     "teamA": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 22
     },
     "teamB": {
@@ -7410,7 +7410,7 @@
     "teamB": {
       "name": "Florida International",
       "abbr": "FIU",
-      "logo": "icons/florida-international.png",
+      "logo": "icons/floridaIntl.png",
       "score": 26
     },
     "winner": "KENN"
@@ -7638,7 +7638,7 @@
     "teamA": {
       "name": "App State",
       "abbr": "APP",
-      "logo": "icons/app-state.png",
+      "logo": "icons/appalachianState.png",
       "score": 21
     },
     "teamB": {
@@ -7968,7 +7968,7 @@
     "teamB": {
       "name": "Southern Miss",
       "abbr": "USM",
-      "logo": "icons/southern-miss.png",
+      "logo": "icons/southernMississippi.png",
       "score": 49
     },
     "winner": "USM"
@@ -8022,7 +8022,7 @@
     "teamB": {
       "name": "Miami (OH)",
       "abbr": "M-OH",
-      "logo": "icons/miami-(oh).png",
+      "logo": "icons/miamiOH.png",
       "score": 26
     },
     "winner": "M-OH"
@@ -8268,7 +8268,7 @@
     "teamA": {
       "name": "Boston College",
       "abbr": "BC",
-      "logo": "icons/boston-college.png",
+      "logo": "icons/boston.png",
       "score": 24
     },
     "teamB": {

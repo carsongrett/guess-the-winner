@@ -10,15 +10,13 @@
 
 * { box-sizing: border-box; }
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
 html, body {
   margin: 0;
   padding: 0;
   height: 100%;
   background: var(--bg);
   color: var(--fg);
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 #app {
@@ -129,7 +127,11 @@ html, body {
   gap: 8px;
 }
 
-.brand { font-weight: 700; letter-spacing: 0.5px; }
+.brand { 
+  font-weight: 700; 
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
 
 .stats { display: flex; gap: 6px; }
 
@@ -258,7 +260,8 @@ html, body {
 }
 
 .team-name { 
-  font-size: 30px; 
+  font-size: 30px;
+  letter-spacing: 0.5px;
 }
 
 .score-box {
@@ -479,4 +482,194 @@ html, body {
 /* Keep everything within the viewport without scrolling on typical phones */
 @media (max-height: 720px) {
   .ad-banner { height: 60px; }
+}
+
+/* ============================================================================
+   GAME OVER MODAL
+   ============================================================================ */
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  background: var(--bg);
+  border-radius: 12px;
+  padding: 0;
+  max-width: 400px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+  border: 1px solid var(--border);
+}
+
+.modal-header {
+  padding: 24px 24px 16px;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--fg);
+}
+
+.modal-body {
+  padding: 24px;
+}
+
+.final-score {
+  text-align: center;
+  margin-bottom: 24px;
+  padding: 20px;
+  background: var(--surface);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.score-label {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.score-value {
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1;
+}
+
+.score-details {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.detail-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.detail-item:last-child {
+  border-bottom: none;
+}
+
+.detail-label {
+  font-size: 14px;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.detail-value {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.modal-footer {
+  padding: 16px 24px 24px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.share-btn {
+  background: var(--surface);
+  color: var(--fg);
+  border: 2px solid #1DA1F2;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.2s ease;
+}
+
+.share-btn:hover {
+  background: #1DA1F2;
+  color: white;
+  transform: translateY(-1px);
+}
+
+.share-btn:active {
+  transform: translateY(0);
+}
+
+.share-icon {
+  font-size: 16px;
+}
+
+.twitter-icon {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+.play-again-btn {
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.play-again-btn:hover {
+  background: var(--hover);
+  transform: translateY(-1px);
+}
+
+.play-again-btn:active {
+  transform: translateY(0);
+}
+
+/* Mobile responsiveness for game over modal */
+@media (max-width: 480px) {
+  .modal-content {
+    width: 95%;
+    margin: 20px;
+  }
+  
+  .modal-header h2 {
+    font-size: 20px;
+  }
+  
+  .score-value {
+    font-size: 40px;
+  }
+  
+  .modal-footer {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .share-btn,
+  .play-again-btn {
+    width: 100%;
+    justify-content: center;
+  }
 }

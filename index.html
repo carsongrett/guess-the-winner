@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Guess the Winner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <link rel="manifest" href="manifest.json">
 </head>
@@ -113,6 +116,40 @@
       
       <div style="display: flex; gap: 10px; justify-content: center; margin-top: 15px;">
         <button class="next-btn" id="startGameBtn" disabled>Select Era</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Game Over Modal -->
+  <div class="modal" id="gameOverModal" hidden>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Game Over!</h2>
+      </div>
+      <div class="modal-body">
+        <div class="final-score">
+          <div class="score-label">Final Score</div>
+          <div class="score-value" id="finalScore">0</div>
+        </div>
+        <div class="score-details">
+          <div class="detail-item">
+            <span class="detail-label">Best Score:</span>
+            <span class="detail-value" id="bestScoreDisplay">0</span>
+          </div>
+          <div class="detail-item">
+            <span class="detail-label">Lifetime Accuracy:</span>
+            <span class="detail-value" id="accuracyDisplay">0%</span>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="share-btn" id="shareScoreBtn">
+          <svg class="twitter-icon" viewBox="0 0 24 24" width="16" height="16">
+            <path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+          Share Score
+        </button>
+        <button class="next-btn" id="playAgainBtn">Play Again</button>
       </div>
     </div>
   </div>

@@ -89,7 +89,7 @@
   },
   "Miami (OH)": {
     "abbr": "M-OH",
-    "logo": "icons/miami-(oh).png"
+    "logo": "icons/miamiOH.png"
   },
   "Wisconsin": {
     "abbr": "WIS",
@@ -97,7 +97,7 @@
   },
   "App State": {
     "abbr": "APP",
-    "logo": "icons/app-state.png"
+    "logo": "icons/appalachianState.png"
   },
   "Charlotte": {
     "abbr": "COLLE",
@@ -177,7 +177,7 @@
   },
   "Southern Miss": {
     "abbr": "USM",
-    "logo": "icons/southern-miss.png"
+    "logo": "icons/southernMississippi.png"
   },
   "Northwestern": {
     "abbr": "NU",
@@ -253,7 +253,7 @@
   },
   "UTSA": {
     "abbr": "UTSA",
-    "logo": "icons/utsa.png"
+    "logo": "icons/texasSanAntonio.png"
   },
   "Texas A&M": {
     "abbr": "TA&M",
@@ -385,7 +385,7 @@
   },
   "Florida International": {
     "abbr": "FIU",
-    "logo": "icons/florida-international.png"
+    "logo": "icons/floridaIntl.png"
   },
   "Pittsburgh": {
     "abbr": "PITT",
@@ -509,7 +509,7 @@
   },
   "Boston College": {
     "abbr": "BC",
-    "logo": "icons/boston-college.png"
+    "logo": "icons/boston.png"
   },
   "Arizona State": {
     "abbr": "ASU",
