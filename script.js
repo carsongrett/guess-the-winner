@@ -94,7 +94,7 @@ function renderGame(game) {
   renderTeamButton(els.btnA, game.teamA);
   renderTeamButton(els.btnB, game.teamB);
 
-  els.subtitle.textContent = `Season ${game.season} • ${formatDate(game.date)}`;
+  els.subtitle.textContent = formatDate(game.date);
 
   els.btnA.onclick = () => handleGuess(game.teamA.abbr);
   els.btnB.onclick = () => handleGuess(game.teamB.abbr);
@@ -115,8 +115,9 @@ function handleGuess(choiceAbbr) {
   } else {
     strikes++;
     if (strikes >= CONFIG.maxStrikes) {
-      // Reset strikes and continue playing
+      // Reset strikes and streak when reaching max strikes
       strikes = 0;
+      streak = 0;
     }
   }
 
