@@ -1,12 +1,11 @@
-const CACHE_NAME = 'gtw-v2'; // Updated to force cache refresh
+const CACHE_NAME = 'gtw-v3'; // Updated to include new favicon
 const ASSETS = [
   '/',
   '/index.html',
   '/styles.css',
   '/script.js',
   '/manifest.json',
-  '/icons/georgia.png',
-  '/icons/alabama.png',
+  '/game favicon/Beige and Cobalt Modern Retro Logo.png',
   '/data/games.json',
   '/data/teams.json',
   '/data/games-2025.json',

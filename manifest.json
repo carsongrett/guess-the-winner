@@ -3,10 +3,11 @@
   "short_name": "GTW",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#EFEBCE",
+  "theme_color": "#EFEBCE",
   "icons": [
-    { "src": "icons/georgia.png", "sizes": "150x150", "type": "image/png" },
-    { "src": "icons/alabama.png", "sizes": "150x150", "type": "image/png" }
-    ]
+    { "src": "game favicon/Beige and Cobalt Modern Retro Logo.png", "sizes": "500x500", "type": "image/png", "purpose": "any maskable" },
+    { "src": "game favicon/Beige and Cobalt Modern Retro Logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "game favicon/Beige and Cobalt Modern Retro Logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
 }
