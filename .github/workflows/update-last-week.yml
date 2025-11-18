@@ -1,0 +1,50 @@
+name: Update Last Week Games
+
+on:
+  schedule:
+    # Run every Sunday at 4 PM UTC (10 AM Central Time)
+    # Note: During CDT (UTC-5), this runs at 11 AM CT; during CST (UTC-6), this runs at 10 AM CT
+    - cron: '0 16 * * 0'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-games:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Fetch latest games
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: node fetch-data-node.js
+      
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📝 Changes detected"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No changes detected"
+          fi
+      
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/games-2025.json data/teams-2025.json
+          git commit -m "Auto-update: Fetch latest week games [skip ci]" || exit 0
+          git push
+          echo "✅ Changes committed and pushed"
+

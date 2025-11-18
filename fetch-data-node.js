@@ -2,7 +2,7 @@
 const https = require('https');
 
 const CONFIG = {
-  apiKey: 'AYkI+Yu/PHFp5lbWxTjrAjN0q4DFidrdJgSoiGvPXve807qSdw0BJ6c08Vf0kFcN',
+  apiKey: process.env.CFBD_API_KEY || 'AYkI+Yu/PHFp5lbWxTjrAjN0q4DFidrdJgSoiGvPXve807qSdw0BJ6c08Vf0kFcN',
   apiBaseUrl: 'https://api.collegefootballdata.com',
   rateLimitDelay: 1000,
   seasons: [2025], // Fetch 2025 season data
