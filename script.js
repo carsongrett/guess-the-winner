@@ -53,7 +53,11 @@ const els = {
   accuracyDisplay: document.getElementById('accuracyDisplay'),
   shareScoreBtn: document.getElementById('shareScoreBtn'),
   playAgainBtn: document.getElementById('playAgainBtn'),
-  modalCloseBtn: document.getElementById('modalCloseBtn')
+  modalCloseBtn: document.getElementById('modalCloseBtn'),
+  // Legal links
+  privacyLink: document.getElementById('privacyLink'),
+  termsLink: document.getElementById('termsLink'),
+  contactLink: document.getElementById('contactLink')
 };
 
 // ============================================================================
@@ -363,6 +367,74 @@ function howTo() {
   alert('Historical CFB games will display. Tap the team that won. You get 3 strikes before your score resets.');
 }
 
+function showPrivacyPolicy() {
+  alert(`PRIVACY POLICY
+
+Last Updated: ${new Date().toLocaleDateString()}
+
+Information We Collect:
+We may collect information about your use of this application, including game scores and preferences stored locally on your device.
+
+Third-Party Advertising:
+This application uses third-party advertising services, including Google AdSense, to display advertisements. These third-party advertisers may use cookies and similar technologies to collect information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+Cookies and Personalized Ads:
+We and our advertising partners use cookies and similar tracking technologies to:
+- Deliver personalized advertisements based on your interests
+- Analyze and improve our services
+- Track usage patterns and preferences
+
+You can opt out of personalized advertising by visiting your Google Ad Settings or by adjusting your browser settings to refuse cookies.
+
+Data Storage:
+Game scores and statistics are stored locally on your device using browser localStorage. We do not transmit this data to external servers.
+
+Contact:
+For questions about this Privacy Policy, please use the Contact link in the footer.
+
+By using this application, you consent to this Privacy Policy.`);
+}
+
+function showTermsOfService() {
+  alert(`TERMS OF SERVICE
+
+Last Updated: ${new Date().toLocaleDateString()}
+
+Acceptance of Terms:
+By accessing and using this application, you accept and agree to be bound by these Terms of Service.
+
+Use of Service:
+- This application is provided for entertainment purposes only
+- You may not use this application for any illegal or unauthorized purpose
+- You are responsible for maintaining the confidentiality of any information stored locally on your device
+
+Intellectual Property:
+All content, features, and functionality of this application are owned by us and are protected by copyright, trademark, and other intellectual property laws.
+
+Third-Party Services:
+This application may contain links to third-party websites or services, including advertising services. We are not responsible for the content or practices of these third-party services.
+
+Disclaimer:
+This application is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the application will be uninterrupted, secure, or error-free.
+
+Limitation of Liability:
+We shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of this application.
+
+Changes to Terms:
+We reserve the right to modify these Terms of Service at any time. Your continued use of the application after any changes constitutes acceptance of the new terms.
+
+Contact:
+For questions about these Terms of Service, please use the Contact link in the footer.`);
+}
+
+function showContact() {
+  alert(`CONTACT
+
+For questions, concerns, or support regarding this application, please contact us through the appropriate channels.
+
+We aim to respond to all inquiries in a timely manner.`);
+}
+
 function showWelcome() {
   els.welcomeModal.hidden = false;
 }
@@ -664,6 +736,11 @@ window.addEventListener('DOMContentLoaded', async () => {
   els.shareScoreBtn.addEventListener('click', shareScore);
   els.playAgainBtn.addEventListener('click', playAgain);
   els.modalCloseBtn.addEventListener('click', hideGameOverModal);
+
+  // Legal links events
+  els.privacyLink.addEventListener('click', showPrivacyPolicy);
+  els.termsLink.addEventListener('click', showTermsOfService);
+  els.contactLink.addEventListener('click', showContact);
 
   updateHeader();
   registerSW();

@@ -125,6 +125,30 @@ html, body {
   border-top: 1px solid var(--border);
   border-bottom: none;
   gap: 8px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.legal-links {
+  font-size: 10px;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.legal-link {
+  cursor: pointer;
+  text-decoration: underline;
+  color: var(--muted);
+}
+
+.legal-link:hover {
+  color: var(--fg);
+}
+
+.legal-separator {
+  color: var(--muted);
 }
 
 .brand { 
