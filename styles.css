@@ -667,6 +667,15 @@ html, body {
   transform: translateY(0);
 }
 
+.share-btn-sms {
+  border-color: #25D366;
+}
+
+.share-btn-sms:hover {
+  background: #25D366;
+  color: white;
+}
+
 .share-icon {
   font-size: 16px;
 }

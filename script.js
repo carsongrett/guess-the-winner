@@ -52,6 +52,7 @@ const els = {
   bestScoreDisplay: document.getElementById('bestScoreDisplay'),
   accuracyDisplay: document.getElementById('accuracyDisplay'),
   shareScoreBtn: document.getElementById('shareScoreBtn'),
+  shareSMSBtn: document.getElementById('shareSMSBtn'),
   playAgainBtn: document.getElementById('playAgainBtn'),
   modalCloseBtn: document.getElementById('modalCloseBtn'),
   // Legal links
@@ -619,23 +620,50 @@ function hideGameOverModal() {
   els.gameOverModal.hidden = true;
 }
 
-function shareScore() {
+// Share text - edit this to change what gets shared
+function getShareText() {
   const category = CATEGORIES[currentCategory];
   const categoryName = category ? category.name.split(' ').pop() : 'CFB';
   const accuracy = gamesPlayed ? Math.round((correctCount / gamesPlayed) * 100) : 0;
   
-  const shareText = `Just scored ${score} points in Guess the Winner (${categoryName})!\n\n` +
-    `Final Stats:\n` +
-    `• Score: ${score}\n` +
-    `• Best Score: ${bestScore}\n` +
+  return `Just scored ${score} points in Guess the Winner (${categoryName})!\n\n` +
     `• Lifetime Accuracy: ${accuracy}%\n\n` +
     `Can you beat my score?`;
+}
+
+function shareScore() {
+  const shareText = getShareText();
   
   // Create Twitter share URL
   const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(window.location.href)}`;
   
   // Open Twitter in a new window/tab
   window.open(twitterUrl, '_blank', 'width=550,height=420');
+}
+
+function shareViaSMS() {
+  const shareText = getShareText();
+  const url = window.location.href;
+  const fullText = `${shareText}\n\nPlay here: ${url}`;
+  
+  // Create SMS share URL (works on mobile devices)
+  const smsUrl = `sms:?body=${encodeURIComponent(fullText)}`;
+  
+  // Try to open SMS app
+  window.location.href = smsUrl;
+  
+  // Fallback: copy to clipboard if SMS doesn't work
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(fullText).then(() => {
+      alert('Share text copied to clipboard! Paste it in your messaging app.');
+    }).catch(() => {
+      // If clipboard fails, show the text in an alert
+      alert(`Share this text:\n\n${fullText}`);
+    });
+  } else {
+    // Fallback for browsers without clipboard API
+    alert(`Share this text:\n\n${fullText}`);
+  }
 }
 
 function playAgain() {
@@ -734,6 +762,7 @@ window.addEventListener('DOMContentLoaded', async () => {
 
   // Game Over Modal events
   els.shareScoreBtn.addEventListener('click', shareScore);
+  els.shareSMSBtn.addEventListener('click', shareViaSMS);
   els.playAgainBtn.addEventListener('click', playAgain);
   els.modalCloseBtn.addEventListener('click', hideGameOverModal);
 
