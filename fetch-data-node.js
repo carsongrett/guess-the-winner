@@ -8,6 +8,121 @@ const CONFIG = {
   seasons: [2025], // Fetch 2025 season data
 };
 
+// Custom mapping for teams with special naming conventions
+const CUSTOM_LOGO_MAP = {
+  // Teams with special characters or unique naming
+  "Texas A&M": "texasAM.png",
+  "Sam Houston": "samHoustonState.png", 
+  "Appalachian State": "appalachianState.png",
+  "Boston College": "boston.png",
+  "Miami (OH)": "miamiOH.png",
+  "San José State": "sanJoseState.png",
+  "Florida International": "floridaIntl.png",
+  "North Carolina A&T": "northCarolinaAT.png",
+  "Texas A&M-Commerce": "texasAMCommerce.png",
+  "UT Martin": "tennesseeMartin.png",
+  "UCF": "ucf.png",
+  "UAB": "uab.png",
+  "BYU": "byu.png",
+  "LSU": "lsu.png",
+  "Hawai'i": "hawaii.png",
+  "Southern Miss": "southernMississippi.png",
+  "UL Monroe": "louisianaMonroe.png",
+  "UTSA": "texasSanAntonio.png",
+  "UConn": "connecticut.png",
+  
+  // Additional mappings for consistency
+  "Louisiana": "louisianaLafayette.png",
+  "App State": "appalachianState.png",
+  "Miami Ohio": "miamiOH.png",
+  "San Jose State": "sanJoseState.png",
+  "Florida A&M": "floridaAM.png",
+  "North Carolina Central": "northCarolinaCentral.png",
+  "Texas Southern": "texasSouthern.png",
+  "Southern Illinois": "southernIllinois.png",
+  "Eastern Illinois": "easternIllinois.png",
+  "Eastern Kentucky": "easternKentucky.png",
+  "Eastern Michigan": "easternMichigan.png",
+  "Eastern Washington": "easternWashington.png",
+  "Northern Arizona": "northernArizona.png",
+  "Northern Colorado": "northernColorado.png",
+  "Northern Illinois": "northernIllinois.png",
+  "Northern Iowa": "northernIowa.png",
+  "Southern Utah": "southernUtah.png",
+  "Western Carolina": "westernCarolina.png",
+  "Western Illinois": "westernIllinois.png",
+  "Western Kentucky": "westernKentucky.png",
+  "Western Michigan": "westernMichigan.png",
+  "Middle Tennessee": "middleTennessee.png",
+  "Central Michigan": "centralMichigan.png",
+  "Central Arkansas": "centralArkansas.png",
+  "Central Connecticut": "centralConnecticut.png",
+  "South Alabama": "southAlabama.png",
+  "South Carolina": "southCarolina.png",
+  "South Carolina State": "southCarolinaState.png",
+  "South Dakota": "southDakota.png",
+  "South Dakota State": "southDakotaState.png",
+  "South Florida": "southFlorida.png",
+  "Southeast Missouri State": "southeastMissouriState.png",
+  "Southeastern Louisiana": "southeasternLouisiana.png",
+  "North Dakota": "northDakota.png",
+  "North Dakota State": "northDakotaState.png",
+  "North Carolina": "northCarolina.png",
+  "North Carolina A&T": "northCarolinaAT.png",
+  "North Carolina Central": "northCarolinaCentral.png",
+  "North Texas": "northTexas.png",
+  "Northwestern": "northwestern.png",
+  "Northwestern State": "northwesternState.png",
+  "Louisiana Tech": "LouisianaTech.png",
+  "Louisiana-Lafayette": "louisianaLafayette.png",
+  "Louisiana-Monroe": "louisianaMonroe.png",
+  "Louisiana Monroe": "louisianaMonroe.png",
+  "UL Lafayette": "louisianaLafayette.png",
+  "UL Monroe": "louisianaMonroe.png",
+  "UT Martin": "tennesseeMartin.png",
+  "UTEP": "utep.png",
+  "UTSA": "texasSanAntonio.png",
+  "Texas San Antonio": "texasSanAntonio.png",
+  "Texas A&M": "texasAM.png",
+  "Texas A&M-Commerce": "texasAMCommerce.png",
+  "Texas Southern": "texasSouthern.png",
+  "Texas State": "texasState.png",
+  "Texas Tech": "texasTech.png",
+  "San Diego": "sanDiego.png",
+  "San Diego State": "san-diego-state.png",
+  "San Jose State": "sanJoseState.png",
+  "San José State": "sanJoseState.png",
+  "Miami": "miami.png",
+  "Miami (OH)": "miamiOH.png",
+  "Miami Ohio": "miamiOH.png",
+  "Miami OH": "miamiOH.png",
+  "Florida A&M": "floridaAM.png",
+  "Florida Atlantic": "floridaAtlantic.png",
+  "Florida International": "floridaIntl.png",
+  "Florida State": "floridaState.png",
+  "Florida Tech": "floridaTech.png",
+  "Appalachian State": "appalachianState.png",
+  "App State": "appalachianState.png",
+  "Sam Houston": "samHoustonState.png",
+  "Sam Houston State": "samHoustonState.png",
+  "Boston College": "boston.png",
+  "Boston University": "boston.png",
+  "Hawai'i": "hawaii.png",
+  "Hawaii": "hawaii.png",
+  "Southern Miss": "southernMississippi.png",
+  "Southern Mississippi": "southernMississippi.png",
+  "UConn": "connecticut.png",
+  "Connecticut": "connecticut.png",
+  "UCF": "ucf.png",
+  "Central Florida": "ucf.png",
+  "UAB": "uab.png",
+  "Alabama-Birmingham": "uab.png",
+  "BYU": "byu.png",
+  "Brigham Young": "byu.png",
+  "LSU": "lsu.png",
+  "Louisiana State": "lsu.png"
+};
+
 // Make HTTPS request with proper headers
 function makeRequest(url, headers = {}) {
   return new Promise((resolve, reject) => {
@@ -134,10 +249,18 @@ function normalizeCFBDGame(row, teams) {
 function resolveTeam(name, score, teams) {
   const apiTeam = teams.find(t => t.school === name || t.abbreviation === name);
   
+  // Use custom mapping if available, otherwise generate standard path
+  let logoPath;
+  if (CUSTOM_LOGO_MAP[name]) {
+    logoPath = `icons/${CUSTOM_LOGO_MAP[name]}`;
+  } else {
+    logoPath = `icons/${(name || '').toLowerCase().replace(/\s+/g, '-')}.png`;
+  }
+  
   return {
     name: apiTeam ? apiTeam.school : name,
     abbr: apiTeam ? apiTeam.abbreviation : name.slice(0, 3).toUpperCase(),
-    logo: `icons/${(name || '').toLowerCase().replace(/\s+/g, '-')}.png`,
+    logo: logoPath,
     score
   };
 }
@@ -194,7 +317,7 @@ async function fetchAndSaveData() {
     
     console.log(`\n🎯 Total games: ${allGames.length}`);
     
-    // Generate teams mapping
+    // Generate teams mapping with correct logo paths
     const teamsMapping = {};
     allGames.forEach(game => {
       if (!teamsMapping[game.teamA.name]) {
@@ -207,6 +330,22 @@ async function fetchAndSaveData() {
         teamsMapping[game.teamB.name] = {
           abbr: game.teamB.abbr,
           logo: game.teamB.logo
+        };
+      }
+    });
+    
+    // Also add teams from API that might not be in games yet
+    teams.forEach(team => {
+      if (!teamsMapping[team.school]) {
+        let logoPath;
+        if (CUSTOM_LOGO_MAP[team.school]) {
+          logoPath = `icons/${CUSTOM_LOGO_MAP[team.school]}`;
+        } else {
+          logoPath = `icons/${team.school.toLowerCase().replace(/\s+/g, '-')}.png`;
+        }
+        teamsMapping[team.school] = {
+          abbr: team.abbreviation,
+          logo: logoPath
         };
       }
     });

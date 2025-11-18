@@ -17,7 +17,7 @@
   },
   "Sam Houston": {
     "abbr": "SHSU",
-    "logo": "icons/sam-houston.png"
+    "logo": "icons/samHoustonState.png"
   },
   "Western Kentucky": {
     "abbr": "WKU",
@@ -29,7 +29,7 @@
   },
   "Hawai'i": {
     "abbr": "HAW",
-    "logo": "icons/hawai'i.png"
+    "logo": "icons/hawaii.png"
   },
   "Boise State": {
     "abbr": "BOIS",
@@ -89,7 +89,7 @@
   },
   "Miami (OH)": {
     "abbr": "M-OH",
-    "logo": "icons/miami-(oh).png"
+    "logo": "icons/miamiOH.png"
   },
   "Wisconsin": {
     "abbr": "WIS",
@@ -145,7 +145,7 @@
   },
   "San José State": {
     "abbr": "SJSU",
-    "logo": "icons/san-josé-state.png"
+    "logo": "icons/sanJoseState.png"
   },
   "Ball State": {
     "abbr": "BALL",
@@ -193,7 +193,7 @@
   },
   "Southern Miss": {
     "abbr": "USM",
-    "logo": "icons/southern-miss.png"
+    "logo": "icons/southernMississippi.png"
   },
   "Toledo": {
     "abbr": "TOL",
@@ -253,11 +253,11 @@
   },
   "UTSA": {
     "abbr": "UTSA",
-    "logo": "icons/utsa.png"
+    "logo": "icons/texasSanAntonio.png"
   },
   "Texas A&M": {
     "abbr": "TA&M",
-    "logo": "icons/texas-a&m.png"
+    "logo": "icons/texasAM.png"
   },
   "Missouri State": {
     "abbr": "MOST",
@@ -305,7 +305,7 @@
   },
   "Louisiana": {
     "abbr": "UL",
-    "logo": "icons/louisiana.png"
+    "logo": "icons/louisianaLafayette.png"
   },
   "Eastern Michigan": {
     "abbr": "EMU",
@@ -401,7 +401,7 @@
   },
   "UConn": {
     "abbr": "CONN",
-    "logo": "icons/uconn.png"
+    "logo": "icons/connecticut.png"
   },
   "Iowa": {
     "abbr": "IOWA",
@@ -421,7 +421,7 @@
   },
   "Florida International": {
     "abbr": "FIU",
-    "logo": "icons/florida-international.png"
+    "logo": "icons/floridaIntl.png"
   },
   "Bowling Green": {
     "abbr": "BGSU",
@@ -501,11 +501,11 @@
   },
   "Boston College": {
     "abbr": "BC",
-    "logo": "icons/boston-college.png"
+    "logo": "icons/boston.png"
   },
   "Louisiana Tech": {
     "abbr": "LT",
-    "logo": "icons/louisiana-tech.png"
+    "logo": "icons/LouisianaTech.png"
   },
   "Vanderbilt": {
     "abbr": "VAN",
@@ -517,7 +517,7 @@
   },
   "UL Monroe": {
     "abbr": "ULM",
-    "logo": "icons/ul-monroe.png"
+    "logo": "icons/louisianaMonroe.png"
   },
   "Tulsa": {
     "abbr": "TLSA",
