@@ -74,6 +74,10 @@ const state = {
   answering: false
 };
 
+// Countdown timer for auto-advance
+let countdownTimer = null;
+let countdownSeconds = 3;
+
 // ============================================================================
 // LOCAL STORAGE UTILITIES
 // ============================================================================
@@ -153,6 +157,9 @@ function setButtonsEnabled(enabled) {
 // ============================================================================
 
 function renderGame(game) {
+  // Clear any existing countdown timer
+  clearCountdown();
+  
   state.current = game;
   state.answering = true;
   els.resultRow.hidden = true;
@@ -216,6 +223,9 @@ function handleGuess(choiceAbbr) {
 }
 
 function showResult(correct, g) {
+  // Clear any existing countdown timer
+  clearCountdown();
+  
   els.resultRow.hidden = false;
   
   // Populate score boxes with digital score bug
@@ -234,10 +244,8 @@ function showResult(correct, g) {
   // Clear any existing result classes
   els.resultRow.classList.remove('correct', 'wrong');
   
-  // Set text content
-  els.resultRow.textContent = correct
-    ? `Correct! ${winnerName(g)} won ${g.teamA.score}-${g.teamB.score}`
-    : `Wrong — ${winnerName(g)} won ${g.teamA.score}-${g.teamB.score}`;
+  // Set visual indicator (checkmark or X)
+  els.resultRow.textContent = correct ? '✓' : '✗';
   
   // Add appropriate CSS class for color
   els.resultRow.classList.add(correct ? 'correct' : 'wrong');
@@ -246,7 +254,8 @@ function showResult(correct, g) {
   
   // Change button text based on whether Game Over is shown
   if (els.gameOverText.hidden) {
-    els.nextBtn.textContent = 'Next';
+    // Start countdown for auto-advance (only if not game over)
+    startCountdown();
   } else {
     els.nextBtn.textContent = 'New Game';
   }
@@ -259,6 +268,9 @@ function winnerName(g) {
 }
 
 function nextGame() {
+  // Clear countdown timer when user manually clicks Next
+  clearCountdown();
+  
   const next = pickNextGame();
   if (!next) {
     // Reset session memory to allow repeats
@@ -280,10 +292,51 @@ function randomFromArray(arr) {
 }
 
 // ============================================================================
+// COUNTDOWN AUTO-ADVANCE
+// ============================================================================
+
+function startCountdown() {
+  // Reset countdown seconds
+  countdownSeconds = 3;
+  
+  // Update button text immediately
+  updateCountdownButton();
+  
+  // Start countdown interval (1 second per tick)
+  countdownTimer = setInterval(() => {
+    countdownSeconds--;
+    
+    if (countdownSeconds > 0) {
+      updateCountdownButton();
+    } else {
+      // Countdown finished, auto-advance
+      clearCountdown();
+      nextGame();
+    }
+  }, 1000);
+}
+
+function updateCountdownButton() {
+  els.nextBtn.textContent = `Next (${countdownSeconds})`;
+}
+
+function clearCountdown() {
+  if (countdownTimer) {
+    clearInterval(countdownTimer);
+    countdownTimer = null;
+  }
+  // Reset button text if countdown was active
+  if (els.nextBtn && !els.nextBtn.hidden && els.gameOverText.hidden) {
+    els.nextBtn.textContent = 'Next';
+  }
+}
+
+// ============================================================================
 // GAME CONTROL FUNCTIONS
 // ============================================================================
 
 function restart() {
+  clearCountdown();
   score = 0;
   strikes = 0;
   state.seenIds.clear();
@@ -293,6 +346,7 @@ function restart() {
 }
 
 function resetGame() {
+  clearCountdown();
   // Clear all localStorage data
   localStorage.removeItem('gtw.score');
   localStorage.removeItem('gtw.best');
@@ -551,6 +605,7 @@ function toggleCategoryDropdown() {
 }
 
 function switchCategory(categoryId) {
+  clearCountdown();
   const category = CATEGORIES[categoryId];
   if (!category || !category.available) {
     console.error('Category not available:', categoryId);
@@ -603,6 +658,9 @@ function showError(message) {
 }
 
 function showGameOverModal() {
+  // Stop countdown when game over modal appears
+  clearCountdown();
+  
   // Update modal content with current stats
   els.finalScore.textContent = score;
   els.bestScoreDisplay.textContent = bestScore;
@@ -618,6 +676,16 @@ function showGameOverModal() {
 
 function hideGameOverModal() {
   els.gameOverModal.hidden = true;
+  
+  // If game is over (strikes >= max), reset game state when closing modal
+  // This ensures "New Game" button works properly after closing modal
+  if (strikes >= CONFIG.maxStrikes) {
+    strikes = 0;
+    score = 0;
+    state.seenIds.clear();
+    els.gameOverText.hidden = true;
+    updateHeader();
+  }
 }
 
 // Share text - edit this to change what gets shared
@@ -667,6 +735,7 @@ function shareViaSMS() {
 }
 
 function playAgain() {
+  clearCountdown();
   // Reset game state
   strikes = 0;
   score = 0;

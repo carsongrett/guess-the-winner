@@ -363,8 +363,19 @@ html, body {
   margin-top: 10px;
   border-top: 1px solid var(--border);
   padding-top: 10px;
-  font-size: 14px;
+  font-size: 64px; /* Large, prominent symbol */
   text-align: center;
+  min-height: 80px; /* Reserve space for large symbol to prevent layout shift */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.result-row[hidden] {
+  display: flex !important; /* Override hidden attribute's display: none */
+  visibility: hidden; /* Hide but maintain space */
 }
 
 .result-row.correct { 
@@ -379,6 +390,7 @@ html, body {
   display: grid;
   place-items: center;
   margin-top: 10px;
+  min-height: 50px; /* Reserve space for Next button to prevent layout shift */
 }
 
 .next-btn {
@@ -387,6 +399,11 @@ html, body {
   border: 1px solid var(--fg);
   padding: 10px 16px;
   cursor: pointer;
+}
+
+.next-btn[hidden] {
+  display: block !important; /* Override hidden attribute's display: none */
+  visibility: hidden; /* Hide but maintain space */
 }
 
 .footnote {
