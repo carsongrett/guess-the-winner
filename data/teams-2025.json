@@ -47,14 +47,6 @@
     "abbr": "RUTG",
     "logo": "icons/rutgers.png"
   },
-  "East Carolina": {
-    "abbr": "ECU",
-    "logo": "icons/east-carolina.png"
-  },
-  "NC State": {
-    "abbr": "NCSU",
-    "logo": "icons/nc-state.png"
-  },
   "Jacksonville State": {
     "abbr": "JXST",
     "logo": "icons/jacksonville-state.png"
@@ -71,6 +63,14 @@
     "abbr": "AKR",
     "logo": "icons/akron.png"
   },
+  "East Carolina": {
+    "abbr": "ECU",
+    "logo": "icons/east-carolina.png"
+  },
+  "NC State": {
+    "abbr": "NCSU",
+    "logo": "icons/nc-state.png"
+  },
   "Buffalo": {
     "abbr": "BUF",
     "logo": "icons/buffalo.png"
@@ -78,14 +78,6 @@
   "Minnesota": {
     "abbr": "MINN",
     "logo": "icons/minnesota.png"
-  },
-  "Nebraska": {
-    "abbr": "NEB",
-    "logo": "icons/nebraska.png"
-  },
-  "Cincinnati": {
-    "abbr": "CIN",
-    "logo": "icons/cincinnati.png"
   },
   "Miami (OH)": {
     "abbr": "M-OH",
@@ -95,21 +87,13 @@
     "abbr": "WIS",
     "logo": "icons/wisconsin.png"
   },
-  "Western Michigan": {
-    "abbr": "WMU",
-    "logo": "icons/westernMichigan.png"
+  "Nebraska": {
+    "abbr": "NEB",
+    "logo": "icons/nebraska.png"
   },
-  "Michigan State": {
-    "abbr": "MSU",
-    "logo": "icons/michigan-state.png"
-  },
-  "App State": {
-    "abbr": "APP",
-    "logo": "icons/appalachianState.png"
-  },
-  "Charlotte": {
-    "abbr": "COLLE",
-    "logo": "icons/charlotte.png"
+  "Cincinnati": {
+    "abbr": "CIN",
+    "logo": "icons/cincinnati.png"
   },
   "Kennesaw State": {
     "abbr": "KENN",
@@ -118,6 +102,22 @@
   "Wake Forest": {
     "abbr": "WAKE",
     "logo": "icons/wake-forest.png"
+  },
+  "App State": {
+    "abbr": "APP",
+    "logo": "icons/appalachianState.png"
+  },
+  "Charlotte": {
+    "abbr": "CLT",
+    "logo": "icons/charlotte.png"
+  },
+  "Western Michigan": {
+    "abbr": "WMU",
+    "logo": "icons/westernMichigan.png"
+  },
+  "Michigan State": {
+    "abbr": "MSU",
+    "logo": "icons/michigan-state.png"
   },
   "Georgia Tech": {
     "abbr": "GT",
@@ -147,6 +147,22 @@
     "abbr": "SJSU",
     "logo": "icons/sanJoseState.png"
   },
+  "Texas": {
+    "abbr": "TEX",
+    "logo": "icons/texas.png"
+  },
+  "Ohio State": {
+    "abbr": "OSU",
+    "logo": "icons/ohio-state.png"
+  },
+  "Syracuse": {
+    "abbr": "SYR",
+    "logo": "icons/syracuse.png"
+  },
+  "Tennessee": {
+    "abbr": "TENN",
+    "logo": "icons/tennessee.png"
+  },
   "Mississippi State": {
     "abbr": "MSST",
     "logo": "icons/mississippi-state.png"
@@ -154,6 +170,14 @@
   "Southern Miss": {
     "abbr": "USM",
     "logo": "icons/southernMississippi.png"
+  },
+  "Florida Atlantic": {
+    "abbr": "FAU",
+    "logo": "icons/floridaAtlantic.png"
+  },
+  "Maryland": {
+    "abbr": "MD",
+    "logo": "icons/maryland.png"
   },
   "Ball State": {
     "abbr": "BALL",
@@ -170,30 +194,6 @@
   "Tulane": {
     "abbr": "TULN",
     "logo": "icons/tulane.png"
-  },
-  "Syracuse": {
-    "abbr": "SYR",
-    "logo": "icons/syracuse.png"
-  },
-  "Tennessee": {
-    "abbr": "TENN",
-    "logo": "icons/tennessee.png"
-  },
-  "Florida Atlantic": {
-    "abbr": "FAU",
-    "logo": "icons/floridaAtlantic.png"
-  },
-  "Maryland": {
-    "abbr": "MD",
-    "logo": "icons/maryland.png"
-  },
-  "Texas": {
-    "abbr": "TEX",
-    "logo": "icons/texas.png"
-  },
-  "Ohio State": {
-    "abbr": "OSU",
-    "logo": "icons/ohio-state.png"
   },
   "Toledo": {
     "abbr": "TOL",
@@ -219,6 +219,14 @@
     "abbr": "PSU",
     "logo": "icons/penn-state.png"
   },
+  "Marshall": {
+    "abbr": "MRSH",
+    "logo": "icons/marshall.png"
+  },
+  "Georgia": {
+    "abbr": "UGA",
+    "logo": "icons/georgia.png"
+  },
   "Alabama": {
     "abbr": "ALA",
     "logo": "icons/alabama.png"
@@ -234,14 +242,6 @@
   "Massachusetts": {
     "abbr": "MASS",
     "logo": "icons/massachusetts.png"
-  },
-  "Marshall": {
-    "abbr": "MRSH",
-    "logo": "icons/marshall.png"
-  },
-  "Georgia": {
-    "abbr": "UGA",
-    "logo": "icons/georgia.png"
   },
   "Coastal Carolina": {
     "abbr": "CCU",
@@ -259,14 +259,6 @@
     "abbr": "TA&M",
     "logo": "icons/texasAM.png"
   },
-  "UTEP": {
-    "abbr": "UTEP",
-    "logo": "icons/utep.png"
-  },
-  "Utah State": {
-    "abbr": "USU",
-    "logo": "icons/utah-state.png"
-  },
   "Missouri State": {
     "abbr": "MOST",
     "logo": "icons/missouri-state.png"
@@ -274,6 +266,14 @@
   "USC": {
     "abbr": "USC",
     "logo": "icons/usc.png"
+  },
+  "New Mexico": {
+    "abbr": "UNM",
+    "logo": "icons/new-mexico.png"
+  },
+  "Michigan": {
+    "abbr": "MICH",
+    "logo": "icons/michigan.png"
   },
   "LSU": {
     "abbr": "LSU",
@@ -283,13 +283,13 @@
     "abbr": "CLEM",
     "logo": "icons/clemson.png"
   },
-  "New Mexico": {
-    "abbr": "UNM",
-    "logo": "icons/new-mexico.png"
+  "UTEP": {
+    "abbr": "UTEP",
+    "logo": "icons/utep.png"
   },
-  "Michigan": {
-    "abbr": "MICH",
-    "logo": "icons/michigan.png"
+  "Utah State": {
+    "abbr": "USU",
+    "logo": "icons/utah-state.png"
   },
   "Georgia State": {
     "abbr": "GAST",
@@ -331,14 +331,6 @@
     "abbr": "ARIZ",
     "logo": "icons/arizona.png"
   },
-  "Colorado State": {
-    "abbr": "CSU",
-    "logo": "icons/colorado-state.png"
-  },
-  "Washington": {
-    "abbr": "WASH",
-    "logo": "icons/washington.png"
-  },
   "Utah": {
     "abbr": "UTAH",
     "logo": "icons/utah.png"
@@ -346,6 +338,14 @@
   "UCLA": {
     "abbr": "UCLA",
     "logo": "icons/ucla.png"
+  },
+  "Colorado State": {
+    "abbr": "CSU",
+    "logo": "icons/colorado-state.png"
+  },
+  "Washington": {
+    "abbr": "WASH",
+    "logo": "icons/washington.png"
   },
   "Virginia Tech": {
     "abbr": "VT",
@@ -383,6 +383,10 @@
     "abbr": "NIU",
     "logo": "icons/northernIllinois.png"
   },
+  "Pittsburgh": {
+    "abbr": "PITT",
+    "logo": "icons/pittsburgh.png"
+  },
   "Kent State": {
     "abbr": "KENT",
     "logo": "icons/kent-state.png"
@@ -391,13 +395,9 @@
     "abbr": "TTU",
     "logo": "icons/texasTech.png"
   },
-  "Iowa": {
-    "abbr": "IOWA",
-    "logo": "icons/iowa.png"
-  },
-  "UConn": {
-    "abbr": "CONN",
-    "logo": "icons/connecticut.png"
+  "SMU": {
+    "abbr": "SMU",
+    "logo": "icons/smu.png"
   },
   "Illinois": {
     "abbr": "ILL",
@@ -407,9 +407,9 @@
     "abbr": "DUKE",
     "logo": "icons/duke.png"
   },
-  "SMU": {
-    "abbr": "SMU",
-    "logo": "icons/smu.png"
+  "UConn": {
+    "abbr": "CONN",
+    "logo": "icons/connecticut.png"
   },
   "Liberty": {
     "abbr": "LIB",
@@ -419,25 +419,13 @@
     "abbr": "FIU",
     "logo": "icons/floridaIntl.png"
   },
-  "Pittsburgh": {
-    "abbr": "PITT",
-    "logo": "icons/pittsburgh.png"
+  "Iowa": {
+    "abbr": "IOWA",
+    "logo": "icons/iowa.png"
   },
-  "Oklahoma State": {
-    "abbr": "OKST",
-    "logo": "icons/oklahoma-state.png"
-  },
-  "Oregon": {
-    "abbr": "ORE",
-    "logo": "icons/oregon.png"
-  },
-  "Troy": {
-    "abbr": "TROY",
-    "logo": "icons/troy.png"
-  },
-  "Bowling Green": {
-    "abbr": "BGSU",
-    "logo": "icons/bowling-green.png"
+  "Missouri": {
+    "abbr": "MIZ",
+    "logo": "icons/missouri.png"
   },
   "UAB": {
     "abbr": "UAB",
@@ -447,25 +435,37 @@
     "abbr": "NAVY",
     "logo": "icons/navy.png"
   },
-  "Delaware": {
-    "abbr": "DEL",
-    "logo": "icons/delaware.png"
-  },
-  "Missouri": {
-    "abbr": "MIZ",
-    "logo": "icons/missouri.png"
-  },
   "North Texas": {
     "abbr": "UNT",
     "logo": "icons/northTexas.png"
   },
-  "West Virginia": {
-    "abbr": "WVU",
-    "logo": "icons/west-virginia.png"
+  "Oklahoma State": {
+    "abbr": "OKST",
+    "logo": "icons/oklahoma-state.png"
+  },
+  "Oregon": {
+    "abbr": "ORE",
+    "logo": "icons/oregon.png"
+  },
+  "Delaware": {
+    "abbr": "DEL",
+    "logo": "icons/delaware.png"
+  },
+  "Bowling Green": {
+    "abbr": "BGSU",
+    "logo": "icons/bowling-green.png"
+  },
+  "Troy": {
+    "abbr": "TROY",
+    "logo": "icons/troy.png"
   },
   "Middle Tennessee": {
     "abbr": "MTSU",
     "logo": "icons/middleTennessee.png"
+  },
+  "West Virginia": {
+    "abbr": "WVU",
+    "logo": "icons/west-virginia.png"
   },
   "Florida": {
     "abbr": "FLA",
@@ -483,25 +483,25 @@
     "abbr": "USA",
     "logo": "icons/southAlabama.png"
   },
-  "Army": {
-    "abbr": "ARMY",
-    "logo": "icons/army.png"
-  },
   "Memphis": {
     "abbr": "MEM",
     "logo": "icons/memphis.png"
+  },
+  "Army": {
+    "abbr": "ARMY",
+    "logo": "icons/army.png"
   },
   "Houston": {
     "abbr": "HOU",
     "logo": "icons/houston.png"
   },
-  "Arizona State": {
-    "abbr": "ASU",
-    "logo": "icons/arizona-state.png"
-  },
   "Oklahoma": {
     "abbr": "OU",
     "logo": "icons/oklahoma.png"
+  },
+  "Arizona State": {
+    "abbr": "ASU",
+    "logo": "icons/arizona-state.png"
   },
   "Louisiana Tech": {
     "abbr": "LT",
@@ -527,6 +527,10 @@
     "abbr": "NMSU",
     "logo": "icons/new-mexico-state.png"
   },
+  "BYU": {
+    "abbr": "BYU",
+    "logo": "icons/byu.png"
+  },
   "San Diego State": {
     "abbr": "SDSU",
     "logo": "icons/san-diego-state.png"
@@ -534,10 +538,6 @@
   "Washington State": {
     "abbr": "WSU",
     "logo": "icons/washington-state.png"
-  },
-  "BYU": {
-    "abbr": "BYU",
-    "logo": "icons/byu.png"
   },
   "Air Force": {
     "abbr": "AF",
@@ -1388,7 +1388,7 @@
     "logo": "icons/east-texas-baptist-university.png"
   },
   "Edinboro University": {
-    "abbr": null,
+    "abbr": "EDI",
     "logo": "icons/edinboro-university.png"
   },
   "Edward Waters": {
@@ -2288,7 +2288,7 @@
     "logo": "icons/minnesota-crookston.png"
   },
   "Minnesota Duluth": {
-    "abbr": null,
+    "abbr": "UMD",
     "logo": "icons/minnesota-duluth.png"
   },
   "Minnesota Morris": {
@@ -2942,6 +2942,10 @@
   "Simon Fraser": {
     "abbr": "SIM",
     "logo": "icons/simon-fraser.png"
+  },
+  "Simpson College": {
+    "abbr": null,
+    "logo": "icons/simpson-college.png"
   },
   "Simpson College (IA)": {
     "abbr": "SIMPS",
@@ -6976,7 +6980,7 @@
     "logo": "icons/texas-military.png"
   },
   "Thiel": {
-    "abbr": null,
+    "abbr": "THIEL",
     "logo": "icons/thiel.png"
   },
   "Third Air Force": {
